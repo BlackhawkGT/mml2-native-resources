@@ -1,0 +1,39 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 18,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 6,
+   "end": 93,
+   "text": "Babu! Babu Babu!"
+  },
+  {
+   "start": 141,
+   "end": 165,
+   "text": "Babu?"
+  },
+  {
+   "start": 205,
+   "end": 235,
+   "text": "The Key!"
+  },
+  {
+   "start": 309,
+   "end": 384,
+   "text": "Babuuuuu!"
+  },
+  {
+   "start": 421,
+   "end": 558,
+   "text": "Mega Man, the key signal is getting weaker! What happened?!"
+  },
+  {
+   "start": 566,
+   "end": 596,
+   "text": "No!"
+  }
+ ],
+ "edited": true
+}

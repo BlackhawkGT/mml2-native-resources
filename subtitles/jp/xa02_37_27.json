@@ -1,0 +1,53 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 27,
+ "audio_seconds": 15.54,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 99,
+   "end": 143,
+   "text": "ええい、ジャマだ！"
+  },
+  {
+   "start": 228,
+   "end": 244,
+   "text": "あぁっ！"
+  },
+  {
+   "start": 254,
+   "end": 306,
+   "text": "こ、コントロール不能！！",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "ふ"
+    },
+    {
+     "index": 9,
+     "reading": "のう"
+    }
+   ]
+  },
+  {
+   "start": 308,
+   "end": 362,
+   "text": "うわ～！　きゃー！　バブーっ！"
+  },
+  {
+   "start": 412,
+   "end": 463,
+   "text": "次は、お前だ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "つきが"
+    },
+    {
+     "index": 4,
+     "reading": "まえ"
+    }
+   ]
+  }
+ ]
+}

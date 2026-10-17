@@ -1,0 +1,84 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 16,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 1,
+   "end": 120,
+   "text": "Mega Man, did you see that? That woman? She was my mother!"
+  },
+  {
+   "start": 120,
+   "end": 150,
+   "text": "Huh?"
+  },
+  {
+   "start": 162,
+   "end": 339,
+   "text": "But how? Why? My mother wouldn't do anything like that, would she?"
+  },
+  {
+   "start": 346,
+   "end": 378,
+   "text": "Let's find out!"
+  },
+  {
+   "start": 378,
+   "end": 415,
+   "text": "W-what?"
+  },
+  {
+   "start": 421,
+   "end": 532,
+   "text": "Let's just go there and we can find out for ourselves."
+  },
+  {
+   "start": 556,
+   "end": 586,
+   "text": "But..."
+  },
+  {
+   "start": 586,
+   "end": 674,
+   "text": "It's the only way to be sure, you know?"
+  },
+  {
+   "start": 675,
+   "end": 705,
+   "text": "Oh..."
+  },
+  {
+   "start": 705,
+   "end": 772,
+   "text": "I guess you're right."
+  },
+  {
+   "start": 826,
+   "end": 877,
+   "text": "Hmm, let's go!"
+  },
+  {
+   "start": 914,
+   "end": 977,
+   "text": "I'll get changed, then get the engine started."
+  },
+  {
+   "start": 977,
+   "end": 1024,
+   "text": "Can you clean up the dishes for me?"
+  },
+  {
+   "start": 1024,
+   "end": 1058,
+   "text": "Thanks!"
+  },
+  {
+   "start": 1067,
+   "end": 1097,
+   "text": "Hmm, hmm."
+  }
+ ],
+ "edited": true
+}

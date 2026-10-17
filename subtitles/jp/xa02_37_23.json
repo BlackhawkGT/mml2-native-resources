@@ -1,0 +1,57 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 23,
+ "audio_seconds": 8.52,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 66,
+   "text": "フラッター号をカイゾウするのに",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "こがう"
+    }
+   ]
+  },
+  {
+   "start": 67,
+   "end": 130,
+   "text": "けっこうお金かかっちゃって……",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "かね"
+    }
+   ]
+  },
+  {
+   "start": 145,
+   "end": 259,
+   "text": "ごめんね、ロックの装備、全部売っちゃった",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "そう"
+    },
+    {
+     "index": 10,
+     "reading": "ひが"
+    },
+    {
+     "index": 12,
+     "reading": "せがん"
+    },
+    {
+     "index": 13,
+     "reading": "ふが"
+    },
+    {
+     "index": 14,
+     "reading": "う"
+    }
+   ]
+  }
+ ]
+}

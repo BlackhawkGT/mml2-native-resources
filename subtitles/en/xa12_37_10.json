@@ -1,0 +1,99 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 10,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 42,
+   "end": 242,
+   "text": "Hey, Teisel, you heard Bola. You can do the rest of it yourselves. See you around."
+  },
+  {
+   "start": 242,
+   "end": 351,
+   "text": "Hey, hey, wait! Hey, Klaymoor!"
+  },
+  {
+   "start": 351,
+   "end": 463,
+   "text": "Who cares? Let him go. That leaves more for us."
+  },
+  {
+   "start": 463,
+   "end": 510,
+   "text": "What? What?!"
+  },
+  {
+   "start": 511,
+   "end": 631,
+   "text": "Come on, Teisel, stop your whining and start acting like a man."
+  },
+  {
+   "start": 635,
+   "end": 733,
+   "text": "Why do I put up with that wimp? Who does he think he is,"
+  },
+  {
+   "start": 733,
+   "end": 814,
+   "text": "anyway, talking to me like that?"
+  },
+  {
+   "start": 834,
+   "end": 948,
+   "text": "Oh, this is what happens when you don't have any money."
+  },
+  {
+   "start": 948,
+   "end": 1039,
+   "text": "We have to scrounge for parts to build our machines."
+  },
+  {
+   "start": 1039,
+   "end": 1136,
+   "text": "We have to ally ourselves with people like that."
+  },
+  {
+   "start": 1143,
+   "end": 1223,
+   "text": "We'll never win like this."
+  },
+  {
+   "start": 1238,
+   "end": 1380,
+   "text": "He's here! It's Mega Man! He's using a train, too!"
+  },
+  {
+   "start": 1413,
+   "end": 1450,
+   "text": "Here he comes."
+  },
+  {
+   "start": 1450,
+   "end": 1528,
+   "text": "We can start moving any time. Kike!"
+  },
+  {
+   "start": 1545,
+   "end": 1624,
+   "text": "Please do try to keep up, Teisel."
+  },
+  {
+   "start": 1633,
+   "end": 1720,
+   "text": "I'll make you eat those words, Glyde!"
+  },
+  {
+   "start": 1726,
+   "end": 1834,
+   "text": "All right, boys! I don't want to see any slacking. Let's move out!"
+  },
+  {
+   "start": 1834,
+   "end": 1910,
+   "text": "Gemeinschaft! Full speed ahead!"
+  }
+ ],
+ "edited": true
+}

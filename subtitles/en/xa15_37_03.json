@@ -1,0 +1,44 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 3,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 1,
+   "end": 111,
+   "text": "Mega Man, we're in trouble! They're attacking the dock, too!"
+  },
+  {
+   "start": 111,
+   "end": 145,
+   "text": "Roll, get out of there!"
+  },
+  {
+   "start": 145,
+   "end": 235,
+   "text": "I can't! We're not finished with the repairs!"
+  },
+  {
+   "start": 235,
+   "end": 312,
+   "text": "If I go help Roll, this side will be defenseless!"
+  },
+  {
+   "start": 312,
+   "end": 377,
+   "text": "Don't worry, Mega Man. Leave it to me."
+  },
+  {
+   "start": 689,
+   "end": 748,
+   "text": "I'll take care of them. You get to the dock."
+  },
+  {
+   "start": 748,
+   "end": 798,
+   "text": "Thanks! Good luck!"
+  }
+ ],
+ "edited": true
+}

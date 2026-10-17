@@ -1,0 +1,109 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 11,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 58,
+   "end": 185,
+   "text": "Has your research given you any clue as to what exactly the Mother Lode might be?"
+  },
+  {
+   "start": 185,
+   "end": 232,
+   "text": "That's a good question."
+  },
+  {
+   "start": 251,
+   "end": 391,
+   "text": "Personally, I believe it to be something of tremendous importance to mankind."
+  },
+  {
+   "start": 400,
+   "end": 498,
+   "text": "Something that will help us better ourselves and the world."
+  },
+  {
+   "start": 514,
+   "end": 649,
+   "text": "Perhaps a new energy source, more powerful than our current refractors."
+  },
+  {
+   "start": 649,
+   "end": 775,
+   "text": "And you, Professor? Tell me, what do you think?"
+  },
+  {
+   "start": 801,
+   "end": 869,
+   "text": "Well, I think..."
+  },
+  {
+   "start": 894,
+   "end": 964,
+   "text": "Ma- Matilda!"
+  },
+  {
+   "start": 1024,
+   "end": 1098,
+   "text": "You... you're alive!"
+  },
+  {
+   "start": 1159,
+   "end": 1301,
+   "text": "That's her! That's the one who stuffed me into that locker!"
+  },
+  {
+   "start": 1367,
+   "end": 1439,
+   "text": "Has it occurred to you that this great lost"
+  },
+  {
+   "start": 1439,
+   "end": 1532,
+   "text": "treasure might not be what you think it is?"
+  },
+  {
+   "start": 1535,
+   "end": 1587,
+   "text": "Keep your eyes on her."
+  },
+  {
+   "start": 1608,
+   "end": 1711,
+   "text": "What happens to you is no concern of mine."
+  },
+  {
+   "start": 1725,
+   "end": 1801,
+   "text": "Still, I'll give you this warning."
+  },
+  {
+   "start": 1818,
+   "end": 1969,
+   "text": "What you call the Mother Lode is not what you think it might be."
+  },
+  {
+   "start": 2001,
+   "end": 2104,
+   "text": "No, it's not a treasure at all."
+  },
+  {
+   "start": 2133,
+   "end": 2205,
+   "text": "It's a catastrophe waiting to happen!"
+  },
+  {
+   "start": 2244,
+   "end": 2274,
+   "text": "Gatz!"
+  },
+  {
+   "start": 2415,
+   "end": 2532,
+   "text": "Don't move! Stop! Hold your fire! Cease fire!"
+  }
+ ],
+ "edited": true
+}

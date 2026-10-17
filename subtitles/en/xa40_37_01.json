@@ -1,0 +1,99 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 1,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 148,
+   "end": 283,
+   "text": "I could have executed the carbon reinitialization program at any time,"
+  },
+  {
+   "start": 283,
+   "end": 330,
+   "text": "but I chose not to."
+  },
+  {
+   "start": 448,
+   "end": 495,
+   "text": "Do you know why?"
+  },
+  {
+   "start": 550,
+   "end": 634,
+   "text": "Unlike you, I cannot act against the system."
+  },
+  {
+   "start": 634,
+   "end": 736,
+   "text": "I can only act within the parameters it defines for me."
+  },
+  {
+   "start": 736,
+   "end": 850,
+   "text": "Indeed, I cannot think of anything beyond the system's limits."
+  },
+  {
+   "start": 850,
+   "end": 930,
+   "text": "That is why I cannot comprehend what could have"
+  },
+  {
+   "start": 930,
+   "end": 1023,
+   "text": "motivated the Master to attempt to destroy the system."
+  },
+  {
+   "start": 1060,
+   "end": 1114,
+   "text": "I am jealous of you."
+  },
+  {
+   "start": 1119,
+   "end": 1158,
+   "text": "You were close to the Master."
+  },
+  {
+   "start": 1158,
+   "end": 1269,
+   "text": "You understood his thoughts in a way I will never be able to."
+  },
+  {
+   "start": 1271,
+   "end": 1337,
+   "text": "Yuna chose to remove herself from the system,"
+  },
+  {
+   "start": 1337,
+   "end": 1413,
+   "text": "even though she is like myself, Mother unit."
+  },
+  {
+   "start": 1413,
+   "end": 1467,
+   "text": "I cannot do that."
+  },
+  {
+   "start": 1467,
+   "end": 1551,
+   "text": "I've waited for you, whom the Master loved."
+  },
+  {
+   "start": 1634,
+   "end": 1771,
+   "text": "Perhaps by defeating you, who is so sympathetic to the Master's desires,"
+  },
+  {
+   "start": 1771,
+   "end": 1877,
+   "text": "I can purge myself of these troublesome emotions."
+  },
+  {
+   "start": 1994,
+   "end": 2158,
+   "text": "Come then Mega Man Trigger! Show me what a First Class Purifier is capable of!"
+  }
+ ],
+ "edited": true
+}

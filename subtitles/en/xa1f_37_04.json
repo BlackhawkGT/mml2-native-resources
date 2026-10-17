@@ -1,0 +1,18 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 4,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 23,
+   "end": 124,
+   "text": "What do you want? If you want to help us, fine,"
+  },
+  {
+   "start": 124,
+   "end": 260,
+   "text": "just say so. Otherwise, stay out of our way. Well?"
+  }
+ ]
+}

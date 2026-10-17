@@ -1,0 +1,195 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 5,
+ "audio_seconds": 53.94,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 19,
+   "end": 107,
+   "text": "あいつ、入っていきやがったが",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "はい"
+    }
+   ]
+  },
+  {
+   "start": 112,
+   "end": 198,
+   "text": "こんなところに封印の鍵が",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "ふう"
+    },
+    {
+     "index": 8,
+     "reading": "いん"
+    },
+    {
+     "index": 10,
+     "reading": "かきが"
+    }
+   ]
+  },
+  {
+   "start": 200,
+   "end": 293,
+   "text": "ホントにあると思うか？　ボーラ",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 312,
+   "end": 428,
+   "text": "ん？　おい、ボーラいるのか？"
+  },
+  {
+   "start": 430,
+   "end": 511,
+   "text": "ん？　なにか言ったか？",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 530,
+   "end": 607,
+   "text": "なにか、じゃねぇ…ったく"
+  },
+  {
+   "start": 626,
+   "end": 710,
+   "text": "「大いなる遺産」が見つかるかも知れないんだぜ",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "おお"
+    },
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 6,
+     "reading": "さん"
+    },
+    {
+     "index": 9,
+     "reading": "み"
+    },
+    {
+     "index": 15,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 710,
+   "end": 760,
+   "text": "キアイ入れろよ！",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 777,
+   "end": 840,
+   "text": "キョーミね～な～"
+  },
+  {
+   "start": 840,
+   "end": 946,
+   "text": "おれは、もう遊んでくらせるだけの金、タメたんだ",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "あそ"
+    },
+    {
+     "index": 16,
+     "reading": "かね"
+    }
+   ]
+  },
+  {
+   "start": 946,
+   "end": 1039,
+   "text": "そろそろインタイさせてくれよ、バンコ"
+  },
+  {
+   "start": 1041,
+   "end": 1089,
+   "text": "そう言うなって",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 1089,
+   "end": 1188,
+   "text": "「大いなる遺産」は、おれのユメなんだよ",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "おお"
+    },
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 6,
+     "reading": "さん"
+    }
+   ]
+  },
+  {
+   "start": 1188,
+   "end": 1249,
+   "text": "じゃ、ここは頼んだぜ",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "たの"
+    }
+   ]
+  },
+  {
+   "start": 1251,
+   "end": 1337,
+   "text": "おれは、ちょいとほか当たってみるわ",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "あ"
+    }
+   ]
+  },
+  {
+   "start": 1389,
+   "end": 1429,
+   "text": "ヘイヘイ"
+  },
+  {
+   "start": 1435,
+   "end": 1554,
+   "text": "まったく、ごうよくジジイにはかなわねぇぜ"
+  }
+ ]
+}

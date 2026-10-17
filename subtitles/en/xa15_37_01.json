@@ -1,0 +1,13 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 1,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 0,
+   "end": 135,
+   "text": "No! I won't let them have the key! No! We'll take you with us!"
+  }
+ ]
+}

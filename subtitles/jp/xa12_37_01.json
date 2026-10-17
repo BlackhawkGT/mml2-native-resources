@@ -1,0 +1,50 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 1,
+ "audio_seconds": 17.74,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 15,
+   "end": 79,
+   "text": "おぉ、こえ～こえ～"
+  },
+  {
+   "start": 95,
+   "end": 135,
+   "text": "やるね～兄さん",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "にい"
+    }
+   ]
+  },
+  {
+   "start": 171,
+   "end": 254,
+   "text": "やっぱり、トシはとりたくねーなぁ"
+  },
+  {
+   "start": 323,
+   "end": 393,
+   "text": "ひとイキついたら、またあそぼーぜー"
+  },
+  {
+   "start": 403,
+   "end": 448,
+   "text": "それまで、死ぬなよ",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 461,
+   "end": 507,
+   "text": "じゃ～な"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 4,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 25,
+   "end": 124,
+   "text": "That's it's, go! Keep going!"
+  },
+  {
+   "start": 397,
+   "end": 564,
+   "text": "Oh, that's the tenth time we've tried. Maybe we should just give up."
+  },
+  {
+   "start": 631,
+   "end": 742,
+   "text": "I got all excited when I heard that What's-His-Name the Monkey came"
+  },
+  {
+   "start": 742,
+   "end": 851,
+   "text": "back from outer space and was going to give us ancient technology."
+  },
+  {
+   "start": 943,
+   "end": 1053,
+   "text": "But it just doesn't seem to live up to all the hype."
+  },
+  {
+   "start": 1054,
+   "end": 1174,
+   "text": "Hmm, going to the stars. A task not easily undertaken."
+  },
+  {
+   "start": 1174,
+   "end": 1245,
+   "text": "There's bound to be difficulties."
+  },
+  {
+   "start": 1251,
+   "end": 1336,
+   "text": "Yes, but it looks like they're on the right track to me."
+  }
+ ],
+ "edited": true
+}

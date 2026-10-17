@@ -1,0 +1,86 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 12,
+ "audio_seconds": 27.82,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 25,
+   "end": 141,
+   "text": "くっそぅ、またこのパターンかよ～"
+  },
+  {
+   "start": 141,
+   "end": 262,
+   "text": "あっつい、あっついですぅ～、トロンさま火が～",
+   "ruby": [
+    {
+     "index": 19,
+     "reading": "ひ"
+    }
+   ]
+  },
+  {
+   "start": 269,
+   "end": 348,
+   "text": "お兄さま、早く脱出を～っ！",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "にい"
+    },
+    {
+     "index": 5,
+     "reading": "はや"
+    },
+    {
+     "index": 7,
+     "reading": "たがっ"
+    },
+    {
+     "index": 8,
+     "reading": "しゅつ"
+    }
+   ]
+  },
+  {
+   "start": 360,
+   "end": 451,
+   "text": "いいか、おぼえとけ青いの！",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "あお"
+    }
+   ]
+  },
+  {
+   "start": 455,
+   "end": 571,
+   "text": "オレたちボーン一家は、地のハテまでお前を……",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "いっ"
+    },
+    {
+     "index": 8,
+     "reading": "か"
+    },
+    {
+     "index": 11,
+     "reading": "ち"
+    },
+    {
+     "index": 18,
+     "reading": "まえ"
+    }
+   ]
+  },
+  {
+   "start": 611,
+   "end": 733,
+   "text": "バブ～！　うお～！　きゃ～！　ひーっ！"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 11,
+ "audio_seconds": 8.78,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 31,
+   "end": 113,
+   "text": "あ～、来てくれたんですねぇ",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 198,
+   "end": 226,
+   "text": "やっちまえーっ！"
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 9,
+ "audio_seconds": 67.0,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 165,
+   "end": 247,
+   "text": "主砲、まだ直んねぇのかよ～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しゅ"
+    },
+    {
+     "index": 1,
+     "reading": "ほう"
+    },
+    {
+     "index": 5,
+     "reading": "なお"
+    }
+   ]
+  },
+  {
+   "start": 260,
+   "end": 317,
+   "text": "ったく、弾はモクヒョウを外して",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "たま"
+    },
+    {
+     "index": 12,
+     "reading": "はすが"
+    }
+   ]
+  },
+  {
+   "start": 317,
+   "end": 361,
+   "text": "街外れに落ちるわ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "まち"
+    },
+    {
+     "index": 1,
+     "reading": "はすが"
+    },
+    {
+     "index": 4,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 361,
+   "end": 454,
+   "text": "一発撃っただけで砲身はぶっ壊れるわ……",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いっ"
+    },
+    {
+     "index": 1,
+     "reading": "はぎつ"
+    },
+    {
+     "index": 2,
+     "reading": "う"
+    },
+    {
+     "index": 8,
+     "reading": "ほう"
+    },
+    {
+     "index": 9,
+     "reading": "しん"
+    },
+    {
+     "index": 13,
+     "reading": "こわ"
+    }
+   ]
+  },
+  {
+   "start": 462,
+   "end": 529,
+   "text": "ロクなもんじゃねぇな～"
+  },
+  {
+   "start": 543,
+   "end": 597,
+   "text": "まだみ調整だっていうのに",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "ちょう"
+    },
+    {
+     "index": 4,
+     "reading": "せい"
+    }
+   ]
+  },
+  {
+   "start": 603,
+   "end": 654,
+   "text": "あんたがムリヤリ撃たせるから",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "う"
+    }
+   ]
+  },
+  {
+   "start": 654,
+   "end": 766,
+   "text": "大砲どころか動力ろまで落ちちゃったじゃない",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たい"
+    },
+    {
+     "index": 1,
+     "reading": "ほう"
+    },
+    {
+     "index": 6,
+     "reading": "とがう"
+    },
+    {
+     "index": 7,
+     "reading": "りょく"
+    },
+    {
+     "index": 11,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 779,
+   "end": 866,
+   "text": "さ、もう直ったから、先を急ぎましょ",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "なお"
+    },
+    {
+     "index": 10,
+     "reading": "さき"
+    },
+    {
+     "index": 12,
+     "reading": "いそ"
+    }
+   ]
+  },
+  {
+   "start": 878,
+   "end": 934,
+   "text": "こんなところでグズグズしてたら"
+  },
+  {
+   "start": 934,
+   "end": 1004,
+   "text": "街につく前に日がくれちゃうわ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "まち"
+    },
+    {
+     "index": 4,
+     "reading": "まえ"
+    },
+    {
+     "index": 6,
+     "reading": "ひ"
+    }
+   ]
+  },
+  {
+   "start": 1096,
+   "end": 1209,
+   "text": "なんだこいつら…やる気あるのか？",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 1259,
+   "end": 1388,
+   "text": "バンコ…お前こそ、やる気ありすぎだぜ",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "まえ"
+    },
+    {
+     "index": 11,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 1415,
+   "end": 1494,
+   "text": "だいたい、大の大人たちがよってたかって",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "たがい"
+    },
+    {
+     "index": 7,
+     "reading": "おと"
+    },
+    {
+     "index": 8,
+     "reading": "な"
+    }
+   ]
+  },
+  {
+   "start": 1494,
+   "end": 1557,
+   "text": "あんな子どもにやられちまって…",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "こ"
+    }
+   ]
+  },
+  {
+   "start": 1558,
+   "end": 1639,
+   "text": "情けないと思わねぇのか？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "なさ"
+    },
+    {
+     "index": 5,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 1654,
+   "end": 1708,
+   "text": "おれはおりるぜ"
+  },
+  {
+   "start": 1749,
+   "end": 1827,
+   "text": "ちょ、ちょっとまてよボーラ！"
+  },
+  {
+   "start": 1837,
+   "end": 1946,
+   "text": "……ちっ、ここらがシオドキかもな"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 2,
+ "audio_seconds": 14.21,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 166,
+   "end": 221,
+   "text": "アハ　ここだー"
+  },
+  {
+   "start": 246,
+   "end": 306,
+   "text": "ここなら、３人でキョウリョクすれば",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "にん"
+    }
+   ]
+  },
+  {
+   "start": 306,
+   "end": 392,
+   "text": "中に入れんだなー　アハ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "なか"
+    },
+    {
+     "index": 2,
+     "reading": "はい"
+    }
+   ]
+  }
+ ]
+}

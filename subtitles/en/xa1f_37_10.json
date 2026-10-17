@@ -1,0 +1,99 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 10,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 312,
+   "end": 377,
+   "text": "Well, there goes another Gu-"
+  },
+  {
+   "start": 403,
+   "end": 433,
+   "text": "Gustaff!"
+  },
+  {
+   "start": 442,
+   "end": 571,
+   "text": "But it doesn't matter. You're too late. We won!"
+  },
+  {
+   "start": 571,
+   "end": 656,
+   "text": "Bonne on his way back to the surface with the key."
+  },
+  {
+   "start": 680,
+   "end": 820,
+   "text": "What? Why is your face red? Why is everyone looking at me that way?"
+  },
+  {
+   "start": 820,
+   "end": 1002,
+   "text": "Um, Miss Tron, your clothes have been kind of ripped off."
+  },
+  {
+   "start": 1012,
+   "end": 1091,
+   "text": "Actually, your clothes are um... Gone."
+  },
+  {
+   "start": 1104,
+   "end": 1199,
+   "text": "What..? Huh? Ah! Ah! You..."
+  },
+  {
+   "start": 1199,
+   "end": 1302,
+   "text": "You dummies! Why didn't you tell me before?"
+  },
+  {
+   "start": 1310,
+   "end": 1363,
+   "text": "Retreat! Retreat!"
+  },
+  {
+   "start": 1363,
+   "end": 1393,
+   "text": "Roger!"
+  },
+  {
+   "start": 1462,
+   "end": 1529,
+   "text": "Mega Man! Mega Man!"
+  },
+  {
+   "start": 1544,
+   "end": 1594,
+   "text": "Huh? What?"
+  },
+  {
+   "start": 1598,
+   "end": 1661,
+   "text": "Thank goodness you're alright."
+  },
+  {
+   "start": 1661,
+   "end": 1770,
+   "text": "Now that the jamming stopped, I can spot for you again."
+  },
+  {
+   "start": 1774,
+   "end": 1853,
+   "text": "By the way, I've been watching my monitor,"
+  },
+  {
+   "start": 1853,
+   "end": 1978,
+   "text": "and there's a signal that looks like the key moving slowly through the ruins."
+  },
+  {
+   "start": 1978,
+   "end": 2039,
+   "text": "Uh-oh! I'd better hurry!"
+  }
+ ],
+ "edited": true
+}

@@ -1,0 +1,29 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 1,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 9,
+   "end": 135,
+   "text": "Hey, you're tougher than you look, little man."
+  },
+  {
+   "start": 222,
+   "end": 278,
+   "text": "I must be getting old."
+  },
+  {
+   "start": 332,
+   "end": 404,
+   "text": "I'll be back once I catch my second wind."
+  },
+  {
+   "start": 404,
+   "end": 528,
+   "text": "Try not to get killed before then, alright? See ya."
+  }
+ ],
+ "edited": true
+}

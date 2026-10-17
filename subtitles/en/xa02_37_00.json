@@ -1,0 +1,99 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 0,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 1374,
+   "end": 1404,
+   "text": "Barrell."
+  },
+  {
+   "start": 1561,
+   "end": 1649,
+   "text": "I was thinking we should get started soon."
+  },
+  {
+   "start": 1824,
+   "end": 1906,
+   "text": "Hard to believe it's been ten years since"
+  },
+  {
+   "start": 1906,
+   "end": 1985,
+   "text": "your daughter and son-in-law were lost here."
+  },
+  {
+   "start": 2002,
+   "end": 2064,
+   "text": "What were they thinking,"
+  },
+  {
+   "start": 2068,
+   "end": 2232,
+   "text": "leaving their daughter behind and going to such a dangerous place?"
+  },
+  {
+   "start": 2327,
+   "end": 2503,
+   "text": "Are you sure you won't change your mind? Are you still determined to go back there?"
+  },
+  {
+   "start": 2514,
+   "end": 2576,
+   "text": "It's too late to turn back now."
+  },
+  {
+   "start": 2590,
+   "end": 2746,
+   "text": "I've spent my entire life working toward this. I can't turn back."
+  },
+  {
+   "start": 2747,
+   "end": 2880,
+   "text": "Mr. Werner Von Bluecher, Mr. Werner Von Bluecher, please report to Central Hall."
+  },
+  {
+   "start": 2880,
+   "end": 2948,
+   "text": "Well, then I'll go on ahead, alright?"
+  },
+  {
+   "start": 3056,
+   "end": 3150,
+   "text": "I guess Roll decided not to come then."
+  },
+  {
+   "start": 3185,
+   "end": 3253,
+   "text": "Hmm? Oh, yes."
+  },
+  {
+   "start": 3257,
+   "end": 3332,
+   "text": "She's a little upset at the thought of someone"
+  },
+  {
+   "start": 3332,
+   "end": 3414,
+   "text": "finding the Mother Lode before she does."
+  },
+  {
+   "start": 3426,
+   "end": 3538,
+   "text": "After all, she's been looking for it all her life."
+  },
+  {
+   "start": 3557,
+   "end": 3692,
+   "text": "I've always been fond of Roll, you know that. But all's fair in love and war."
+  },
+  {
+   "start": 3903,
+   "end": 3938,
+   "text": "*sigh*"
+  }
+ ],
+ "edited": true
+}

@@ -1,0 +1,34 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 13,
+ "audio_seconds": 11.76,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 148,
+   "end": 178,
+   "text": "鍵がない",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かきが"
+    }
+   ]
+  },
+  {
+   "start": 238,
+   "end": 283,
+   "text": "間に合うか……",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ま"
+    },
+    {
+     "index": 2,
+     "reading": "あ"
+    }
+   ]
+  }
+ ]
+}

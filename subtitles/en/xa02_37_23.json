@@ -1,0 +1,19 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 23,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 0,
+   "end": 126,
+   "text": "I'm really sorry, Mega Man. I needed to upgrade the flutter."
+  },
+  {
+   "start": 139,
+   "end": 256,
+   "text": "I'm afraid I sold all your equipment! Please forgive me!"
+  }
+ ],
+ "edited": true
+}

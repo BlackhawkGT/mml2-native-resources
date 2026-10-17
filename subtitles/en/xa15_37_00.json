@@ -1,0 +1,29 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 0,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 500,
+   "end": 566,
+   "text": "All right, that should do it."
+  },
+  {
+   "start": 581,
+   "end": 683,
+   "text": "Mega Man, can you hear me? They're attacking the other side as well!"
+  },
+  {
+   "start": 683,
+   "end": 758,
+   "text": "Can you come over here and help us?"
+  },
+  {
+   "start": 758,
+   "end": 800,
+   "text": "I read you, Roll!"
+  }
+ ],
+ "edited": true
+}

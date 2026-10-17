@@ -1,0 +1,53 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 6,
+ "audio_seconds": 19.67,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 40,
+   "text": "いくぞー！"
+  },
+  {
+   "start": 40,
+   "end": 81,
+   "text": "うー！"
+  },
+  {
+   "start": 137,
+   "end": 220,
+   "text": "おし、準備オッケーだー　アハ",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "しがゅん"
+    },
+    {
+     "index": 4,
+     "reading": "ひが"
+    }
+   ]
+  },
+  {
+   "start": 222,
+   "end": 280,
+   "text": "え、ちょっと……"
+  },
+  {
+   "start": 280,
+   "end": 348,
+   "text": "はやくするんだー　エヘ"
+  },
+  {
+   "start": 353,
+   "end": 444,
+   "text": "シューねえちゃん、まかせたぞー　アハ"
+  },
+  {
+   "start": 492,
+   "end": 539,
+   "text": "うん、わかった！"
+  }
+ ]
+}

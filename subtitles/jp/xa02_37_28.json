@@ -1,0 +1,40 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 28,
+ "audio_seconds": 22.65,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 133,
+   "end": 215,
+   "text": "すべては、お前のせいで…",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "まえ"
+    }
+   ]
+  },
+  {
+   "start": 234,
+   "end": 309,
+   "text": "お前のせいでこんなことにっ！",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "まえ"
+    }
+   ]
+  },
+  {
+   "start": 341,
+   "end": 423,
+   "text": "もう…セラさまのジャマはさせん！！"
+  },
+  {
+   "start": 437,
+   "end": 484,
+   "text": "うおおぉぉぉーーーっっ！"
+  }
+ ]
+}

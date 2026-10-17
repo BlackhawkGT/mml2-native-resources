@@ -1,0 +1,606 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 8,
+ "audio_seconds": 116.24,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 9,
+   "end": 84,
+   "text": "なぞの女性とリーバードの襲撃により",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "しがょ"
+    },
+    {
+     "index": 4,
+     "reading": "せい"
+    },
+    {
+     "index": 12,
+     "reading": "しゅう"
+    },
+    {
+     "index": 13,
+     "reading": "けがき"
+    }
+   ]
+  },
+  {
+   "start": 84,
+   "end": 156,
+   "text": "船体は一部、壊れてしまいましたが",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "せん"
+    },
+    {
+     "index": 1,
+     "reading": "たい"
+    },
+    {
+     "index": 3,
+     "reading": "いち"
+    },
+    {
+     "index": 4,
+     "reading": "ふが"
+    },
+    {
+     "index": 6,
+     "reading": "こわ"
+    }
+   ]
+  },
+  {
+   "start": 162,
+   "end": 216,
+   "text": "キズはすでに修復され",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "しゅう"
+    },
+    {
+     "index": 7,
+     "reading": "ふく"
+    }
+   ]
+  },
+  {
+   "start": 217,
+   "end": 291,
+   "text": "いよいよ、突入を待つのみとなりました",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "とつぐ"
+    },
+    {
+     "index": 6,
+     "reading": "にゅう"
+    },
+    {
+     "index": 8,
+     "reading": "ま"
+    }
+   ]
+  },
+  {
+   "start": 298,
+   "end": 384,
+   "text": "おっと、そろそろ準備が完了したもようです",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "しがゅ"
+    },
+    {
+     "index": 9,
+     "reading": "ぐんひが"
+    },
+    {
+     "index": 11,
+     "reading": "かんぐ"
+    },
+    {
+     "index": 12,
+     "reading": "りょう"
+    }
+   ]
+  },
+  {
+   "start": 400,
+   "end": 448,
+   "text": "いよいよサルファーボトム号",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "こがう"
+    }
+   ]
+  },
+  {
+   "start": 448,
+   "end": 555,
+   "text": "ボウフウケンに突入し、その下にある島をめざします",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "とつぐ"
+    },
+    {
+     "index": 8,
+     "reading": "にゅう"
+    },
+    {
+     "index": 13,
+     "reading": "した"
+    },
+    {
+     "index": 17,
+     "reading": "しま"
+    }
+   ]
+  },
+  {
+   "start": 569,
+   "end": 643,
+   "text": "私をふくめ、多くの報道じんは",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わたし"
+    },
+    {
+     "index": 6,
+     "reading": "おお"
+    },
+    {
+     "index": 9,
+     "reading": "ほう"
+    },
+    {
+     "index": 10,
+     "reading": "とがう"
+    }
+   ]
+  },
+  {
+   "start": 643,
+   "end": 687,
+   "text": "先ほどの襲撃により",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "さき"
+    },
+    {
+     "index": 4,
+     "reading": "しゅう"
+    },
+    {
+     "index": 5,
+     "reading": "けがき"
+    }
+   ]
+  },
+  {
+   "start": 687,
+   "end": 779,
+   "text": "船から下り、距離をおいて見守っております",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふね"
+    },
+    {
+     "index": 3,
+     "reading": "お"
+    },
+    {
+     "index": 6,
+     "reading": "きょ"
+    },
+    {
+     "index": 7,
+     "reading": "り"
+    },
+    {
+     "index": 12,
+     "reading": "み"
+    },
+    {
+     "index": 13,
+     "reading": "まも"
+    }
+   ]
+  },
+  {
+   "start": 789,
+   "end": 852,
+   "text": "ミュラー氏の冒険は、はたして",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "し"
+    },
+    {
+     "index": 6,
+     "reading": "ほがう"
+    },
+    {
+     "index": 7,
+     "reading": "ぐけん"
+    }
+   ]
+  },
+  {
+   "start": 852,
+   "end": 903,
+   "text": "せいこうするのでしょうか！"
+  },
+  {
+   "start": 944,
+   "end": 1049,
+   "text": "最終チェック完了しました、いつでもいけます！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "さいぐ"
+    },
+    {
+     "index": 1,
+     "reading": "しゅう"
+    },
+    {
+     "index": 6,
+     "reading": "かんぐ"
+    },
+    {
+     "index": 7,
+     "reading": "りょう"
+    }
+   ]
+  },
+  {
+   "start": 1055,
+   "end": 1087,
+   "text": "うむ"
+  },
+  {
+   "start": 1105,
+   "end": 1207,
+   "text": "ではみなさん、覚悟はよろしいですかな？",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "かく"
+    },
+    {
+     "index": 8,
+     "reading": "こが"
+    }
+   ]
+  },
+  {
+   "start": 1216,
+   "end": 1291,
+   "text": "うちは体当たり取ザイがウリなんでね",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "たい"
+    },
+    {
+     "index": 4,
+     "reading": "あ"
+    },
+    {
+     "index": 7,
+     "reading": "しゅ"
+    }
+   ]
+  },
+  {
+   "start": 1297,
+   "end": 1380,
+   "text": "あんな根性ナシらといっしょにしねーでくれ",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "こんぐ"
+    },
+    {
+     "index": 4,
+     "reading": "しがょう"
+    }
+   ]
+  },
+  {
+   "start": 1407,
+   "end": 1486,
+   "text": "ほんとに…やるんじゃな"
+  },
+  {
+   "start": 1486,
+   "end": 1547,
+   "text": "あぁ、すまん"
+  },
+  {
+   "start": 1567,
+   "end": 1617,
+   "text": "これだけは、な"
+  },
+  {
+   "start": 1620,
+   "end": 1689,
+   "text": "うむ、こうなったら"
+  },
+  {
+   "start": 1699,
+   "end": 1776,
+   "text": "トコトンやるしかないのぅ"
+  },
+  {
+   "start": 1793,
+   "end": 1827,
+   "text": "ありがとう"
+  },
+  {
+   "start": 1853,
+   "end": 1895,
+   "text": "……では、いくぞ！"
+  },
+  {
+   "start": 1904,
+   "end": 1958,
+   "text": "メインエンジン点火！",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "てん"
+    },
+    {
+     "index": 8,
+     "reading": "か"
+    }
+   ]
+  },
+  {
+   "start": 1972,
+   "end": 2018,
+   "text": "メインエンジン点火！",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "てん"
+    },
+    {
+     "index": 8,
+     "reading": "か"
+    }
+   ]
+  },
+  {
+   "start": 2038,
+   "end": 2110,
+   "text": "目ひょう、島中心部",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "もく"
+    },
+    {
+     "index": 5,
+     "reading": "しま"
+    },
+    {
+     "index": 6,
+     "reading": "ちゅ"
+    },
+    {
+     "index": 7,
+     "reading": "うし"
+    },
+    {
+     "index": 8,
+     "reading": "んふが"
+    }
+   ]
+  },
+  {
+   "start": 2119,
+   "end": 2152,
+   "text": "発進！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "はっ"
+    },
+    {
+     "index": 1,
+     "reading": "しん"
+    }
+   ]
+  },
+  {
+   "start": 2341,
+   "end": 2425,
+   "text": "どうやら、ちゅうこくを無視するつもりね",
+   "ruby": [
+    {
+     "index": 11,
+     "reading": "む"
+    },
+    {
+     "index": 12,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 2429,
+   "end": 2466,
+   "text": "攻撃します",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "こう"
+    },
+    {
+     "index": 1,
+     "reading": "けがき"
+    }
+   ]
+  },
+  {
+   "start": 2466,
+   "end": 2514,
+   "text": "落としちゃだめよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 2514,
+   "end": 2555,
+   "text": "かしこまりました"
+  },
+  {
+   "start": 2715,
+   "end": 2777,
+   "text": "スタビライザーが効いてるわ",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 2777,
+   "end": 2898,
+   "text": "かぜの影キョウほとんど感じないなんて…やるわね～",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "えい"
+    },
+    {
+     "index": 11,
+     "reading": "かん"
+    }
+   ]
+  },
+  {
+   "start": 2967,
+   "end": 3042,
+   "text": "上空から何か高そくで接近します",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しがょう"
+    },
+    {
+     "index": 1,
+     "reading": "くう"
+    },
+    {
+     "index": 4,
+     "reading": "なに"
+    },
+    {
+     "index": 6,
+     "reading": "こう"
+    },
+    {
+     "index": 10,
+     "reading": "せっ"
+    },
+    {
+     "index": 11,
+     "reading": "きん"
+    }
+   ]
+  },
+  {
+   "start": 3051,
+   "end": 3096,
+   "text": "げい撃用意！",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "けがき"
+    },
+    {
+     "index": 3,
+     "reading": "よう"
+    },
+    {
+     "index": 4,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 3107,
+   "end": 3161,
+   "text": "もうジャマさせないでくれたまえ"
+  },
+  {
+   "start": 3189,
+   "end": 3230,
+   "text": "やばそうだな"
+  },
+  {
+   "start": 3268,
+   "end": 3302,
+   "text": "ボン！"
+  },
+  {
+   "start": 3306,
+   "end": 3412,
+   "text": "ドラッへ隊、第一次戦闘タイセイで待機！",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "たい"
+    },
+    {
+     "index": 6,
+     "reading": "たがい"
+    },
+    {
+     "index": 7,
+     "reading": "いち"
+    },
+    {
+     "index": 8,
+     "reading": "しが"
+    },
+    {
+     "index": 9,
+     "reading": "せん"
+    },
+    {
+     "index": 10,
+     "reading": "とう"
+    },
+    {
+     "index": 16,
+     "reading": "たい"
+    },
+    {
+     "index": 17,
+     "reading": "き"
+    }
+   ]
+  }
+ ]
+}

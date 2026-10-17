@@ -1,0 +1,14 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 19,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 577,
+   "end": 615,
+   "text": "Babu!"
+  }
+ ],
+ "edited": true
+}

@@ -1,0 +1,99 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 9,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 165,
+   "end": 332,
+   "text": "Isn't the main gun fixed yet? It can't even hit the target!"
+  },
+  {
+   "start": 332,
+   "end": 412,
+   "text": "Shooting it once destroys the barrel!"
+  },
+  {
+   "start": 412,
+   "end": 539,
+   "text": "What kind of cannon is this supposed to be anyway?!"
+  },
+  {
+   "start": 542,
+   "end": 678,
+   "text": "I told you it's still under development, but oh no, you've just got to fire it,"
+  },
+  {
+   "start": 678,
+   "end": 829,
+   "text": "don't you? You not only knocked out the gun, you disabled the main reactor as well!"
+  },
+  {
+   "start": 838,
+   "end": 938,
+   "text": "Anyway, it's fixed now, so let's get a move on, shall we?"
+  },
+  {
+   "start": 942,
+   "end": 1036,
+   "text": "At this rate, it'll be nightfall before we get to the city!"
+  },
+  {
+   "start": 1099,
+   "end": 1196,
+   "text": "Can't they take anything seriously?"
+  },
+  {
+   "start": 1226,
+   "end": 1333,
+   "text": "Hey, Klay, your problem is you're too serious, you know?"
+  },
+  {
+   "start": 1403,
+   "end": 1466,
+   "text": "Besides, aren't you a little ashamed of yourself?"
+  },
+  {
+   "start": 1466,
+   "end": 1569,
+   "text": "I mean, a big fella like yourself getting trashed by that kid."
+  },
+  {
+   "start": 1570,
+   "end": 1626,
+   "text": "You're getting old, man."
+  },
+  {
+   "start": 1648,
+   "end": 1701,
+   "text": "I've had enough of this circus."
+  },
+  {
+   "start": 1708,
+   "end": 1747,
+   "text": "I'm outta here."
+  },
+  {
+   "start": 1754,
+   "end": 1782,
+   "text": "Hey, wait!"
+  },
+  {
+   "start": 1782,
+   "end": 1829,
+   "text": "Bola, wait!"
+  },
+  {
+   "start": 1840,
+   "end": 1918,
+   "text": "These fools can't do anything right anyway."
+  },
+  {
+   "start": 1918,
+   "end": 2001,
+   "text": "I guess it's high time I was getting out of here too."
+  }
+ ],
+ "edited": true
+}

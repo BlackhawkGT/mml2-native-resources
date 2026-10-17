@@ -1,0 +1,278 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 10,
+ "audio_seconds": 69.15,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 235,
+   "end": 288,
+   "text": "げほげほっ、げほっ！"
+  },
+  {
+   "start": 288,
+   "end": 366,
+   "text": "げほっ、やってくれたわね、げほっ！"
+  },
+  {
+   "start": 366,
+   "end": 475,
+   "text": "でもね、勝負は私達の勝ちよ！",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "しょう"
+    },
+    {
+     "index": 5,
+     "reading": "ふが"
+    },
+    {
+     "index": 7,
+     "reading": "わたし"
+    },
+    {
+     "index": 8,
+     "reading": "たち"
+    },
+    {
+     "index": 10,
+     "reading": "か"
+    }
+   ]
+  },
+  {
+   "start": 483,
+   "end": 593,
+   "text": "いまごろボンが、鍵を奪って地上に戻ってるはず",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "かきが"
+    },
+    {
+     "index": 10,
+     "reading": "うはが"
+    },
+    {
+     "index": 13,
+     "reading": "ち"
+    },
+    {
+     "index": 14,
+     "reading": "しがょう"
+    },
+    {
+     "index": 16,
+     "reading": "もとが"
+    }
+   ]
+  },
+  {
+   "start": 593,
+   "end": 638,
+   "text": "げほっ！　げほげほっ！"
+  },
+  {
+   "start": 662,
+   "end": 713,
+   "text": "…ん？　なによ！"
+  },
+  {
+   "start": 721,
+   "end": 799,
+   "text": "なに赤い顔してじろじろ見てるのよ！",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "あか"
+    },
+    {
+     "index": 4,
+     "reading": "かお"
+    },
+    {
+     "index": 11,
+     "reading": "み"
+    }
+   ]
+  },
+  {
+   "start": 816,
+   "end": 908,
+   "text": "と、トロンさま…服が……",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "ふく"
+    }
+   ]
+  },
+  {
+   "start": 929,
+   "end": 974,
+   "text": "服が破れてます",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふく"
+    },
+    {
+     "index": 2,
+     "reading": "やふが"
+    }
+   ]
+  },
+  {
+   "start": 987,
+   "end": 1065,
+   "text": "っていうか、スゴイです～"
+  },
+  {
+   "start": 1079,
+   "end": 1165,
+   "text": "え？　あっ！　あーっ！"
+  },
+  {
+   "start": 1188,
+   "end": 1213,
+   "text": "ばかぁーー！"
+  },
+  {
+   "start": 1213,
+   "end": 1283,
+   "text": "そういう事はすぐに言いなさーーーーい！！",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "こと"
+    },
+    {
+     "index": 9,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 1285,
+   "end": 1348,
+   "text": "い、一時タイキャクよ！",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "いち"
+    },
+    {
+     "index": 3,
+     "reading": "しが"
+    }
+   ]
+  },
+  {
+   "start": 1353,
+   "end": 1394,
+   "text": "ら、ラジャー！"
+  },
+  {
+   "start": 1453,
+   "end": 1504,
+   "text": "ロック、ロック！"
+  },
+  {
+   "start": 1525,
+   "end": 1558,
+   "text": "な、なに！？"
+  },
+  {
+   "start": 1582,
+   "end": 1663,
+   "text": "無事だったんだ、よかった",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふが"
+    },
+    {
+     "index": 1,
+     "reading": "しが"
+    }
+   ]
+  },
+  {
+   "start": 1682,
+   "end": 1756,
+   "text": "じゃ、またサポート再開するね",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "さい"
+    },
+    {
+     "index": 10,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 1777,
+   "end": 1887,
+   "text": "ところで、さっきから封印の鍵らしき反応が",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "ふう"
+    },
+    {
+     "index": 11,
+     "reading": "いん"
+    },
+    {
+     "index": 13,
+     "reading": "かきが"
+    },
+    {
+     "index": 17,
+     "reading": "はん"
+    },
+    {
+     "index": 18,
+     "reading": "のう"
+    }
+   ]
+  },
+  {
+   "start": 1895,
+   "end": 1961,
+   "text": "広間をゆっくり移動してるんだけど",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ひろ"
+    },
+    {
+     "index": 1,
+     "reading": "ま"
+    },
+    {
+     "index": 7,
+     "reading": "い"
+    },
+    {
+     "index": 8,
+     "reading": "とがう"
+    }
+   ]
+  },
+  {
+   "start": 1972,
+   "end": 2035,
+   "text": "まずい！　急がなきゃ！",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "いそ"
+    }
+   ]
+  }
+ ]
+}

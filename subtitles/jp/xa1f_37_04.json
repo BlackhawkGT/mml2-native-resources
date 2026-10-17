@@ -1,0 +1,62 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 4,
+ "audio_seconds": 10.97,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 22,
+   "end": 77,
+   "text": "なんか用なの？",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "よう"
+    }
+   ]
+  },
+  {
+   "start": 82,
+   "end": 160,
+   "text": "この私を手伝いたいって言うのなら",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "わたし"
+    },
+    {
+     "index": 4,
+     "reading": "て"
+    },
+    {
+     "index": 5,
+     "reading": "つたが"
+    },
+    {
+     "index": 11,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 160,
+   "end": 246,
+   "text": "中に入れてあげてもいいけど～？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "なか"
+    },
+    {
+     "index": 2,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 256,
+   "end": 302,
+   "text": "どうなのよ！？"
+  }
+ ]
+}

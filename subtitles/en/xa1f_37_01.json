@@ -1,0 +1,99 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 1,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 252,
+   "end": 386,
+   "text": "Alright, that should cut off the flow of lava to the room with the Reaverbot."
+  },
+  {
+   "start": 386,
+   "end": 549,
+   "text": "Now all we have to do is figure out how to defeat the Reaverbot, and we're set!"
+  },
+  {
+   "start": 549,
+   "end": 579,
+   "text": "Babu!"
+  },
+  {
+   "start": 579,
+   "end": 610,
+   "text": "Huh?"
+  },
+  {
+   "start": 624,
+   "end": 711,
+   "text": "Ba, Babu, Babu, Babu!"
+  },
+  {
+   "start": 731,
+   "end": 879,
+   "text": "Good idea, Bon! Well then why don't we get him to do our work for us?"
+  },
+  {
+   "start": 903,
+   "end": 971,
+   "text": "Now that his energy supply's been cut off,"
+  },
+  {
+   "start": 971,
+   "end": 1095,
+   "text": "that Reaverbot's defenses should be weakened enough that he can be damaged."
+  },
+  {
+   "start": 1095,
+   "end": 1225,
+   "text": "I'll bet that once he's defeated, we'll be able to get the key!"
+  },
+  {
+   "start": 1259,
+   "end": 1350,
+   "text": "Alright then, our alliance is over!"
+  },
+  {
+   "start": 1350,
+   "end": 1485,
+   "text": "Next time we see each other, we're enemies again, understand?"
+  },
+  {
+   "start": 1513,
+   "end": 1565,
+   "text": "Sure, okay!"
+  },
+  {
+   "start": 1568,
+   "end": 1635,
+   "text": "Come on, Bon, let's go!"
+  },
+  {
+   "start": 1635,
+   "end": 1696,
+   "text": "Babu!"
+  },
+  {
+   "start": 1858,
+   "end": 1932,
+   "text": "Well, you look like you're having fun."
+  },
+  {
+   "start": 1954,
+   "end": 2068,
+   "text": "Huh? No, of course not. Hehe... Why would you say that?"
+  },
+  {
+   "start": 2068,
+   "end": 2178,
+   "text": "Anyway, we have to make sure we get to the key first. Ready?"
+  },
+  {
+   "start": 2178,
+   "end": 2208,
+   "text": "Yep!"
+  }
+ ],
+ "edited": true
+}

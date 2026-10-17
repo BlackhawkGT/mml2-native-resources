@@ -1,0 +1,184 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 10,
+ "audio_seconds": 61.26,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 24,
+   "text": "はじめます"
+  },
+  {
+   "start": 149,
+   "end": 190,
+   "text": "もっと引き付けるんだ",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "ひ"
+    },
+    {
+     "index": 5,
+     "reading": "つ"
+    }
+   ]
+  },
+  {
+   "start": 391,
+   "end": 412,
+   "text": "ガーちゃん！"
+  },
+  {
+   "start": 887,
+   "end": 960,
+   "text": "緊急消火装置作動、火さいはちん火",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "きん"
+    },
+    {
+     "index": 1,
+     "reading": "きゅ"
+    },
+    {
+     "index": 2,
+     "reading": "うし"
+    },
+    {
+     "index": 3,
+     "reading": "ょう"
+    },
+    {
+     "index": 4,
+     "reading": "かそ"
+    },
+    {
+     "index": 5,
+     "reading": "うち"
+    },
+    {
+     "index": 6,
+     "reading": "さ"
+    },
+    {
+     "index": 7,
+     "reading": "とがう"
+    },
+    {
+     "index": 9,
+     "reading": "か"
+    },
+    {
+     "index": 15,
+     "reading": "か"
+    }
+   ]
+  },
+  {
+   "start": 960,
+   "end": 1071,
+   "text": "エンジン完全にハソン、コウコウ不能",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "かん"
+    },
+    {
+     "index": 5,
+     "reading": "せがん"
+    },
+    {
+     "index": 15,
+     "reading": "ふ"
+    },
+    {
+     "index": 16,
+     "reading": "のう"
+    }
+   ]
+  },
+  {
+   "start": 1078,
+   "end": 1163,
+   "text": "脱出用ポッド…全そんです",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たがっぐ"
+    },
+    {
+     "index": 1,
+     "reading": "しゅつ"
+    },
+    {
+     "index": 2,
+     "reading": "ぐよう"
+    },
+    {
+     "index": 7,
+     "reading": "せがん"
+    }
+   ]
+  },
+  {
+   "start": 1169,
+   "end": 1234,
+   "text": "おぉ！　なんてこった！"
+  },
+  {
+   "start": 1261,
+   "end": 1333,
+   "text": "あ～、やっちゃったわね"
+  },
+  {
+   "start": 1341,
+   "end": 1385,
+   "text": "す、すみません"
+  },
+  {
+   "start": 1426,
+   "end": 1471,
+   "text": "一時離脱します",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いち"
+    },
+    {
+     "index": 1,
+     "reading": "しが"
+    },
+    {
+     "index": 2,
+     "reading": "り"
+    },
+    {
+     "index": 3,
+     "reading": "たがつ"
+    }
+   ]
+  },
+  {
+   "start": 1525,
+   "end": 1594,
+   "text": "すぐには落ちないと思うけど…",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "お"
+    },
+    {
+     "index": 9,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 1601,
+   "end": 1671,
+   "text": "めんどうなことになっちゃったわ"
+  }
+ ]
+}

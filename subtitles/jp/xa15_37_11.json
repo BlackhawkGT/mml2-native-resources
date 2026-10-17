@@ -1,0 +1,96 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 11,
+ "audio_seconds": 40.62,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 121,
+   "end": 167,
+   "text": "ロールちゃん、あの……"
+  },
+  {
+   "start": 205,
+   "end": 284,
+   "text": "よーし、なおった！　いくよ、ロック！"
+  },
+  {
+   "start": 287,
+   "end": 311,
+   "text": "え！？"
+  },
+  {
+   "start": 668,
+   "end": 752,
+   "text": "はっ！　何のマネか知らないけど",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "なん"
+    },
+    {
+     "index": 9,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 756,
+   "end": 824,
+   "text": "とりあえずツブしとこ～かしら"
+  },
+  {
+   "start": 835,
+   "end": 887,
+   "text": "グライドミサイル発射！",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "はっ"
+    },
+    {
+     "index": 9,
+     "reading": "しゃ"
+    }
+   ]
+  },
+  {
+   "start": 956,
+   "end": 982,
+   "text": "ロールちゃん！？"
+  },
+  {
+   "start": 1002,
+   "end": 1048,
+   "text": "ロック、ゴメン"
+  },
+  {
+   "start": 1062,
+   "end": 1115,
+   "text": "まだなおってなかったみたい"
+  },
+  {
+   "start": 1123,
+   "end": 1199,
+   "text": "修理、ちょっと時間がかかる",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しゅう"
+    },
+    {
+     "index": 1,
+     "reading": "り"
+    },
+    {
+     "index": 7,
+     "reading": "しが"
+    },
+    {
+     "index": 8,
+     "reading": "かん"
+    }
+   ]
+  }
+ ]
+}

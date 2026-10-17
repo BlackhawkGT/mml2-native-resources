@@ -1,0 +1,33 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 7,
+ "audio_seconds": 8.25,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 26,
+   "text": "えいっ、やー！"
+  },
+  {
+   "start": 27,
+   "end": 51,
+   "text": "それっ！"
+  },
+  {
+   "start": 63,
+   "end": 87,
+   "text": "はっ！"
+  },
+  {
+   "start": 94,
+   "end": 142,
+   "text": "たのんだぞー　アハ"
+  },
+  {
+   "start": 146,
+   "end": 202,
+   "text": "エヘヘヘヘヘ"
+  }
+ ]
+}

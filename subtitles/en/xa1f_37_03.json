@@ -1,0 +1,19 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 3,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 170,
+   "end": 357,
+   "text": "Yeah, this is it! Haha! Yeah! If we work together, you can get it there!"
+  },
+  {
+   "start": 357,
+   "end": 397,
+   "text": "Ha ha ha ha ha!"
+  }
+ ],
+ "edited": true
+}

@@ -1,0 +1,56 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 22,
+ "audio_seconds": 9.3,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 78,
+   "text": "ちょっと、にてると思ったんだけど",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 83,
+   "end": 122,
+   "text": "よく考えたら",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "かんかが"
+    }
+   ]
+  },
+  {
+   "start": 122,
+   "end": 221,
+   "text": "お母さんがあんなことするわけ…ないよね",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "かあ"
+    }
+   ]
+  },
+  {
+   "start": 231,
+   "end": 293,
+   "text": "あの人は誰なんだろう",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "ひと"
+    },
+    {
+     "index": 4,
+     "reading": "たがれ"
+    }
+   ]
+  }
+ ]
+}

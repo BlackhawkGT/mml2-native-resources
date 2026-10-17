@@ -1,0 +1,88 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 3,
+ "audio_seconds": 28.89,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 45,
+   "text": "ロック、たいへん！"
+  },
+  {
+   "start": 45,
+   "end": 108,
+   "text": "ドックにも敵が攻めてきた！",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "てき"
+    },
+    {
+     "index": 7,
+     "reading": "せ"
+    }
+   ]
+  },
+  {
+   "start": 109,
+   "end": 147,
+   "text": "ロールちゃん、逃げて！",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "に"
+    }
+   ]
+  },
+  {
+   "start": 147,
+   "end": 238,
+   "text": "だめ、まだこの子動かせないし",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "こ"
+    },
+    {
+     "index": 8,
+     "reading": "うこが"
+    }
+   ]
+  },
+  {
+   "start": 238,
+   "end": 310,
+   "text": "マズいな…ここもほっとけないし"
+  },
+  {
+   "start": 313,
+   "end": 362,
+   "text": "まかせろ、ロックくん！"
+  },
+  {
+   "start": 687,
+   "end": 763,
+   "text": "ここはオレたちが引き受けた！　君はドックへ！",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "ひ"
+    },
+    {
+     "index": 10,
+     "reading": "う"
+    },
+    {
+     "index": 15,
+     "reading": "きみ"
+    }
+   ]
+  },
+  {
+   "start": 763,
+   "end": 822,
+   "text": "わかりました！　たのみます！"
+  }
+ ]
+}

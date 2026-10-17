@@ -1,0 +1,64 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 4,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 21,
+   "end": 111,
+   "text": "Hey man, what kept you so long?"
+  },
+  {
+   "start": 167,
+   "end": 262,
+   "text": "If you're looking for the key, I've got it right here."
+  },
+  {
+   "start": 306,
+   "end": 412,
+   "text": "Hehe, just messing with you."
+  },
+  {
+   "start": 434,
+   "end": 532,
+   "text": "I did get the key, but the Master Reaverbot ate it."
+  },
+  {
+   "start": 588,
+   "end": 686,
+   "text": "I asked him real nice-like if he'd give it back to me,"
+  },
+  {
+   "start": 686,
+   "end": 755,
+   "text": "but he's not the friendly type, you know what I mean?"
+  },
+  {
+   "start": 757,
+   "end": 856,
+   "text": "You can have the key, if you can get it back from him."
+  },
+  {
+   "start": 856,
+   "end": 905,
+   "text": "I mean, there's three more keys."
+  },
+  {
+   "start": 905,
+   "end": 1050,
+   "text": "Klaymoor will probably figure out a way to get them, so it's no skin off my nose."
+  },
+  {
+   "start": 1050,
+   "end": 1092,
+   "text": "I better be going."
+  },
+  {
+   "start": 1098,
+   "end": 1128,
+   "text": "See ya!"
+  }
+ ],
+ "edited": true
+}

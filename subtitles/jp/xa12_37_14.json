@@ -1,0 +1,237 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 14,
+ "audio_seconds": 52.82,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 22,
+   "end": 71,
+   "text": "あのヤロー……"
+  },
+  {
+   "start": 75,
+   "end": 186,
+   "text": "仏像の事なんか、ちっとも気にしやがらねぇ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふがつ"
+    },
+    {
+     "index": 1,
+     "reading": "そがう"
+    },
+    {
+     "index": 3,
+     "reading": "こと"
+    },
+    {
+     "index": 12,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 195,
+   "end": 275,
+   "text": "いったいどういうシンケイしてやがる……"
+  },
+  {
+   "start": 284,
+   "end": 401,
+   "text": "ありゃ～島の文化遺産にシテイされてんだぞ～",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "しま"
+    },
+    {
+     "index": 6,
+     "reading": "ふがん"
+    },
+    {
+     "index": 7,
+     "reading": "か"
+    },
+    {
+     "index": 8,
+     "reading": "い"
+    },
+    {
+     "index": 9,
+     "reading": "さん"
+    }
+   ]
+  },
+  {
+   "start": 408,
+   "end": 524,
+   "text": "せっかく集めた食料も、日用雑貨も",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "あつ"
+    },
+    {
+     "index": 7,
+     "reading": "しょく"
+    },
+    {
+     "index": 8,
+     "reading": "ぐりょう"
+    },
+    {
+     "index": 11,
+     "reading": "にち"
+    },
+    {
+     "index": 12,
+     "reading": "よう"
+    },
+    {
+     "index": 13,
+     "reading": "さがっ"
+    },
+    {
+     "index": 14,
+     "reading": "か"
+    }
+   ]
+  },
+  {
+   "start": 525,
+   "end": 594,
+   "text": "ぜーんぶ燃えちゃいました",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "も"
+    }
+   ]
+  },
+  {
+   "start": 610,
+   "end": 737,
+   "text": "明日からデパートで売るもの…なにもないです～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "あし"
+    },
+    {
+     "index": 1,
+     "reading": "た"
+    },
+    {
+     "index": 9,
+     "reading": "う"
+    }
+   ]
+  },
+  {
+   "start": 737,
+   "end": 852,
+   "text": "こ、こうなったらトロン達にかけるしかねぇ",
+   "ruby": [
+    {
+     "index": 11,
+     "reading": "たち"
+    }
+   ]
+  },
+  {
+   "start": 857,
+   "end": 948,
+   "text": "なんとしても「大いなる遺産」を手に入れないと",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "おお"
+    },
+    {
+     "index": 11,
+     "reading": "い"
+    },
+    {
+     "index": 12,
+     "reading": "さん"
+    },
+    {
+     "index": 15,
+     "reading": "て"
+    },
+    {
+     "index": 17,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 953,
+   "end": 1034,
+   "text": "一家心中するしかないぜ……",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いっ"
+    },
+    {
+     "index": 1,
+     "reading": "か"
+    },
+    {
+     "index": 2,
+     "reading": "しん"
+    },
+    {
+     "index": 3,
+     "reading": "しがゅう"
+    }
+   ]
+  },
+  {
+   "start": 1043,
+   "end": 1105,
+   "text": "ティーゼルさま～"
+  },
+  {
+   "start": 1128,
+   "end": 1286,
+   "text": "や、ヤローども…今日のところは引き上げだ～",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "きょ"
+    },
+    {
+     "index": 9,
+     "reading": "う"
+    },
+    {
+     "index": 15,
+     "reading": "ひ"
+    },
+    {
+     "index": 17,
+     "reading": "あ"
+    }
+   ]
+  },
+  {
+   "start": 1313,
+   "end": 1353,
+   "text": "おいロック！"
+  },
+  {
+   "start": 1366,
+   "end": 1455,
+   "text": "このままじゃ…すまさないからな！"
+  },
+  {
+   "start": 1464,
+   "end": 1524,
+   "text": "おぼえてやがれ！"
+  }
+ ]
+}

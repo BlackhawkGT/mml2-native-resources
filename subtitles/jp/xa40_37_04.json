@@ -1,0 +1,142 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 4,
+ "audio_seconds": 47.39,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 25,
+   "end": 115,
+   "text": "そらいけ！　もうちょいだ！　がんばれ！"
+  },
+  {
+   "start": 357,
+   "end": 496,
+   "text": "あ～ぁ…１０回目のじっけんもシッパイか～",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "かい"
+    },
+    {
+     "index": 7,
+     "reading": "め"
+    }
+   ]
+  },
+  {
+   "start": 496,
+   "end": 566,
+   "text": "もうダメなんじゃねぇか～"
+  },
+  {
+   "start": 632,
+   "end": 679,
+   "text": "たった一ぴき帰ってきた",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "いっ"
+    },
+    {
+     "index": 6,
+     "reading": "かえ"
+    }
+   ]
+  },
+  {
+   "start": 679,
+   "end": 727,
+   "text": "あのデータとかいうサルから"
+  },
+  {
+   "start": 727,
+   "end": 851,
+   "text": "古代文明のチシキを引き出したって聞いたけどよ…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "こ"
+    },
+    {
+     "index": 1,
+     "reading": "たがい"
+    },
+    {
+     "index": 2,
+     "reading": "ふがん"
+    },
+    {
+     "index": 3,
+     "reading": "めい"
+    },
+    {
+     "index": 9,
+     "reading": "ひ"
+    },
+    {
+     "index": 11,
+     "reading": "たが"
+    },
+    {
+     "index": 16,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 939,
+   "end": 1057,
+   "text": "あんまり、役に立ってねぇみたいだな",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "やく"
+    },
+    {
+     "index": 7,
+     "reading": "た"
+    }
+   ]
+  },
+  {
+   "start": 1076,
+   "end": 1161,
+   "text": "人間の力でウチュウへ行こうっていうんじゃ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "にん"
+    },
+    {
+     "index": 1,
+     "reading": "けがん"
+    },
+    {
+     "index": 3,
+     "reading": "ちから"
+    },
+    {
+     "index": 10,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 1161,
+   "end": 1223,
+   "text": "そうカンタンにはいかんわい"
+  },
+  {
+   "start": 1232,
+   "end": 1331,
+   "text": "いいセンいってると思うんだがなぁ～",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "おも"
+    }
+   ]
+  }
+ ]
+}

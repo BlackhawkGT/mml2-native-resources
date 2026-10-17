@@ -1,0 +1,73 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 14,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 27,
+   "end": 173,
+   "text": "That little punk, he didn't even care about the statue."
+  },
+  {
+   "start": 182,
+   "end": 270,
+   "text": "Inconceivable, what was he thinking?"
+  },
+  {
+   "start": 286,
+   "end": 417,
+   "text": "That statue was a cultural treasure of this island."
+  },
+  {
+   "start": 429,
+   "end": 583,
+   "text": "All the food and supplies we gathered have also been destroyed, Mr. Teisel."
+  },
+  {
+   "start": 610,
+   "end": 729,
+   "text": "We have nothing left to sell in the store."
+  },
+  {
+   "start": 733,
+   "end": 844,
+   "text": "It's up to Tron and Bonne. We have to get the Mother Lode."
+  },
+  {
+   "start": 847,
+   "end": 943,
+   "text": "If we don't, I don't know what will happen to us."
+  },
+  {
+   "start": 943,
+   "end": 1053,
+   "text": "We won't even be able to pay rent. We'll be homeless."
+  },
+  {
+   "start": 1053,
+   "end": 1102,
+   "text": "Mr. Teisel!"
+  },
+  {
+   "start": 1138,
+   "end": 1195,
+   "text": "All right, everyone!"
+  },
+  {
+   "start": 1218,
+   "end": 1297,
+   "text": "We've lost! Let's get out of here!"
+  },
+  {
+   "start": 1324,
+   "end": 1418,
+   "text": "Hey, Mega Man! Don't think we're finished!"
+  },
+  {
+   "start": 1418,
+   "end": 1520,
+   "text": "You haven't seen the last of Teisel Bonne!"
+  }
+ ]
+}

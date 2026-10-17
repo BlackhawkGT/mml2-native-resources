@@ -1,0 +1,23 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 22,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 0,
+   "end": 72,
+   "text": "She does look a lot like my mother,"
+  },
+  {
+   "start": 72,
+   "end": 219,
+   "text": "but I can't believe my own mother would do something like that."
+  },
+  {
+   "start": 219,
+   "end": 275,
+   "text": "I wonder who she is."
+  }
+ ]
+}

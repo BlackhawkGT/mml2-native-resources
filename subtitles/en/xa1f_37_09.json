@@ -1,0 +1,29 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 9,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 160,
+   "end": 338,
+   "text": "Excuse me. I seem to have been captured. Can you help me, please?"
+  },
+  {
+   "start": 353,
+   "end": 460,
+   "text": "Be quiet! Caw-caw! Keep your trap shut!"
+  },
+  {
+   "start": 472,
+   "end": 596,
+   "text": "Huh? Intruder! Intruder alert! Ka-ka! Ka-ka!"
+  },
+  {
+   "start": 685,
+   "end": 768,
+   "text": "Ouch! You're hurting me!"
+  }
+ ],
+ "edited": true
+}

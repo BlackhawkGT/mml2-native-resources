@@ -1,0 +1,162 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 7,
+ "audio_seconds": 41.69,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 7,
+   "end": 101,
+   "text": "いままで、このボウフウケンを突破し",
+   "ruby": [
+    {
+     "index": 14,
+     "reading": "とっ"
+    },
+    {
+     "index": 15,
+     "reading": "はぎ"
+    }
+   ]
+  },
+  {
+   "start": 109,
+   "end": 170,
+   "text": "あの島へ足を踏み入れ",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "しま"
+    },
+    {
+     "index": 4,
+     "reading": "あし"
+    },
+    {
+     "index": 6,
+     "reading": "ふ"
+    },
+    {
+     "index": 8,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 172,
+   "end": 232,
+   "text": "セイカンした者はいません",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "もの"
+    }
+   ]
+  },
+  {
+   "start": 244,
+   "end": 350,
+   "text": "私と、このバレル氏を除いて！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わたし"
+    },
+    {
+     "index": 8,
+     "reading": "し"
+    },
+    {
+     "index": 10,
+     "reading": "のそが"
+    }
+   ]
+  },
+  {
+   "start": 412,
+   "end": 531,
+   "text": "今から、３０年も前の話になりますが",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いま"
+    },
+    {
+     "index": 6,
+     "reading": "ねん"
+    },
+    {
+     "index": 8,
+     "reading": "まえ"
+    },
+    {
+     "index": 10,
+     "reading": "はなし"
+    }
+   ]
+  },
+  {
+   "start": 544,
+   "end": 659,
+   "text": "我々が、そこで見たものは何か！！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "われ"
+    },
+    {
+     "index": 1,
+     "reading": "われ"
+    },
+    {
+     "index": 7,
+     "reading": "み"
+    },
+    {
+     "index": 12,
+     "reading": "なに"
+    }
+   ]
+  },
+  {
+   "start": 703,
+   "end": 758,
+   "text": "今は、言わないでおきましょう",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いま"
+    },
+    {
+     "index": 3,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 758,
+   "end": 813,
+   "text": "なぜなら、もうすぐみなさんも"
+  },
+  {
+   "start": 820,
+   "end": 871,
+   "text": "それを目の当たりにするからです",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "ま"
+    },
+    {
+     "index": 5,
+     "reading": "あ"
+    }
+   ]
+  },
+  {
+   "start": 871,
+   "end": 927,
+   "text": "おぉー"
+  }
+ ]
+}

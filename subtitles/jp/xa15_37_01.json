@@ -1,0 +1,18 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 1,
+ "audio_seconds": 9.3,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 6,
+   "end": 106,
+   "text": "んあぁぁぁ、もうオシマイじゃー！"
+  },
+  {
+   "start": 112,
+   "end": 152,
+   "text": "ピロポ～ン！"
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 0,
+ "audio_seconds": 33.25,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 54,
+   "end": 118,
+   "text": "「人類再生プログラムは」",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "しがん"
+    },
+    {
+     "index": 2,
+     "reading": "るい"
+    },
+    {
+     "index": 3,
+     "reading": "さい"
+    },
+    {
+     "index": 4,
+     "reading": "せい"
+    }
+   ]
+  },
+  {
+   "start": 118,
+   "end": 190,
+   "text": "「現在、待機命れいにより」",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "けがん"
+    },
+    {
+     "index": 2,
+     "reading": "さがい"
+    },
+    {
+     "index": 4,
+     "reading": "たい"
+    },
+    {
+     "index": 5,
+     "reading": "き"
+    },
+    {
+     "index": 6,
+     "reading": "めい"
+    }
+   ]
+  },
+  {
+   "start": 190,
+   "end": 262,
+   "text": "「そのジッコウをホリュウ中」",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "ちゅう"
+    }
+   ]
+  },
+  {
+   "start": 266,
+   "end": 331,
+   "text": "「マザーの再開命れいを待って」",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "さい"
+    },
+    {
+     "index": 6,
+     "reading": "かい"
+    },
+    {
+     "index": 7,
+     "reading": "めい"
+    },
+    {
+     "index": 11,
+     "reading": "ま"
+    }
+   ]
+  },
+  {
+   "start": 331,
+   "end": 409,
+   "text": "「ジッコウに移すものとする」",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "うつ"
+    }
+   ]
+  },
+  {
+   "start": 429,
+   "end": 520,
+   "text": "待機命れい？　…どうして？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たい"
+    },
+    {
+     "index": 1,
+     "reading": "き"
+    },
+    {
+     "index": 2,
+     "reading": "めい"
+    }
+   ]
+  },
+  {
+   "start": 780,
+   "end": 862,
+   "text": "待っていたよ、ロックマン・トリッガー",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ま"
+    }
+   ]
+  }
+ ]
+}

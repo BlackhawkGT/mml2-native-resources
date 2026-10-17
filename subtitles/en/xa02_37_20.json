@@ -1,0 +1,19 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 20,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 4,
+   "end": 102,
+   "text": "Ready here Mega Man, I can pick up the dropship anytime."
+  },
+  {
+   "start": 115,
+   "end": 195,
+   "text": "Balloon open, take off initiated!"
+  }
+ ],
+ "edited": true
+}

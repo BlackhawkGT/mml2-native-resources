@@ -1,0 +1,64 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 7,
+ "audio_seconds": 15.83,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 16,
+   "end": 96,
+   "text": "…待ってろって言っただろ！",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "ま"
+    },
+    {
+     "index": 7,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 148,
+   "end": 217,
+   "text": "もうこんなところまで来やがって",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 217,
+   "end": 324,
+   "text": "危なく逃がすところだったぜ……",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "あふが"
+    },
+    {
+     "index": 3,
+     "reading": "に"
+    }
+   ]
+  },
+  {
+   "start": 328,
+   "end": 483,
+   "text": "さて、もうひと勝負オッサンにつきあってもらうぜ！",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "しょう"
+    },
+    {
+     "index": 8,
+     "reading": "ふが"
+    }
+   ]
+  }
+ ]
+}

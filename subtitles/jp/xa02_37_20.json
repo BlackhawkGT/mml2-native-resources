@@ -1,0 +1,58 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 20,
+ "audio_seconds": 30.54,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 97,
+   "text": "ロック、ドロップシップの収容準備、できたよ",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "しゅう"
+    },
+    {
+     "index": 13,
+     "reading": "よう"
+    },
+    {
+     "index": 14,
+     "reading": "しがゅん"
+    },
+    {
+     "index": 15,
+     "reading": "ひが"
+    }
+   ]
+  },
+  {
+   "start": 109,
+   "end": 191,
+   "text": "バルーンてん開、離陸開始！",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "かい"
+    },
+    {
+     "index": 8,
+     "reading": "り"
+    },
+    {
+     "index": 9,
+     "reading": "りく"
+    },
+    {
+     "index": 10,
+     "reading": "かい"
+    },
+    {
+     "index": 11,
+     "reading": "し"
+    }
+   ]
+  }
+ ]
+}

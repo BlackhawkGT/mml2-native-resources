@@ -1,0 +1,324 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 5,
+ "audio_seconds": 89.57,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 115,
+   "end": 164,
+   "text": "…やっぱり、このシステム"
+  },
+  {
+   "start": 164,
+   "end": 226,
+   "text": "ちょっと複雑すぎると思うの",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "ふく"
+    },
+    {
+     "index": 5,
+     "reading": "さがつ"
+    },
+    {
+     "index": 10,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 232,
+   "end": 270,
+   "text": "キホンはシンプルで"
+  },
+  {
+   "start": 270,
+   "end": 324,
+   "text": "ほねぶとなのはいいと思うんだけど",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 324,
+   "end": 444,
+   "text": "でも…それじゃちょっとコストがかかりすぎるわ"
+  },
+  {
+   "start": 444,
+   "end": 529,
+   "text": "き存ユニットをこう組み合わせれば…",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "そがん"
+    },
+    {
+     "index": 9,
+     "reading": "く"
+    },
+    {
+     "index": 11,
+     "reading": "あ"
+    }
+   ]
+  },
+  {
+   "start": 570,
+   "end": 643,
+   "text": "ほら、だいぶ安くつくでしょ？",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "やす"
+    }
+   ]
+  },
+  {
+   "start": 652,
+   "end": 772,
+   "text": "う～ん、ここの燃料パイプを強化しとけば…",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "ねん"
+    },
+    {
+     "index": 8,
+     "reading": "りょう"
+    },
+    {
+     "index": 13,
+     "reading": "きょう"
+    },
+    {
+     "index": 14,
+     "reading": "か"
+    }
+   ]
+  },
+  {
+   "start": 772,
+   "end": 833,
+   "text": "大丈夫かな～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 1,
+     "reading": "しがょ"
+    },
+    {
+     "index": 2,
+     "reading": "うふが"
+    }
+   ]
+  },
+  {
+   "start": 844,
+   "end": 894,
+   "text": "うきぃ～"
+  },
+  {
+   "start": 894,
+   "end": 1009,
+   "text": "だから、ボクが言うようにやればカンタンなんだよ",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 1009,
+   "end": 1044,
+   "text": "あのね…！"
+  },
+  {
+   "start": 1044,
+   "end": 1096,
+   "text": "データはだまってて！"
+  },
+  {
+   "start": 1119,
+   "end": 1145,
+   "text": "やっぱり"
+  },
+  {
+   "start": 1145,
+   "end": 1226,
+   "text": "カーゴルームはもっと小さくした方がいいよ",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "ちい"
+    },
+    {
+     "index": 15,
+     "reading": "ほう"
+    }
+   ]
+  },
+  {
+   "start": 1236,
+   "end": 1304,
+   "text": "大は小をかねるのよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たがい"
+    },
+    {
+     "index": 2,
+     "reading": "しょう"
+    }
+   ]
+  },
+  {
+   "start": 1307,
+   "end": 1404,
+   "text": "こんどの新型エンジンなら、出力はばい以上",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "しん"
+    },
+    {
+     "index": 5,
+     "reading": "かがた"
+    },
+    {
+     "index": 13,
+     "reading": "しゅつぐ"
+    },
+    {
+     "index": 14,
+     "reading": "ぐりょく"
+    },
+    {
+     "index": 18,
+     "reading": "い"
+    },
+    {
+     "index": 19,
+     "reading": "しがょう"
+    }
+   ]
+  },
+  {
+   "start": 1404,
+   "end": 1446,
+   "text": "じゅうぶん間に合うわ",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "ま"
+    },
+    {
+     "index": 7,
+     "reading": "あ"
+    }
+   ]
+  },
+  {
+   "start": 1446,
+   "end": 1482,
+   "text": "だから"
+  },
+  {
+   "start": 1482,
+   "end": 1557,
+   "text": "ぎりぎりの調整をしないといけないエンジンなんて",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "ちょう"
+    },
+    {
+     "index": 6,
+     "reading": "せい"
+    }
+   ]
+  },
+  {
+   "start": 1557,
+   "end": 1603,
+   "text": "ダメなんだってば"
+  },
+  {
+   "start": 1611,
+   "end": 1670,
+   "text": "そういうあなたのエンジンは"
+  },
+  {
+   "start": 1670,
+   "end": 1755,
+   "text": "お金がかかりすぎるっていってるでしょ～！",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "かね"
+    }
+   ]
+  },
+  {
+   "start": 1793,
+   "end": 1856,
+   "text": "ごめんよロック…"
+  },
+  {
+   "start": 1868,
+   "end": 1966,
+   "text": "当分、むかえにいけそうもないや～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "とう"
+    },
+    {
+     "index": 1,
+     "reading": "ふがん"
+    }
+   ]
+  },
+  {
+   "start": 1989,
+   "end": 2073,
+   "text": "おたがいくろうしますね～"
+  },
+  {
+   "start": 2211,
+   "end": 2346,
+   "text": "しかしまぁ、ロック、元気なのかな～",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "けがん"
+    },
+    {
+     "index": 11,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 2347,
+   "end": 2459,
+   "text": "ふぅ、はやくむかえに行ってあげないとね～",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "い"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 9,
+ "audio_seconds": 74.06,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 370,
+   "end": 416,
+   "text": "ごはんできたよ、ロールちゃん"
+  },
+  {
+   "start": 418,
+   "end": 500,
+   "text": "たまごも、ほら、ちゃんとはんじゅくだし"
+  },
+  {
+   "start": 549,
+   "end": 599,
+   "text": "あ、はかせ出てる！",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "てが"
+    }
+   ]
+  },
+  {
+   "start": 640,
+   "end": 687,
+   "text": "ん～？"
+  },
+  {
+   "start": 751,
+   "end": 855,
+   "text": "大丈夫だって、そうカンタンに見つかるハズないよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 1,
+     "reading": "しがょ"
+    },
+    {
+     "index": 2,
+     "reading": "うふが"
+    },
+    {
+     "index": 14,
+     "reading": "み"
+    }
+   ]
+  },
+  {
+   "start": 876,
+   "end": 910,
+   "text": "ハァ…"
+  },
+  {
+   "start": 975,
+   "end": 1009,
+   "text": "ハァ～"
+  },
+  {
+   "start": 1132,
+   "end": 1252,
+   "text": "ぅ～"
+  },
+  {
+   "start": 1293,
+   "end": 1366,
+   "text": "われわれはカクシンしています"
+  },
+  {
+   "start": 1390,
+   "end": 1472,
+   "text": "今まで人類が追いもとめてきた",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いま"
+    },
+    {
+     "index": 3,
+     "reading": "しがん"
+    },
+    {
+     "index": 4,
+     "reading": "るい"
+    },
+    {
+     "index": 6,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 1472,
+   "end": 1522,
+   "text": "「大いなる遺産」が",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "おお"
+    },
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 6,
+     "reading": "さん"
+    }
+   ]
+  },
+  {
+   "start": 1533,
+   "end": 1613,
+   "text": "ここに眠っているということを！",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "ねむ"
+    }
+   ]
+  },
+  {
+   "start": 1613,
+   "end": 1687,
+   "text": "おぉーっ！！"
+  },
+  {
+   "start": 1832,
+   "end": 1908,
+   "text": "以上で説明は終わりですが…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "い"
+    },
+    {
+     "index": 1,
+     "reading": "しがょう"
+    },
+    {
+     "index": 3,
+     "reading": "せつ"
+    },
+    {
+     "index": 4,
+     "reading": "めい"
+    },
+    {
+     "index": 6,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 1920,
+   "end": 2021,
+   "text": "何か質問がありましたら、お願いします",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "なに"
+    },
+    {
+     "index": 2,
+     "reading": "しつ"
+    },
+    {
+     "index": 3,
+     "reading": "もん"
+    },
+    {
+     "index": 13,
+     "reading": "ねかが"
+    }
+   ]
+  },
+  {
+   "start": 2050,
+   "end": 2094,
+   "text": "よろしいですか？"
+  },
+  {
+   "start": 2097,
+   "end": 2133,
+   "text": "どうぞ"
+  }
+ ]
+}

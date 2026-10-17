@@ -1,0 +1,95 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 19,
+ "audio_seconds": 35.19,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 10,
+   "end": 41,
+   "text": "用意はいい？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "よう"
+    },
+    {
+     "index": 1,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 42,
+   "end": 60,
+   "text": "うん！"
+  },
+  {
+   "start": 60,
+   "end": 105,
+   "text": "いくよ、ロック！"
+  },
+  {
+   "start": 114,
+   "end": 179,
+   "text": "格納庫、ハッチオープン！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かく"
+    },
+    {
+     "index": 1,
+     "reading": "のう"
+    },
+    {
+     "index": 2,
+     "reading": "こ"
+    }
+   ]
+  },
+  {
+   "start": 188,
+   "end": 263,
+   "text": "ドロップシップこてい装置、解除！",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "そう"
+    },
+    {
+     "index": 11,
+     "reading": "ち"
+    },
+    {
+     "index": 13,
+     "reading": "かい"
+    },
+    {
+     "index": 14,
+     "reading": "しがょ"
+    }
+   ]
+  },
+  {
+   "start": 274,
+   "end": 304,
+   "text": "投下！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "とう"
+    },
+    {
+     "index": 1,
+     "reading": "か"
+    }
+   ]
+  },
+  {
+   "start": 596,
+   "end": 747,
+   "text": "うぐっ！　うう……"
+  }
+ ]
+}

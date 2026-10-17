@@ -1,0 +1,90 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 18,
+ "audio_seconds": 21.84,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 1,
+   "end": 87,
+   "text": "ばぶーばぶばぶー！"
+  },
+  {
+   "start": 142,
+   "end": 166,
+   "text": "ばぶ！？"
+  },
+  {
+   "start": 204,
+   "end": 236,
+   "text": "か、鍵がっ！",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "かきが"
+    }
+   ]
+  },
+  {
+   "start": 308,
+   "end": 385,
+   "text": "ばーーーーーぶぅーーーーーっ！！"
+  },
+  {
+   "start": 412,
+   "end": 442,
+   "text": "ロック！？"
+  },
+  {
+   "start": 442,
+   "end": 515,
+   "text": "封印の鍵の反応が急に弱くなった！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふう"
+    },
+    {
+     "index": 1,
+     "reading": "いん"
+    },
+    {
+     "index": 3,
+     "reading": "かきが"
+    },
+    {
+     "index": 5,
+     "reading": "はん"
+    },
+    {
+     "index": 6,
+     "reading": "のう"
+    },
+    {
+     "index": 8,
+     "reading": "きゅう"
+    },
+    {
+     "index": 10,
+     "reading": "よわ"
+    }
+   ]
+  },
+  {
+   "start": 524,
+   "end": 556,
+   "text": "何かあったの？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "なに"
+    }
+   ]
+  },
+  {
+   "start": 567,
+   "end": 597,
+   "text": "やばいっ！！"
+  }
+ ]
+}

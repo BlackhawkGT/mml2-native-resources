@@ -1,0 +1,467 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 1,
+ "audio_seconds": 114.6,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 175,
+   "end": 222,
+   "text": "おお、ロック！"
+  },
+  {
+   "start": 232,
+   "end": 312,
+   "text": "ついに最後の鍵まで集めたか！",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "さい"
+    },
+    {
+     "index": 4,
+     "reading": "こが"
+    },
+    {
+     "index": 6,
+     "reading": "かきが"
+    },
+    {
+     "index": 9,
+     "reading": "あつ"
+    }
+   ]
+  },
+  {
+   "start": 332,
+   "end": 381,
+   "text": "すまんかったの～"
+  },
+  {
+   "start": 389,
+   "end": 491,
+   "text": "けっきょく、何もかもお前にやらせてしまって",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "なに"
+    },
+    {
+     "index": 11,
+     "reading": "まえ"
+    }
+   ]
+  },
+  {
+   "start": 498,
+   "end": 621,
+   "text": "これで、彼女達が何の動きも見せなければ",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "かの"
+    },
+    {
+     "index": 5,
+     "reading": "しがょ"
+    },
+    {
+     "index": 6,
+     "reading": "たち"
+    },
+    {
+     "index": 8,
+     "reading": "なん"
+    },
+    {
+     "index": 10,
+     "reading": "うこが"
+    },
+    {
+     "index": 13,
+     "reading": "み"
+    }
+   ]
+  },
+  {
+   "start": 621,
+   "end": 665,
+   "text": "問題ないんだがな",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "もん"
+    },
+    {
+     "index": 1,
+     "reading": "たがい"
+    }
+   ]
+  },
+  {
+   "start": 686,
+   "end": 732,
+   "text": "彼女たち？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かの"
+    },
+    {
+     "index": 1,
+     "reading": "しがょ"
+    }
+   ]
+  },
+  {
+   "start": 742,
+   "end": 879,
+   "text": "ほれ、「禁断の地」でなにした、あの古代人たちじゃ",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "きん"
+    },
+    {
+     "index": 5,
+     "reading": "たがん"
+    },
+    {
+     "index": 7,
+     "reading": "ち"
+    },
+    {
+     "index": 17,
+     "reading": "こ"
+    },
+    {
+     "index": 18,
+     "reading": "たがい"
+    },
+    {
+     "index": 19,
+     "reading": "しがん"
+    }
+   ]
+  },
+  {
+   "start": 886,
+   "end": 943,
+   "text": "人はうたがいたくないが",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ひと"
+    }
+   ]
+  },
+  {
+   "start": 955,
+   "end": 1046,
+   "text": "用心することにこしたことはないからな",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "よう"
+    },
+    {
+     "index": 1,
+     "reading": "しがん"
+    }
+   ]
+  },
+  {
+   "start": 1061,
+   "end": 1171,
+   "text": "武装した水夫たちを、いつでも突入できるように",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふが"
+    },
+    {
+     "index": 1,
+     "reading": "そう"
+    },
+    {
+     "index": 4,
+     "reading": "すい"
+    },
+    {
+     "index": 5,
+     "reading": "ふ"
+    },
+    {
+     "index": 14,
+     "reading": "とつ"
+    },
+    {
+     "index": 15,
+     "reading": "にゅう"
+    }
+   ]
+  },
+  {
+   "start": 1179,
+   "end": 1256,
+   "text": "まわりの部屋に待機させてある",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "へ"
+    },
+    {
+     "index": 5,
+     "reading": "や"
+    },
+    {
+     "index": 7,
+     "reading": "たい"
+    },
+    {
+     "index": 8,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 1268,
+   "end": 1354,
+   "text": "考えすぎなら、いいんじゃがな",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かんかが"
+    }
+   ]
+  },
+  {
+   "start": 1587,
+   "end": 1632,
+   "text": "い、いまのは…？"
+  },
+  {
+   "start": 1650,
+   "end": 1704,
+   "text": "気の…せいか？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 1730,
+   "end": 1786,
+   "text": "鍵、確認しました",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かきが"
+    },
+    {
+     "index": 2,
+     "reading": "かく"
+    },
+    {
+     "index": 3,
+     "reading": "にん"
+    }
+   ]
+  },
+  {
+   "start": 1798,
+   "end": 1838,
+   "text": "４つそろってます"
+  },
+  {
+   "start": 1846,
+   "end": 1954,
+   "text": "もう、この船は完全に取りこめたようだな？",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "ふね"
+    },
+    {
+     "index": 7,
+     "reading": "かん"
+    },
+    {
+     "index": 8,
+     "reading": "せがん"
+    },
+    {
+     "index": 10,
+     "reading": "と"
+    }
+   ]
+  },
+  {
+   "start": 1956,
+   "end": 1992,
+   "text": "完ぺきです",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かん"
+    }
+   ]
+  },
+  {
+   "start": 2010,
+   "end": 2043,
+   "text": "はじめなさい"
+  },
+  {
+   "start": 2090,
+   "end": 2174,
+   "text": "……最後にもう一度だけ確認いたします",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "さい"
+    },
+    {
+     "index": 3,
+     "reading": "こが"
+    },
+    {
+     "index": 7,
+     "reading": "いち"
+    },
+    {
+     "index": 8,
+     "reading": "とが"
+    },
+    {
+     "index": 11,
+     "reading": "かく"
+    },
+    {
+     "index": 12,
+     "reading": "にん"
+    }
+   ]
+  },
+  {
+   "start": 2198,
+   "end": 2244,
+   "text": "ロックマン・トリッガー"
+  },
+  {
+   "start": 2269,
+   "end": 2326,
+   "text": "マスターの遺伝子コードは",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 6,
+     "reading": "てがん"
+    },
+    {
+     "index": 7,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 2327,
+   "end": 2385,
+   "text": "破キしてもかまわないのですね",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "は"
+    }
+   ]
+  },
+  {
+   "start": 2385,
+   "end": 2439,
+   "text": "鍵をユウセンしなさい",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かきが"
+    }
+   ]
+  },
+  {
+   "start": 2461,
+   "end": 2523,
+   "text": "運が良ければ残がいからでも",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "うん"
+    },
+    {
+     "index": 2,
+     "reading": "よ"
+    },
+    {
+     "index": 6,
+     "reading": "さがん"
+    }
+   ]
+  },
+  {
+   "start": 2529,
+   "end": 2640,
+   "text": "遺伝子コードのサルベージが可能かもしれんしな",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "い"
+    },
+    {
+     "index": 1,
+     "reading": "てがん"
+    },
+    {
+     "index": 2,
+     "reading": "し"
+    },
+    {
+     "index": 13,
+     "reading": "か"
+    },
+    {
+     "index": 14,
+     "reading": "のう"
+    }
+   ]
+  },
+  {
+   "start": 2640,
+   "end": 2671,
+   "text": "わかりました…"
+  },
+  {
+   "start": 2707,
+   "end": 2755,
+   "text": "では、はじめます"
+  },
+  {
+   "start": 2825,
+   "end": 2868,
+   "text": "な、なんじゃ？"
+  },
+  {
+   "start": 3129,
+   "end": 3187,
+   "text": "いかん！　逃げろ！",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "に"
+    }
+   ]
+  }
+ ]
+}

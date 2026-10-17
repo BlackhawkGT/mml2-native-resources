@@ -1,0 +1,33 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 5,
+ "audio_seconds": 18.86,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 280,
+   "end": 376,
+   "text": "ホント…あんたたちにはシツボウしたわ～"
+  },
+  {
+   "start": 376,
+   "end": 448,
+   "text": "あんな島ひとつ落とせないなんて",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "しま"
+    },
+    {
+     "index": 7,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 471,
+   "end": 526,
+   "text": "もうしわけありません"
+  }
+ ]
+}

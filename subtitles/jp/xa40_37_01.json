@@ -1,0 +1,299 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 1,
+ "audio_seconds": 75.96,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 130,
+   "end": 200,
+   "text": "人類再生プログラム…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しがん"
+    },
+    {
+     "index": 1,
+     "reading": "るい"
+    },
+    {
+     "index": 2,
+     "reading": "さい"
+    },
+    {
+     "index": 3,
+     "reading": "せい"
+    }
+   ]
+  },
+  {
+   "start": 218,
+   "end": 319,
+   "text": "やろうと思えば、いつでもジッコウできた",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 365,
+   "end": 495,
+   "text": "だが、やらなかった…なぜだと思う？",
+   "ruby": [
+    {
+     "index": 14,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 534,
+   "end": 589,
+   "text": "私はおまえたちのように",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わたし"
+    }
+   ]
+  },
+  {
+   "start": 600,
+   "end": 673,
+   "text": "システムにさからうことなどできない"
+  },
+  {
+   "start": 698,
+   "end": 759,
+   "text": "システムで定められたこと以外",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "さたが"
+    },
+    {
+     "index": 12,
+     "reading": "い"
+    },
+    {
+     "index": 13,
+     "reading": "かがい"
+    }
+   ]
+  },
+  {
+   "start": 759,
+   "end": 822,
+   "text": "考えることなどできぬ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かんかが"
+    }
+   ]
+  },
+  {
+   "start": 848,
+   "end": 894,
+   "text": "……だから、なぜ、マスターが"
+  },
+  {
+   "start": 894,
+   "end": 969,
+   "text": "システムをホウ壊させるようなことをしたのか",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 978,
+   "end": 1018,
+   "text": "理解できぬ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "り"
+    },
+    {
+     "index": 1,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 1053,
+   "end": 1103,
+   "text": "おまえたちが、うらやましい"
+  },
+  {
+   "start": 1122,
+   "end": 1198,
+   "text": "わたしは、いつまでもマスターの気持ちに",
+   "ruby": [
+    {
+     "index": 15,
+     "reading": "き"
+    },
+    {
+     "index": 16,
+     "reading": "も"
+    }
+   ]
+  },
+  {
+   "start": 1198,
+   "end": 1244,
+   "text": "近よることができない",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ちか"
+    }
+   ]
+  },
+  {
+   "start": 1266,
+   "end": 1325,
+   "text": "おなじマザーであるユーナでさえ"
+  },
+  {
+   "start": 1325,
+   "end": 1365,
+   "text": "システムから離れ",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "はな"
+    }
+   ]
+  },
+  {
+   "start": 1368,
+   "end": 1446,
+   "text": "自由に行動する道をえらんだというのに",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しが"
+    },
+    {
+     "index": 1,
+     "reading": "ゆう"
+    },
+    {
+     "index": 3,
+     "reading": "こう"
+    },
+    {
+     "index": 4,
+     "reading": "とがう"
+    },
+    {
+     "index": 7,
+     "reading": "みち"
+    }
+   ]
+  },
+  {
+   "start": 1466,
+   "end": 1543,
+   "text": "私には、どうしてもできなかった",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わたし"
+    }
+   ]
+  },
+  {
+   "start": 1613,
+   "end": 1653,
+   "text": "…だからせめて"
+  },
+  {
+   "start": 1663,
+   "end": 1731,
+   "text": "マスターがあいしたお前がここにくるまで",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "まえ"
+    }
+   ]
+  },
+  {
+   "start": 1733,
+   "end": 1775,
+   "text": "待とうと思ったのだ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ま"
+    },
+    {
+     "index": 4,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 1794,
+   "end": 1865,
+   "text": "マスターの意思をくむお前と戦うことに",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 6,
+     "reading": "し"
+    },
+    {
+     "index": 11,
+     "reading": "まえ"
+    },
+    {
+     "index": 13,
+     "reading": "たたか"
+    }
+   ]
+  },
+  {
+   "start": 1877,
+   "end": 1935,
+   "text": "すべてをゆだねてよいと……"
+  },
+  {
+   "start": 1982,
+   "end": 2033,
+   "text": "ロックマン・トリッガーよ"
+  },
+  {
+   "start": 2060,
+   "end": 2107,
+   "text": "エンリョはいらぬ"
+  },
+  {
+   "start": 2130,
+   "end": 2240,
+   "text": "存分に…かかってこられよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "そがん"
+    },
+    {
+     "index": 1,
+     "reading": "ふがん"
+    }
+   ]
+  }
+ ]
+}

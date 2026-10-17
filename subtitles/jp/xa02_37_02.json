@@ -1,0 +1,1017 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 2,
+ "audio_seconds": 216.14,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 9,
+   "end": 51,
+   "text": "なんだぁ、ありゃ？"
+  },
+  {
+   "start": 51,
+   "end": 96,
+   "text": "燃えてやがるぜ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "も"
+    }
+   ]
+  },
+  {
+   "start": 124,
+   "end": 194,
+   "text": "まさか…オレたち以外にも",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "い"
+    },
+    {
+     "index": 9,
+     "reading": "かがい"
+    }
+   ]
+  },
+  {
+   "start": 194,
+   "end": 284,
+   "text": "鍵をヨコ取りしようってヤツがいやがるのか？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かきが"
+    },
+    {
+     "index": 4,
+     "reading": "とが"
+    }
+   ]
+  },
+  {
+   "start": 285,
+   "end": 381,
+   "text": "このままにしておくと、落ちるかもしれませんわ",
+   "ruby": [
+    {
+     "index": 11,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 381,
+   "end": 429,
+   "text": "手をうちませんと",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "て"
+    }
+   ]
+  },
+  {
+   "start": 439,
+   "end": 552,
+   "text": "でもな～…下手に近づいたら道連れだぜ…",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "へ"
+    },
+    {
+     "index": 6,
+     "reading": "た"
+    },
+    {
+     "index": 8,
+     "reading": "ちか"
+    },
+    {
+     "index": 13,
+     "reading": "みち"
+    },
+    {
+     "index": 14,
+     "reading": "つが"
+    }
+   ]
+  },
+  {
+   "start": 552,
+   "end": 658,
+   "text": "こんどこそ、あの青いヤツもおだぶつかもな",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "あお"
+    }
+   ]
+  },
+  {
+   "start": 663,
+   "end": 739,
+   "text": "ばぶ、ばぶばーぶぅ"
+  },
+  {
+   "start": 739,
+   "end": 812,
+   "text": "やっぱり、お前もそー思うか？",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "まえ"
+    },
+    {
+     "index": 10,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 812,
+   "end": 851,
+   "text": "くぅ…"
+  },
+  {
+   "start": 1110,
+   "end": 1154,
+   "text": "気がついた？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 1200,
+   "end": 1252,
+   "text": "は！？　みんなは！？"
+  },
+  {
+   "start": 1274,
+   "end": 1308,
+   "text": "大丈夫",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 1,
+     "reading": "しがょ"
+    },
+    {
+     "index": 2,
+     "reading": "うふが"
+    }
+   ]
+  },
+  {
+   "start": 1308,
+   "end": 1385,
+   "text": "ガーちゃんが、ちゃんと確保してくれてるわ",
+   "ruby": [
+    {
+     "index": 11,
+     "reading": "かく"
+    },
+    {
+     "index": 12,
+     "reading": "ほ"
+    }
+   ]
+  },
+  {
+   "start": 1421,
+   "end": 1508,
+   "text": "ユーナさま、どういうおつもりですか？"
+  },
+  {
+   "start": 1527,
+   "end": 1648,
+   "text": "あら、ちゃんと私をユーナって認シキしてくれるのね",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "わたし"
+    },
+    {
+     "index": 14,
+     "reading": "にん"
+    }
+   ]
+  },
+  {
+   "start": 1664,
+   "end": 1748,
+   "text": "オリジナルのたんまつボディー壊しちゃったのに",
+   "ruby": [
+    {
+     "index": 14,
+     "reading": "こわ"
+    }
+   ]
+  },
+  {
+   "start": 1748,
+   "end": 1817,
+   "text": "ジジ…そいつに構うでない",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "かま"
+    }
+   ]
+  },
+  {
+   "start": 1817,
+   "end": 1862,
+   "text": "アタマがおかしくなるぞ"
+  },
+  {
+   "start": 1862,
+   "end": 1940,
+   "text": "あら、ずいぶんね～"
+  },
+  {
+   "start": 1940,
+   "end": 2032,
+   "text": "ずいぶんなのは、おぬしのほうではないかユーナ"
+  },
+  {
+   "start": 2058,
+   "end": 2098,
+   "text": "まぁ、よい"
+  },
+  {
+   "start": 2100,
+   "end": 2153,
+   "text": "私はもう決めた",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わたし"
+    },
+    {
+     "index": 4,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 2163,
+   "end": 2208,
+   "text": "口出しは無用だ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "くち"
+    },
+    {
+     "index": 1,
+     "reading": "たが"
+    },
+    {
+     "index": 4,
+     "reading": "む"
+    },
+    {
+     "index": 5,
+     "reading": "よう"
+    }
+   ]
+  },
+  {
+   "start": 2210,
+   "end": 2287,
+   "text": "マスターの遺伝子コードを破キする気ね",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 6,
+     "reading": "てがん"
+    },
+    {
+     "index": 7,
+     "reading": "し"
+    },
+    {
+     "index": 12,
+     "reading": "は"
+    },
+    {
+     "index": 16,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 2292,
+   "end": 2349,
+   "text": "私にソウダンもなく決めるなんて",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わたし"
+    },
+    {
+     "index": 9,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 2349,
+   "end": 2401,
+   "text": "ひどいんじゃないかしら"
+  },
+  {
+   "start": 2407,
+   "end": 2477,
+   "text": "おぬしが、オリジナルのたんまつボディーを"
+  },
+  {
+   "start": 2477,
+   "end": 2525,
+   "text": "壊してしまったときから",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "こわ"
+    }
+   ]
+  },
+  {
+   "start": 2542,
+   "end": 2636,
+   "text": "私がこのシステム界、ゆいいつのマザーになった",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わたし"
+    },
+    {
+     "index": 8,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 2654,
+   "end": 2694,
+   "text": "何の問題もない",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "なん"
+    },
+    {
+     "index": 2,
+     "reading": "もん"
+    },
+    {
+     "index": 3,
+     "reading": "たがい"
+    }
+   ]
+  },
+  {
+   "start": 2700,
+   "end": 2740,
+   "text": "やっぱり？"
+  },
+  {
+   "start": 2743,
+   "end": 2783,
+   "text": "セラさま"
+  },
+  {
+   "start": 2785,
+   "end": 2837,
+   "text": "鍵はセラ様におあずけいたします",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かきが"
+    },
+    {
+     "index": 4,
+     "reading": "さま"
+    }
+   ]
+  },
+  {
+   "start": 2850,
+   "end": 2897,
+   "text": "先にヘブンへお戻りください",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "さき"
+    },
+    {
+     "index": 7,
+     "reading": "もとが"
+    }
+   ]
+  },
+  {
+   "start": 2913,
+   "end": 2976,
+   "text": "わたくしは、マスターの遺伝子コードを",
+   "ruby": [
+    {
+     "index": 11,
+     "reading": "い"
+    },
+    {
+     "index": 12,
+     "reading": "てがん"
+    },
+    {
+     "index": 13,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 2976,
+   "end": 3016,
+   "text": "回収してから戻ります",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かい"
+    },
+    {
+     "index": 1,
+     "reading": "しゅう"
+    },
+    {
+     "index": 6,
+     "reading": "もとが"
+    }
+   ]
+  },
+  {
+   "start": 3016,
+   "end": 3096,
+   "text": "ちょっと、セラと話しているトチュウなのよ！",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "はな"
+    }
+   ]
+  },
+  {
+   "start": 3108,
+   "end": 3151,
+   "text": "ジジ、やってくれ"
+  },
+  {
+   "start": 3258,
+   "end": 3282,
+   "text": "鍵が……！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かきが"
+    }
+   ]
+  },
+  {
+   "start": 3282,
+   "end": 3337,
+   "text": "やばいわね～"
+  },
+  {
+   "start": 3353,
+   "end": 3451,
+   "text": "人類再生プログラム、始動か～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しがん"
+    },
+    {
+     "index": 1,
+     "reading": "るい"
+    },
+    {
+     "index": 2,
+     "reading": "さい"
+    },
+    {
+     "index": 3,
+     "reading": "せい"
+    },
+    {
+     "index": 10,
+     "reading": "し"
+    },
+    {
+     "index": 11,
+     "reading": "とがう"
+    }
+   ]
+  },
+  {
+   "start": 3460,
+   "end": 3534,
+   "text": "人類再生プログラム？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しがん"
+    },
+    {
+     "index": 1,
+     "reading": "るい"
+    },
+    {
+     "index": 2,
+     "reading": "さい"
+    },
+    {
+     "index": 3,
+     "reading": "せい"
+    }
+   ]
+  },
+  {
+   "start": 3572,
+   "end": 3657,
+   "text": "いま地上にいる人間、すべてが消えて",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "ち"
+    },
+    {
+     "index": 3,
+     "reading": "しがょう"
+    },
+    {
+     "index": 7,
+     "reading": "にん"
+    },
+    {
+     "index": 8,
+     "reading": "けがん"
+    },
+    {
+     "index": 14,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 3660,
+   "end": 3721,
+   "text": "むかしの、あなたが知らない人間が",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "し"
+    },
+    {
+     "index": 13,
+     "reading": "にん"
+    },
+    {
+     "index": 14,
+     "reading": "けがん"
+    }
+   ]
+  },
+  {
+   "start": 3721,
+   "end": 3794,
+   "text": "新たに生まれるって感じかな？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "あら"
+    },
+    {
+     "index": 3,
+     "reading": "う"
+    },
+    {
+     "index": 9,
+     "reading": "かん"
+    }
+   ]
+  },
+  {
+   "start": 3794,
+   "end": 3823,
+   "text": "えっ…？"
+  },
+  {
+   "start": 3823,
+   "end": 3916,
+   "text": "ユーナさま、ヨケイなことは言わないでください",
+   "ruby": [
+    {
+     "index": 13,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 3930,
+   "end": 4004,
+   "text": "そろそろ私、仕事をはじめます",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "わたくし"
+    },
+    {
+     "index": 6,
+     "reading": "し"
+    },
+    {
+     "index": 7,
+     "reading": "こがと"
+    }
+   ]
+  },
+  {
+   "start": 4018,
+   "end": 4073,
+   "text": "出ていっていただけますか？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "てが"
+    }
+   ]
+  },
+  {
+   "start": 4077,
+   "end": 4167,
+   "text": "ん～、どーしよっかな～"
+  },
+  {
+   "start": 4167,
+   "end": 4222,
+   "text": "どうしようかなって…"
+  },
+  {
+   "start": 4233,
+   "end": 4271,
+   "text": "まさか！？"
+  },
+  {
+   "start": 4271,
+   "end": 4309,
+   "text": "あったり～！！"
+  },
+  {
+   "start": 4309,
+   "end": 4355,
+   "text": "ガーちゃん、やっちゃって！"
+  },
+  {
+   "start": 4355,
+   "end": 4407,
+   "text": "ほんとに、ですか？"
+  },
+  {
+   "start": 4411,
+   "end": 4473,
+   "text": "ガガ！　どういうことだ！"
+  },
+  {
+   "start": 4473,
+   "end": 4556,
+   "text": "この体だと、マザーのニンシキをされないかわり",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "からたが"
+    }
+   ]
+  },
+  {
+   "start": 4556,
+   "end": 4622,
+   "text": "リミッター効かないのよね",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 4627,
+   "end": 4692,
+   "text": "なんでも、やりたい放題なの！",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "ほう"
+    },
+    {
+     "index": 10,
+     "reading": "たがい"
+    }
+   ]
+  },
+  {
+   "start": 4701,
+   "end": 4756,
+   "text": "ジジ…すまん！"
+  },
+  {
+   "start": 4757,
+   "end": 4807,
+   "text": "や、やめろ！"
+  },
+  {
+   "start": 4808,
+   "end": 4873,
+   "text": "うっ、うおぉ～っ！"
+  },
+  {
+   "start": 4890,
+   "end": 4952,
+   "text": "ロック君、ジジの体を",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "くん"
+    },
+    {
+     "index": 8,
+     "reading": "からたが"
+    }
+   ]
+  },
+  {
+   "start": 4952,
+   "end": 5012,
+   "text": "船の外に押し出したわ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふね"
+    },
+    {
+     "index": 2,
+     "reading": "そと"
+    },
+    {
+     "index": 4,
+     "reading": "お"
+    },
+    {
+     "index": 6,
+     "reading": "たが"
+    }
+   ]
+  },
+  {
+   "start": 5016,
+   "end": 5065,
+   "text": "甲板にあがってごらんなさい",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かん"
+    },
+    {
+     "index": 1,
+     "reading": "はぎん"
+    }
+   ]
+  },
+  {
+   "start": 5065,
+   "end": 5115,
+   "text": "あの子がいるから",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "こ"
+    }
+   ]
+  },
+  {
+   "start": 5138,
+   "end": 5199,
+   "text": "あとは、あなたにまかせるわ"
+  },
+  {
+   "start": 5220,
+   "end": 5274,
+   "text": "あの子を倒すか",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "こ"
+    },
+    {
+     "index": 4,
+     "reading": "たお"
+    }
+   ]
+  },
+  {
+   "start": 5277,
+   "end": 5364,
+   "text": "あの子にマスターの遺伝子コードを渡すか……",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "こ"
+    },
+    {
+     "index": 9,
+     "reading": "い"
+    },
+    {
+     "index": 10,
+     "reading": "てがん"
+    },
+    {
+     "index": 11,
+     "reading": "し"
+    },
+    {
+     "index": 16,
+     "reading": "わた"
+    }
+   ]
+  },
+  {
+   "start": 5434,
+   "end": 5500,
+   "text": "急に言われてもわからない？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "きゅう"
+    },
+    {
+     "index": 2,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 5521,
+   "end": 5661,
+   "text": "そうよね、記憶を失っちゃってるんだもんね",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "き"
+    },
+    {
+     "index": 6,
+     "reading": "おく"
+    },
+    {
+     "index": 8,
+     "reading": "うしな"
+    }
+   ]
+  },
+  {
+   "start": 5682,
+   "end": 5776,
+   "text": "でもね、そんなことは関係ないと思うのよ",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "かん"
+    },
+    {
+     "index": 11,
+     "reading": "けい"
+    },
+    {
+     "index": 15,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 5789,
+   "end": 5863,
+   "text": "今のあなたの気持ちはどうなの？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いま"
+    },
+    {
+     "index": 6,
+     "reading": "き"
+    },
+    {
+     "index": 7,
+     "reading": "も"
+    }
+   ]
+  },
+  {
+   "start": 5943,
+   "end": 6042,
+   "text": "ものごとはそんなに複雑に考えるもんじゃないわ",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "ふく"
+    },
+    {
+     "index": 10,
+     "reading": "さがつ"
+    },
+    {
+     "index": 12,
+     "reading": "かんかが"
+    }
+   ]
+  },
+  {
+   "start": 6059,
+   "end": 6109,
+   "text": "今の、自分の気持ちに",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いま"
+    },
+    {
+     "index": 3,
+     "reading": "しが"
+    },
+    {
+     "index": 4,
+     "reading": "ふがん"
+    },
+    {
+     "index": 6,
+     "reading": "き"
+    },
+    {
+     "index": 7,
+     "reading": "も"
+    }
+   ]
+  },
+  {
+   "start": 6109,
+   "end": 6170,
+   "text": "チュウジツに生きてごらんなさい",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 6178,
+   "end": 6240,
+   "text": "ユーナさま、ジジおこってます！"
+  },
+  {
+   "start": 6240,
+   "end": 6312,
+   "text": "早くしないと、船ごと落とされちゃいますよ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "はや"
+    },
+    {
+     "index": 7,
+     "reading": "ふね"
+    },
+    {
+     "index": 10,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 6312,
+   "end": 6396,
+   "text": "さあ、どうする？"
+  }
+ ]
+}

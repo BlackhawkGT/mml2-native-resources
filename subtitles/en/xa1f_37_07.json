@@ -1,0 +1,13 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 7,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 93,
+   "end": 139,
+   "text": "Good luck!"
+  }
+ ]
+}

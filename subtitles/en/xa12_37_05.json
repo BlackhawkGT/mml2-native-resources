@@ -1,0 +1,109 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 5,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 30,
+   "end": 84,
+   "text": "There he goes."
+  },
+  {
+   "start": 112,
+   "end": 216,
+   "text": "Do you really think that there's a key here, Bola?"
+  },
+  {
+   "start": 252,
+   "end": 286,
+   "text": "Bola?"
+  },
+  {
+   "start": 352,
+   "end": 448,
+   "text": "Hey, Bola, where are you?!"
+  },
+  {
+   "start": 456,
+   "end": 522,
+   "text": "Did you say something, Klaymoor?"
+  },
+  {
+   "start": 525,
+   "end": 582,
+   "text": "...Did you say something, Klaymoor?"
+  },
+  {
+   "start": 595,
+   "end": 636,
+   "text": "Get with it, Bola."
+  },
+  {
+   "start": 639,
+   "end": 714,
+   "text": "We might be the ones to find the Mother Lode."
+  },
+  {
+   "start": 714,
+   "end": 781,
+   "text": "Doesn't that mean anything to you?"
+  },
+  {
+   "start": 781,
+   "end": 826,
+   "text": "No, not at all."
+  },
+  {
+   "start": 826,
+   "end": 862,
+   "text": "Why should I care?"
+  },
+  {
+   "start": 862,
+   "end": 968,
+   "text": "I've got enough money to keep me living the good life for a long time."
+  },
+  {
+   "start": 968,
+   "end": 1009,
+   "text": "I want out of this game."
+  },
+  {
+   "start": 1009,
+   "end": 1043,
+   "text": "Get it, Klaymoor?"
+  },
+  {
+   "start": 1043,
+   "end": 1110,
+   "text": "Come on, Bola, don't say that."
+  },
+  {
+   "start": 1114,
+   "end": 1182,
+   "text": "I've dreamed of finding the Mother Lode for years."
+  },
+  {
+   "start": 1182,
+   "end": 1221,
+   "text": "Help me out, huh?"
+  },
+  {
+   "start": 1224,
+   "end": 1293,
+   "text": "I'll let you take care of that blue kid."
+  },
+  {
+   "start": 1299,
+   "end": 1359,
+   "text": "I'm going to check out another island."
+  },
+  {
+   "start": 1400,
+   "end": 1526,
+   "text": "Alright, alright... Wouldn't want to get in the way of you and your treasure."
+  }
+ ],
+ "edited": true
+}

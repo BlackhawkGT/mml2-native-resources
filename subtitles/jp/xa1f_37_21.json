@@ -1,0 +1,370 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 21,
+ "audio_seconds": 78.42,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 19,
+   "end": 102,
+   "text": "あの子、ロールとかいったっけ？",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "こ"
+    }
+   ]
+  },
+  {
+   "start": 102,
+   "end": 169,
+   "text": "え？　…はい"
+  },
+  {
+   "start": 179,
+   "end": 256,
+   "text": "あの子、あなたがイシキを失ってる間",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "こ"
+    },
+    {
+     "index": 12,
+     "reading": "うしな"
+    },
+    {
+     "index": 16,
+     "reading": "あいたが"
+    }
+   ]
+  },
+  {
+   "start": 256,
+   "end": 300,
+   "text": "必死だったわよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ひっ"
+    },
+    {
+     "index": 1,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 330,
+   "end": 423,
+   "text": "わたしにね、何かできることはないかって",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "なに"
+    }
+   ]
+  },
+  {
+   "start": 431,
+   "end": 484,
+   "text": "ぎゅっと、手をにぎりしめて…",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "て"
+    }
+   ]
+  },
+  {
+   "start": 498,
+   "end": 564,
+   "text": "命がけって感じで聞くの",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いのち"
+    },
+    {
+     "index": 5,
+     "reading": "かん"
+    },
+    {
+     "index": 8,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 579,
+   "end": 648,
+   "text": "あなたが助かりそうだって話したら",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "たす"
+    },
+    {
+     "index": 12,
+     "reading": "はな"
+    }
+   ]
+  },
+  {
+   "start": 649,
+   "end": 698,
+   "text": "なきそうな顔してたけど…",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "かお"
+    }
+   ]
+  },
+  {
+   "start": 714,
+   "end": 790,
+   "text": "相当、あなたのこと好きなのね",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "そう"
+    },
+    {
+     "index": 1,
+     "reading": "とう"
+    },
+    {
+     "index": 9,
+     "reading": "す"
+    }
+   ]
+  },
+  {
+   "start": 812,
+   "end": 866,
+   "text": "ガーちゃん？　調子はどう？",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "ちょう"
+    },
+    {
+     "index": 8,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 875,
+   "end": 915,
+   "text": "なんとかいけそうです"
+  },
+  {
+   "start": 928,
+   "end": 951,
+   "text": "このシャトル"
+  },
+  {
+   "start": 951,
+   "end": 1006,
+   "text": "ガーちゃんにゆう合してもらって直したの",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "こがう"
+    },
+    {
+     "index": 15,
+     "reading": "なお"
+    }
+   ]
+  },
+  {
+   "start": 1016,
+   "end": 1071,
+   "text": "トリッガーさま、お急ぎください",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "いそ"
+    }
+   ]
+  },
+  {
+   "start": 1081,
+   "end": 1155,
+   "text": "セラさまが人類再生プログラムを始動させるまで",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "しがん"
+    },
+    {
+     "index": 6,
+     "reading": "るい"
+    },
+    {
+     "index": 7,
+     "reading": "さい"
+    },
+    {
+     "index": 8,
+     "reading": "せい"
+    },
+    {
+     "index": 15,
+     "reading": "し"
+    },
+    {
+     "index": 16,
+     "reading": "とがう"
+    }
+   ]
+  },
+  {
+   "start": 1155,
+   "end": 1193,
+   "text": "あまり時間はありません",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "しが"
+    },
+    {
+     "index": 4,
+     "reading": "かん"
+    }
+   ]
+  },
+  {
+   "start": 1193,
+   "end": 1245,
+   "text": "さ、乗った乗った",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "の"
+    },
+    {
+     "index": 5,
+     "reading": "の"
+    }
+   ]
+  },
+  {
+   "start": 1252,
+   "end": 1284,
+   "text": "はい"
+  },
+  {
+   "start": 1668,
+   "end": 1746,
+   "text": "わたしね、あのロールって子とか",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "こ"
+    }
+   ]
+  },
+  {
+   "start": 1749,
+   "end": 1845,
+   "text": "他のデコイたちとか、けっこう好きよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ほか"
+    },
+    {
+     "index": 14,
+     "reading": "す"
+    }
+   ]
+  },
+  {
+   "start": 1880,
+   "end": 1930,
+   "text": "システムを破壊しても",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "は"
+    },
+    {
+     "index": 6,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 1939,
+   "end": 1994,
+   "text": "守る「かち」あるって思う",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "まも"
+    },
+    {
+     "index": 10,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 2007,
+   "end": 2077,
+   "text": "破壊するのはどうかと思いますが…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "は"
+    },
+    {
+     "index": 1,
+     "reading": "かい"
+    },
+    {
+     "index": 10,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 2090,
+   "end": 2171,
+   "text": "私もできる限りのお手伝いします",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わたし"
+    },
+    {
+     "index": 5,
+     "reading": "かきが"
+    },
+    {
+     "index": 9,
+     "reading": "て"
+    },
+    {
+     "index": 10,
+     "reading": "つたが"
+    }
+   ]
+  },
+  {
+   "start": 2192,
+   "end": 2316,
+   "text": "うふふ、ま、３人なかよくガンバりましょね！",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "にん"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 28,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 131,
+   "end": 282,
+   "text": "This is all your doing. If it weren't for you, this would not have happened!"
+  },
+  {
+   "start": 315,
+   "end": 452,
+   "text": "This unit cannot allow Mistress Sera to be harmed!"
+  },
+  {
+   "start": 452,
+   "end": 555,
+   "text": "Raaaaaaaah!"
+  }
+ ],
+ "edited": true
+}

@@ -1,0 +1,122 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 15,
+ "audio_seconds": 26.17,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 40,
+   "text": "はぁはぁはぁ"
+  },
+  {
+   "start": 53,
+   "end": 77,
+   "text": "あぁ～！"
+  },
+  {
+   "start": 114,
+   "end": 174,
+   "text": "クックック、かんねんしな！"
+  },
+  {
+   "start": 174,
+   "end": 231,
+   "text": "もう爆発は止められねえ！",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "はがく"
+    },
+    {
+     "index": 3,
+     "reading": "はつ"
+    },
+    {
+     "index": 5,
+     "reading": "と"
+    }
+   ]
+  },
+  {
+   "start": 236,
+   "end": 309,
+   "text": "同じ青どうし、いっしょになかよく死のうぜ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "おな"
+    },
+    {
+     "index": 2,
+     "reading": "あお"
+    },
+    {
+     "index": 16,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 334,
+   "end": 415,
+   "text": "くそー、あのセイモンさえ開けば！",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "ひら"
+    }
+   ]
+  },
+  {
+   "start": 426,
+   "end": 463,
+   "text": "カードキーはどこなんだ！？"
+  },
+  {
+   "start": 474,
+   "end": 527,
+   "text": "それってこれかなぁ～"
+  },
+  {
+   "start": 536,
+   "end": 606,
+   "text": "塔の中に落ちてたんだけどぉ～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "とう"
+    },
+    {
+     "index": 2,
+     "reading": "なか"
+    },
+    {
+     "index": 4,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 608,
+   "end": 658,
+   "text": "あ、それ！　それだよ！"
+  },
+  {
+   "start": 672,
+   "end": 724,
+   "text": "よーし、これでなんとか！"
+  },
+  {
+   "start": 736,
+   "end": 780,
+   "text": "なくさないように持ってて！",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "も"
+    }
+   ]
+  }
+ ]
+}

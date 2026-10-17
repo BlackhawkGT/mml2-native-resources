@@ -1,0 +1,24 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 7,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 24,
+   "end": 97,
+   "text": "I thought I told you to wait!"
+  },
+  {
+   "start": 140,
+   "end": 319,
+   "text": "I didn't think you'd gotten this far. A little more and I would have lost you."
+  },
+  {
+   "start": 344,
+   "end": 432,
+   "text": "Okay then! Ready for another round?"
+  }
+ ],
+ "edited": true
+}

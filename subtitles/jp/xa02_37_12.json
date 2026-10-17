@@ -1,0 +1,74 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 12,
+ "audio_seconds": 20.19,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 108,
+   "end": 163,
+   "text": "ロールちゃん！船が！",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "ふね"
+    }
+   ]
+  },
+  {
+   "start": 164,
+   "end": 218,
+   "text": "船があらしにとりこまれた！！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふね"
+    }
+   ]
+  },
+  {
+   "start": 223,
+   "end": 277,
+   "text": "お、おじいちゃん！"
+  },
+  {
+   "start": 286,
+   "end": 322,
+   "text": "ど、どうしよう……"
+  },
+  {
+   "start": 331,
+   "end": 417,
+   "text": "この船じゃ、あそこには入れない…",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "ふね"
+    },
+    {
+     "index": 11,
+     "reading": "はい"
+    }
+   ]
+  },
+  {
+   "start": 434,
+   "end": 563,
+   "text": "近くの島におりてたいさくを考えるしか、ないみたい",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ちか"
+    },
+    {
+     "index": 3,
+     "reading": "しま"
+    },
+    {
+     "index": 13,
+     "reading": "かんかが"
+    }
+   ]
+  }
+ ]
+}

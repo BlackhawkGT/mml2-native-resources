@@ -1,0 +1,127 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 6,
+ "audio_seconds": 22.65,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 149,
+   "end": 231,
+   "text": "ふぅ…これで安心だな",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "あん"
+    },
+    {
+     "index": 7,
+     "reading": "しん"
+    }
+   ]
+  },
+  {
+   "start": 235,
+   "end": 325,
+   "text": "ロックくん、上だ！　屋上に取り付かれた！",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "うえ"
+    },
+    {
+     "index": 10,
+     "reading": "おく"
+    },
+    {
+     "index": 11,
+     "reading": "しがょう"
+    },
+    {
+     "index": 13,
+     "reading": "と"
+    },
+    {
+     "index": 15,
+     "reading": "つ"
+    }
+   ]
+  },
+  {
+   "start": 325,
+   "end": 370,
+   "text": "急いで来てくれーっ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いそ"
+    },
+    {
+     "index": 3,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 370,
+   "end": 422,
+   "text": "ロック、屋上に行って！",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "おく"
+    },
+    {
+     "index": 5,
+     "reading": "しがょう"
+    },
+    {
+     "index": 7,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 430,
+   "end": 489,
+   "text": "そこはもう、大丈夫なはずだから",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 7,
+     "reading": "しがょ"
+    },
+    {
+     "index": 8,
+     "reading": "うふが"
+    }
+   ]
+  },
+  {
+   "start": 507,
+   "end": 561,
+   "text": "そうこからはしごで屋上に出れる",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "おく"
+    },
+    {
+     "index": 10,
+     "reading": "しがょう"
+    },
+    {
+     "index": 12,
+     "reading": "てが"
+    }
+   ]
+  },
+  {
+   "start": 562,
+   "end": 606,
+   "text": "わかった、ロールちゃん！"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 18,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 9,
+   "end": 73,
+   "text": "That takes care of that."
+  },
+  {
+   "start": 82,
+   "end": 208,
+   "text": "Now all we have to do is go back to the church and get the last key."
+  },
+  {
+   "start": 220,
+   "end": 277,
+   "text": "Come on Mega Man, let's go!"
+  }
+ ],
+ "edited": true
+}

@@ -1,0 +1,29 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 0,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 61,
+   "end": 169,
+   "text": "Execution of Carbon Reinitialization Program has been paused."
+  },
+  {
+   "start": 169,
+   "end": 250,
+   "text": "Awaiting order to continue from other unit."
+  },
+  {
+   "start": 429,
+   "end": 519,
+   "text": "Paused? Why?"
+  },
+  {
+   "start": 775,
+   "end": 860,
+   "text": "I have been waiting for you Mega Man Trigger."
+  }
+ ],
+ "edited": true
+}

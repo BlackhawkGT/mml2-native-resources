@@ -1,0 +1,76 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 18,
+ "audio_seconds": 10.97,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 4,
+   "end": 64,
+   "text": "これで、もう大丈夫",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 7,
+     "reading": "しがょ"
+    },
+    {
+     "index": 8,
+     "reading": "うふが"
+    }
+   ]
+  },
+  {
+   "start": 69,
+   "end": 121,
+   "text": "あとは、教会に行って…",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "きょう"
+    },
+    {
+     "index": 5,
+     "reading": "かい"
+    },
+    {
+     "index": 7,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 129,
+   "end": 197,
+   "text": "いよいよ最後のダンジョンだね",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "さい"
+    },
+    {
+     "index": 5,
+     "reading": "こが"
+    }
+   ]
+  },
+  {
+   "start": 203,
+   "end": 288,
+   "text": "じゃ、街に戻るよ、ロック",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "まち"
+    },
+    {
+     "index": 5,
+     "reading": "もとが"
+    }
+   ]
+  }
+ ]
+}

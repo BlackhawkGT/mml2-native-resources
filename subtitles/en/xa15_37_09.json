@@ -1,0 +1,59 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 9,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 61,
+   "end": 134,
+   "text": "All of our assault teams have been shot down!"
+  },
+  {
+   "start": 134,
+   "end": 216,
+   "text": "Inconceivable!"
+  },
+  {
+   "start": 217,
+   "end": 287,
+   "text": "I told you not to underestimate them!"
+  },
+  {
+   "start": 287,
+   "end": 398,
+   "text": "How come we have to go to so much trouble over one little blue guy?"
+  },
+  {
+   "start": 398,
+   "end": 508,
+   "text": "Blue guy? Are you talking about me? Blue? Huh? Are you talking about me?"
+  },
+  {
+   "start": 508,
+   "end": 590,
+   "text": "No! Not you! The guy down there!"
+  },
+  {
+   "start": 590,
+   "end": 706,
+   "text": "Curses! Our plan may have failed, but we can't let that blue guy off this easy!"
+  },
+  {
+   "start": 706,
+   "end": 793,
+   "text": "For our fallen comrades! Battle stations!"
+  },
+  {
+   "start": 793,
+   "end": 848,
+   "text": "Yeah! Get the blue guy!"
+  },
+  {
+   "start": 848,
+   "end": 895,
+   "text": "Ka-ka-ka-ka-ka-ka!"
+  }
+ ],
+ "edited": true
+}

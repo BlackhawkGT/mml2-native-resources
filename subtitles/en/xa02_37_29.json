@@ -1,0 +1,18 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 29,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 42,
+   "end": 185,
+   "text": "Here we are. Mega Man, be careful. Please?"
+  },
+  {
+   "start": 237,
+   "end": 267,
+   "text": "I will."
+  }
+ ]
+}

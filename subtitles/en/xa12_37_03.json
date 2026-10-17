@@ -1,0 +1,39 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 3,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 61,
+   "end": 117,
+   "text": "Oh, dang."
+  },
+  {
+   "start": 123,
+   "end": 268,
+   "text": "Give an old man a break, will you? I think I pulled something."
+  },
+  {
+   "start": 297,
+   "end": 403,
+   "text": "You might not realize it, but someday you'll be old too."
+  },
+  {
+   "start": 405,
+   "end": 454,
+   "text": "Enjoy your youth while you can,"
+  },
+  {
+   "start": 454,
+   "end": 589,
+   "text": "but develop your skills, because your speed won't last forever."
+  },
+  {
+   "start": 600,
+   "end": 730,
+   "text": "Oh, what do you care? You're not even listening anyway, are you? Later!"
+  }
+ ],
+ "edited": true
+}

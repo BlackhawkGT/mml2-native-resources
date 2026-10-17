@@ -1,0 +1,19 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 4,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 8,
+   "end": 165,
+   "text": "Hmm, not bad for a kid. You're not such a pushover."
+  },
+  {
+   "start": 175,
+   "end": 388,
+   "text": "I haven't had this much fun in a long time. You wait, I'll be back."
+  }
+ ],
+ "edited": true
+}

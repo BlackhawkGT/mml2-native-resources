@@ -1,0 +1,184 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 14,
+ "audio_seconds": 50.65,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 4,
+   "end": 79,
+   "text": "ぐおっ…！"
+  },
+  {
+   "start": 79,
+   "end": 153,
+   "text": "や、やるじゃねえか…"
+  },
+  {
+   "start": 159,
+   "end": 217,
+   "text": "しかし効かんな",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 223,
+   "end": 297,
+   "text": "ぜんぜ～ん効かん",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 334,
+   "end": 468,
+   "text": "まだまだ、最近の若いやつには負けねぇぜ",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "さい"
+    },
+    {
+     "index": 6,
+     "reading": "きん"
+    },
+    {
+     "index": 8,
+     "reading": "わか"
+    },
+    {
+     "index": 14,
+     "reading": "ま"
+    }
+   ]
+  },
+  {
+   "start": 493,
+   "end": 518,
+   "text": "んぐぉ！！！"
+  },
+  {
+   "start": 518,
+   "end": 610,
+   "text": "コシがぁ…あいたたたた……"
+  },
+  {
+   "start": 615,
+   "end": 749,
+   "text": "か、体がうごかねえ…いて、いてててて",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "からたが"
+    }
+   ]
+  },
+  {
+   "start": 750,
+   "end": 828,
+   "text": "だ、誰か助けてくれ",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "たがれ"
+    },
+    {
+     "index": 4,
+     "reading": "たす"
+    }
+   ]
+  },
+  {
+   "start": 867,
+   "end": 985,
+   "text": "まったく世話のヤけるオッサンだぜ",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "せ"
+    },
+    {
+     "index": 5,
+     "reading": "わ"
+    }
+   ]
+  },
+  {
+   "start": 1010,
+   "end": 1108,
+   "text": "兄ちゃん、今日のところは見逃してくれや",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "にい"
+    },
+    {
+     "index": 5,
+     "reading": "きょ"
+    },
+    {
+     "index": 6,
+     "reading": "う"
+    },
+    {
+     "index": 12,
+     "reading": "み"
+    },
+    {
+     "index": 13,
+     "reading": "のかが"
+    }
+   ]
+  },
+  {
+   "start": 1120,
+   "end": 1179,
+   "text": "さ、バンコ、帰るぜ",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "かえ"
+    }
+   ]
+  },
+  {
+   "start": 1212,
+   "end": 1383,
+   "text": "ぬぅ、コシさえ大丈夫なら…あんな若造にはな",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 8,
+     "reading": "しがょ"
+    },
+    {
+     "index": 9,
+     "reading": "うふが"
+    },
+    {
+     "index": 16,
+     "reading": "わか"
+    },
+    {
+     "index": 17,
+     "reading": "そがう"
+    }
+   ]
+  },
+  {
+   "start": 1383,
+   "end": 1450,
+   "text": "はいはい、わかったわかった"
+  }
+ ]
+}

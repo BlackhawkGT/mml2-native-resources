@@ -1,0 +1,593 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 26,
+ "audio_seconds": 110.81,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 22,
+   "end": 59,
+   "text": "ロック！"
+  },
+  {
+   "start": 102,
+   "end": 154,
+   "text": "もう大丈夫よ",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 3,
+     "reading": "しがょ"
+    },
+    {
+     "index": 4,
+     "reading": "うふが"
+    }
+   ]
+  },
+  {
+   "start": 161,
+   "end": 250,
+   "text": "ま、記憶の再コウチクがまだだけど",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "き"
+    },
+    {
+     "index": 3,
+     "reading": "おく"
+    },
+    {
+     "index": 5,
+     "reading": "さい"
+    }
+   ]
+  },
+  {
+   "start": 250,
+   "end": 320,
+   "text": "おサルさんから必要な記憶を取り出してくれれば",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "ひつ"
+    },
+    {
+     "index": 8,
+     "reading": "よう"
+    },
+    {
+     "index": 10,
+     "reading": "き"
+    },
+    {
+     "index": 11,
+     "reading": "おく"
+    },
+    {
+     "index": 13,
+     "reading": "と"
+    },
+    {
+     "index": 15,
+     "reading": "たが"
+    }
+   ]
+  },
+  {
+   "start": 320,
+   "end": 376,
+   "text": "大丈夫だと思うし",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 1,
+     "reading": "しがょ"
+    },
+    {
+     "index": 2,
+     "reading": "うふが"
+    },
+    {
+     "index": 5,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 399,
+   "end": 445,
+   "text": "じゃ、私とガガは",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "わたし"
+    }
+   ]
+  },
+  {
+   "start": 445,
+   "end": 533,
+   "text": "一足先にヘブンへ戻る準備をしておくわ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ひと"
+    },
+    {
+     "index": 1,
+     "reading": "あし"
+    },
+    {
+     "index": 2,
+     "reading": "さき"
+    },
+    {
+     "index": 8,
+     "reading": "もとが"
+    },
+    {
+     "index": 10,
+     "reading": "しがゅん"
+    },
+    {
+     "index": 11,
+     "reading": "ひが"
+    }
+   ]
+  },
+  {
+   "start": 548,
+   "end": 587,
+   "text": "あなたが昔",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "むかし"
+    }
+   ]
+  },
+  {
+   "start": 587,
+   "end": 636,
+   "text": "はじめて地球におりてきた場所で",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "ち"
+    },
+    {
+     "index": 5,
+     "reading": "きゅう"
+    },
+    {
+     "index": 12,
+     "reading": "はが"
+    },
+    {
+     "index": 13,
+     "reading": "しょ"
+    }
+   ]
+  },
+  {
+   "start": 636,
+   "end": 674,
+   "text": "待ってるから",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ま"
+    }
+   ]
+  },
+  {
+   "start": 702,
+   "end": 773,
+   "text": "マスターの意思をソンチョウするのか",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 6,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 777,
+   "end": 855,
+   "text": "それともシステムをユウセンするのか……"
+  },
+  {
+   "start": 879,
+   "end": 942,
+   "text": "決心がついたら来てちょうだい",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "けっ"
+    },
+    {
+     "index": 1,
+     "reading": "しん"
+    },
+    {
+     "index": 7,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 971,
+   "end": 1003,
+   "text": "じゃあね"
+  },
+  {
+   "start": 1052,
+   "end": 1102,
+   "text": "われわれの図書カンには",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "と"
+    },
+    {
+     "index": 6,
+     "reading": "しょ"
+    }
+   ]
+  },
+  {
+   "start": 1107,
+   "end": 1194,
+   "text": "われわれのレキシをきざんだ本があるが",
+   "ruby": [
+    {
+     "index": 13,
+     "reading": "ほん"
+    }
+   ]
+  },
+  {
+   "start": 1200,
+   "end": 1268,
+   "text": "この世界には、それをうら付けるものが",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "せ"
+    },
+    {
+     "index": 3,
+     "reading": "かい"
+    },
+    {
+     "index": 12,
+     "reading": "つが"
+    }
+   ]
+  },
+  {
+   "start": 1268,
+   "end": 1316,
+   "text": "なぜか残っとらん",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "のこ"
+    }
+   ]
+  },
+  {
+   "start": 1328,
+   "end": 1414,
+   "text": "それがなぜか、ようやくわかったわい"
+  },
+  {
+   "start": 1428,
+   "end": 1541,
+   "text": "われわれは、ある日突然、この世界に生み出され",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "ひ"
+    },
+    {
+     "index": 9,
+     "reading": "とつ"
+    },
+    {
+     "index": 10,
+     "reading": "せがん"
+    },
+    {
+     "index": 14,
+     "reading": "せ"
+    },
+    {
+     "index": 15,
+     "reading": "かい"
+    },
+    {
+     "index": 17,
+     "reading": "う"
+    },
+    {
+     "index": 19,
+     "reading": "たが"
+    }
+   ]
+  },
+  {
+   "start": 1547,
+   "end": 1653,
+   "text": "コトバや文化をあたえられたからだったんじゃ",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "ふがん"
+    },
+    {
+     "index": 5,
+     "reading": "か"
+    }
+   ]
+  },
+  {
+   "start": 1661,
+   "end": 1785,
+   "text": "生み出してもらったおかげでまい日冒険ざんまい！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "う"
+    },
+    {
+     "index": 2,
+     "reading": "たが"
+    },
+    {
+     "index": 15,
+     "reading": "にち"
+    },
+    {
+     "index": 16,
+     "reading": "ほがう"
+    },
+    {
+     "index": 17,
+     "reading": "けん"
+    }
+   ]
+  },
+  {
+   "start": 1785,
+   "end": 1847,
+   "text": "マスターにカンシャせんとな"
+  },
+  {
+   "start": 1873,
+   "end": 1927,
+   "text": "システムを破壊することが",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "は"
+    },
+    {
+     "index": 6,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 1927,
+   "end": 1991,
+   "text": "良いことなのか悪いことなのか",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "い"
+    },
+    {
+     "index": 7,
+     "reading": "わる"
+    }
+   ]
+  },
+  {
+   "start": 1991,
+   "end": 2047,
+   "text": "わしらにはわからん"
+  },
+  {
+   "start": 2061,
+   "end": 2152,
+   "text": "ロック、すべてはお前にまかすわい",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "まえ"
+    }
+   ]
+  },
+  {
+   "start": 2156,
+   "end": 2276,
+   "text": "どうなっても、それが運命なら受け入れるとしよう",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "さ"
+    },
+    {
+     "index": 11,
+     "reading": "たがめ"
+    },
+    {
+     "index": 14,
+     "reading": "う"
+    },
+    {
+     "index": 16,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 2280,
+   "end": 2315,
+   "text": "ロック……"
+  },
+  {
+   "start": 2348,
+   "end": 2419,
+   "text": "ロックに昔、どんなことがあったのか",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "むかし"
+    }
+   ]
+  },
+  {
+   "start": 2419,
+   "end": 2466,
+   "text": "良くわからないけど…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "よ"
+    }
+   ]
+  },
+  {
+   "start": 2477,
+   "end": 2565,
+   "text": "自分をしんじてやりとげればいいと思うよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しが"
+    },
+    {
+     "index": 1,
+     "reading": "ふがん"
+    },
+    {
+     "index": 16,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 2606,
+   "end": 2683,
+   "text": "わたし、お父さんとお母さんを追いかけて",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "とう"
+    },
+    {
+     "index": 10,
+     "reading": "かあ"
+    },
+    {
+     "index": 14,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 2683,
+   "end": 2731,
+   "text": "旅してたんだけど…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たひが"
+    }
+   ]
+  },
+  {
+   "start": 2731,
+   "end": 2794,
+   "text": "それはいまも変わらないんだけど",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "か"
+    }
+   ]
+  },
+  {
+   "start": 2830,
+   "end": 2868,
+   "text": "でも、やっぱり…"
+  },
+  {
+   "start": 2886,
+   "end": 2957,
+   "text": "ロックのことが、イチバン大切だから",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "たい"
+    },
+    {
+     "index": 13,
+     "reading": "せつ"
+    }
+   ]
+  },
+  {
+   "start": 2979,
+   "end": 3057,
+   "text": "ロックがいたから、ここまでこれたから……"
+  },
+  {
+   "start": 3079,
+   "end": 3132,
+   "text": "さっ、いこ、ロック！"
+  },
+  {
+   "start": 3132,
+   "end": 3185,
+   "text": "あの人が言っていた場所まで！",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "ひと"
+    },
+    {
+     "index": 4,
+     "reading": "い"
+    },
+    {
+     "index": 9,
+     "reading": "はが"
+    },
+    {
+     "index": 10,
+     "reading": "しょ"
+    }
+   ]
+  },
+  {
+   "start": 3220,
+   "end": 3260,
+   "text": "うん！！"
+  }
+ ]
+}

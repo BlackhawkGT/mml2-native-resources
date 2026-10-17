@@ -1,0 +1,39 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 12,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 18,
+   "end": 109,
+   "text": "Oh, thank you so much for helping me."
+  },
+  {
+   "start": 112,
+   "end": 229,
+   "text": "I couldn't have done it without your brothers. Let's get out of here."
+  },
+  {
+   "start": 240,
+   "end": 301,
+   "text": "You're not getting away so easily."
+  },
+  {
+   "start": 327,
+   "end": 414,
+   "text": "We'll take you with us. Game's over, Mega Man."
+  },
+  {
+   "start": 414,
+   "end": 453,
+   "text": "Ke-ke-ke-ke!"
+  },
+  {
+   "start": 462,
+   "end": 504,
+   "text": "We'd better hurry."
+  }
+ ],
+ "edited": true
+}

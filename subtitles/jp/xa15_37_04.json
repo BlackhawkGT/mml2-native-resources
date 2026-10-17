@@ -1,0 +1,52 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 4,
+ "audio_seconds": 15.28,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 58,
+   "text": "ぐおっ…ふぅ……"
+  },
+  {
+   "start": 66,
+   "end": 150,
+   "text": "な、なかなかやるじゃねえか"
+  },
+  {
+   "start": 173,
+   "end": 273,
+   "text": "これはひさしぶりに本気でやれそうだぜ…",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "ほん"
+    },
+    {
+     "index": 10,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 298,
+   "end": 414,
+   "text": "待ってな、すぐ出直してくるからよ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ま"
+    },
+    {
+     "index": 7,
+     "reading": "てが"
+    },
+    {
+     "index": 8,
+     "reading": "なお"
+    }
+   ]
+  }
+ ]
+}

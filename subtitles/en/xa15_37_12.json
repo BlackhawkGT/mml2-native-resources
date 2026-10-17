@@ -1,0 +1,79 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 12,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 10,
+   "end": 58,
+   "text": "Can't you do anything right?"
+  },
+  {
+   "start": 58,
+   "end": 178,
+   "text": "Oh, that's enough. No more Mr. Nice Guy. We'll destroy the entire city,"
+  },
+  {
+   "start": 178,
+   "end": 265,
+   "text": "that way there will be nothing between us and the ruins."
+  },
+  {
+   "start": 269,
+   "end": 354,
+   "text": "Ultimate Glidebuster fully charged!"
+  },
+  {
+   "start": 387,
+   "end": 444,
+   "text": "Ready the Ultimate Glidebuster!"
+  },
+  {
+   "start": 460,
+   "end": 576,
+   "text": "I was hoping we wouldn't have to use it, but they have given us no choice."
+  },
+  {
+   "start": 748,
+   "end": 839,
+   "text": "Uh-oh, there, that should do it."
+  },
+  {
+   "start": 850,
+   "end": 893,
+   "text": "Here we go!"
+  },
+  {
+   "start": 1218,
+   "end": 1260,
+   "text": "U-uh, Roll.."
+  },
+  {
+   "start": 1266,
+   "end": 1326,
+   "text": "It's working! See?"
+  },
+  {
+   "start": 1418,
+   "end": 1560,
+   "text": "Hehehe-hahaha-hohoho!"
+  },
+  {
+   "start": 1604,
+   "end": 1748,
+   "text": "Wait, wait, stop! What are you doing? If you keep that up, you'll..."
+  },
+  {
+   "start": 2049,
+   "end": 2144,
+   "text": "We did it! We did it, Mega Man!"
+  },
+  {
+   "start": 2160,
+   "end": 2201,
+   "text": "Wow, Roll..."
+  }
+ ],
+ "edited": true
+}

@@ -1,0 +1,134 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 7,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 148,
+   "end": 194,
+   "text": "Miss Tron!"
+  },
+  {
+   "start": 271,
+   "end": 310,
+   "text": "Mega Man!"
+  },
+  {
+   "start": 315,
+   "end": 420,
+   "text": "Huh? Roll? Is that you?"
+  },
+  {
+   "start": 420,
+   "end": 482,
+   "text": "Finally! I don't know what happened,"
+  },
+  {
+   "start": 482,
+   "end": 653,
+   "text": "but your transmission suddenly got cut off. Huh? What is it, Mega Man?"
+  },
+  {
+   "start": 653,
+   "end": 795,
+   "text": "Uh, nothing, Roll. I knew you'd never say things like that."
+  },
+  {
+   "start": 795,
+   "end": 907,
+   "text": "Say things like what? Are you okay, Mega Man?"
+  },
+  {
+   "start": 907,
+   "end": 992,
+   "text": "You didn't get hit in the head or anything, did you?"
+  },
+  {
+   "start": 1048,
+   "end": 1164,
+   "text": "Guess what's for dinner, Mega Man? It's your favorite, pizza!"
+  },
+  {
+   "start": 1167,
+   "end": 1265,
+   "text": "Really? It's been a while since we had that."
+  },
+  {
+   "start": 1279,
+   "end": 1350,
+   "text": "Uh-huh. I even managed to find some pepperoni for dinner."
+  },
+  {
+   "start": 1350,
+   "end": 1386,
+   "text": "Miss Tron!"
+  },
+  {
+   "start": 1386,
+   "end": 1419,
+   "text": "Can't have pizza without pepperoni!"
+  },
+  {
+   "start": 1419,
+   "end": 1471,
+   "text": "Are you okay?"
+  },
+  {
+   "start": 1597,
+   "end": 1753,
+   "text": "It was a good idea, but it looks like their faith in each other can't be broken."
+  },
+  {
+   "start": 1788,
+   "end": 1823,
+   "text": "Look at him!"
+  },
+  {
+   "start": 1841,
+   "end": 1933,
+   "text": "Talking with her like they don't have a care in the world!"
+  },
+  {
+   "start": 1957,
+   "end": 2020,
+   "text": "Made a fool of me again!"
+  },
+  {
+   "start": 2041,
+   "end": 2091,
+   "text": "You little... you..."
+  },
+  {
+   "start": 2147,
+   "end": 2213,
+   "text": "What is it, Mega Man?"
+  },
+  {
+   "start": 2238,
+   "end": 2293,
+   "text": "Oh, nothing."
+  },
+  {
+   "start": 2317,
+   "end": 2357,
+   "text": "Let's go!"
+  },
+  {
+   "start": 2362,
+   "end": 2422,
+   "text": "What's the matter, Miss Tron?"
+  },
+  {
+   "start": 2422,
+   "end": 2477,
+   "text": "I said let's get out of here!"
+  },
+  {
+   "start": 2484,
+   "end": 2544,
+   "text": "Kiii!"
+  }
+ ],
+ "edited": true
+}

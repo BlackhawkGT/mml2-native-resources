@@ -1,0 +1,85 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 0,
+ "audio_seconds": 27.56,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 508,
+   "end": 570,
+   "text": "よし、これで大丈夫だ！",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 7,
+     "reading": "しがょ"
+    },
+    {
+     "index": 8,
+     "reading": "うふが"
+    }
+   ]
+  },
+  {
+   "start": 581,
+   "end": 622,
+   "text": "ロック、聞こえる！？",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 632,
+   "end": 705,
+   "text": "こんどは反対がわが攻撃を受けてる！",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "はん"
+    },
+    {
+     "index": 5,
+     "reading": "たい"
+    },
+    {
+     "index": 9,
+     "reading": "こう"
+    },
+    {
+     "index": 10,
+     "reading": "けがき"
+    },
+    {
+     "index": 12,
+     "reading": "う"
+    }
+   ]
+  },
+  {
+   "start": 710,
+   "end": 761,
+   "text": "悪いけど、そっちに向かって！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わる"
+    },
+    {
+     "index": 9,
+     "reading": "む"
+    }
+   ]
+  },
+  {
+   "start": 764,
+   "end": 808,
+   "text": "わかった、ロールちゃん！"
+  }
+ ]
+}

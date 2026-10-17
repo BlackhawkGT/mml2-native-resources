@@ -1,0 +1,34 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 29,
+ "audio_seconds": 14.5,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 82,
+   "end": 129,
+   "text": "とーちゃく～！"
+  },
+  {
+   "start": 141,
+   "end": 192,
+   "text": "ついたよ、ロック！"
+  },
+  {
+   "start": 218,
+   "end": 284,
+   "text": "……じゃ、気をつけてね！",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 292,
+   "end": 326,
+   "text": "うん"
+  }
+ ]
+}

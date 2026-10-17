@@ -1,0 +1,796 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 13,
+ "audio_seconds": 182.91,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 106,
+   "end": 193,
+   "text": "いいかヤローども、売り物になりそうなものは",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "う"
+    },
+    {
+     "index": 11,
+     "reading": "もの"
+    }
+   ]
+  },
+  {
+   "start": 193,
+   "end": 257,
+   "text": "ぜーんぶいただくんだ～"
+  },
+  {
+   "start": 258,
+   "end": 336,
+   "text": "つまようじ一本、残さずちょうだいする",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "いっ"
+    },
+    {
+     "index": 6,
+     "reading": "ほぎん"
+    },
+    {
+     "index": 8,
+     "reading": "のこ"
+    }
+   ]
+  },
+  {
+   "start": 341,
+   "end": 401,
+   "text": "なさけは無用だぜ～",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "む"
+    },
+    {
+     "index": 5,
+     "reading": "よう"
+    }
+   ]
+  },
+  {
+   "start": 417,
+   "end": 493,
+   "text": "日用雑貨、食料のつみこみ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "にち"
+    },
+    {
+     "index": 1,
+     "reading": "よう"
+    },
+    {
+     "index": 2,
+     "reading": "さがっ"
+    },
+    {
+     "index": 3,
+     "reading": "か"
+    },
+    {
+     "index": 5,
+     "reading": "しょく"
+    },
+    {
+     "index": 6,
+     "reading": "ぐりょう"
+    }
+   ]
+  },
+  {
+   "start": 493,
+   "end": 554,
+   "text": "すべてしゅーりょーしましたー"
+  },
+  {
+   "start": 555,
+   "end": 629,
+   "text": "トイレットペーパーはどーしましょ～"
+  },
+  {
+   "start": 632,
+   "end": 746,
+   "text": "ブシのなさけだ、それぐらいは残しといてやれ",
+   "ruby": [
+    {
+     "index": 14,
+     "reading": "のこ"
+    }
+   ]
+  },
+  {
+   "start": 748,
+   "end": 792,
+   "text": "りょーかいでーす"
+  },
+  {
+   "start": 813,
+   "end": 849,
+   "text": "ふ～"
+  },
+  {
+   "start": 849,
+   "end": 940,
+   "text": "仕入れの金にさえ不自由するようになっちゃ～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "し"
+    },
+    {
+     "index": 1,
+     "reading": "い"
+    },
+    {
+     "index": 4,
+     "reading": "かね"
+    },
+    {
+     "index": 8,
+     "reading": "ふ"
+    },
+    {
+     "index": 9,
+     "reading": "しが"
+    },
+    {
+     "index": 10,
+     "reading": "ゆう"
+    }
+   ]
+  },
+  {
+   "start": 943,
+   "end": 1002,
+   "text": "おしめぇだな"
+  },
+  {
+   "start": 1004,
+   "end": 1094,
+   "text": "そろそろ、あのデパートもシオドキかなぁ"
+  },
+  {
+   "start": 1107,
+   "end": 1215,
+   "text": "せっかく、カタギになれるって思ったのによ～",
+   "ruby": [
+    {
+     "index": 14,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 1243,
+   "end": 1320,
+   "text": "…いやいや、あきらめるのはまだはえー！"
+  },
+  {
+   "start": 1325,
+   "end": 1393,
+   "text": "「大いなる遺産」さえ手に入れば",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "おお"
+    },
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 6,
+     "reading": "さん"
+    },
+    {
+     "index": 10,
+     "reading": "て"
+    },
+    {
+     "index": 12,
+     "reading": "はい"
+    }
+   ]
+  },
+  {
+   "start": 1393,
+   "end": 1485,
+   "text": "こんどの手形、落とさずにすむからな……",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "て"
+    },
+    {
+     "index": 5,
+     "reading": "かがた"
+    },
+    {
+     "index": 7,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 1491,
+   "end": 1542,
+   "text": "ティーゼルさま～"
+  },
+  {
+   "start": 1572,
+   "end": 1683,
+   "text": "ん？　まさか…もう突破されたのか？",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "とっ"
+    },
+    {
+     "index": 10,
+     "reading": "はぎ"
+    }
+   ]
+  },
+  {
+   "start": 1683,
+   "end": 1726,
+   "text": "すみまぜ～ん"
+  },
+  {
+   "start": 1726,
+   "end": 1801,
+   "text": "まったくおめ～らは…"
+  },
+  {
+   "start": 1802,
+   "end": 1887,
+   "text": "戦闘のメカも安くね～んだぞ～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "せん"
+    },
+    {
+     "index": 1,
+     "reading": "とう"
+    },
+    {
+     "index": 6,
+     "reading": "やす"
+    }
+   ]
+  },
+  {
+   "start": 1917,
+   "end": 1997,
+   "text": "あぁ～トロン、トロン聞こえるか？",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 2003,
+   "end": 2054,
+   "text": "そっちのしゅびはどうだ！？"
+  },
+  {
+   "start": 2066,
+   "end": 2100,
+   "text": "こちらトロン！"
+  },
+  {
+   "start": 2103,
+   "end": 2199,
+   "text": "封印の鍵のありかは、だいたいつかみましたわ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふう"
+    },
+    {
+     "index": 1,
+     "reading": "いん"
+    },
+    {
+     "index": 3,
+     "reading": "かきが"
+    }
+   ]
+  },
+  {
+   "start": 2202,
+   "end": 2284,
+   "text": "あとは、その部屋に入るだけなんですけど……",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "へ"
+    },
+    {
+     "index": 7,
+     "reading": "や"
+    },
+    {
+     "index": 9,
+     "reading": "はい"
+    }
+   ]
+  },
+  {
+   "start": 2298,
+   "end": 2341,
+   "text": "ばぁぶー"
+  },
+  {
+   "start": 2355,
+   "end": 2405,
+   "text": "よ～し上出来だ",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "しがょう"
+    },
+    {
+     "index": 4,
+     "reading": "てが"
+    },
+    {
+     "index": 5,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 2411,
+   "end": 2485,
+   "text": "ムリしね～ようにシンチョーにやりな"
+  },
+  {
+   "start": 2499,
+   "end": 2573,
+   "text": "あの子、もう来たんですの？",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "こ"
+    },
+    {
+     "index": 6,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 2579,
+   "end": 2688,
+   "text": "あ、あぁ、そうみたいだが、心配はいらねえ",
+   "ruby": [
+    {
+     "index": 13,
+     "reading": "しん"
+    },
+    {
+     "index": 14,
+     "reading": "はぎい"
+    }
+   ]
+  },
+  {
+   "start": 2690,
+   "end": 2774,
+   "text": "俺がきっちりここでくい止めてやる",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "おれ"
+    },
+    {
+     "index": 11,
+     "reading": "と"
+    }
+   ]
+  },
+  {
+   "start": 2778,
+   "end": 2852,
+   "text": "お兄さまこそ、無理なさらないでね！",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "にい"
+    },
+    {
+     "index": 7,
+     "reading": "む"
+    },
+    {
+     "index": 8,
+     "reading": "り"
+    }
+   ]
+  },
+  {
+   "start": 2852,
+   "end": 2915,
+   "text": "おぅ！　まかせろ！"
+  },
+  {
+   "start": 2915,
+   "end": 2989,
+   "text": "ヤローども準備はいいか～",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "しがゅん"
+    },
+    {
+     "index": 6,
+     "reading": "ひが"
+    }
+   ]
+  },
+  {
+   "start": 2996,
+   "end": 3074,
+   "text": "こんどこそあのヤローを～ぶちのめすぜ～"
+  },
+  {
+   "start": 3074,
+   "end": 3122,
+   "text": "おーーーーーー！！"
+  },
+  {
+   "start": 3266,
+   "end": 3308,
+   "text": "なんだ？　あれは……"
+  },
+  {
+   "start": 3314,
+   "end": 3392,
+   "text": "ひさしぶりだな、ローーーーーック！"
+  },
+  {
+   "start": 3403,
+   "end": 3492,
+   "text": "昔はずいぶん、世話になったな～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "むかし"
+    },
+    {
+     "index": 7,
+     "reading": "せ"
+    },
+    {
+     "index": 8,
+     "reading": "わ"
+    }
+   ]
+  },
+  {
+   "start": 3503,
+   "end": 3541,
+   "text": "しかぁーーし！"
+  },
+  {
+   "start": 3547,
+   "end": 3628,
+   "text": "今日は今までみたいにゃいかないぜ～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "きょ"
+    },
+    {
+     "index": 1,
+     "reading": "う"
+    },
+    {
+     "index": 3,
+     "reading": "いま"
+    }
+   ]
+  },
+  {
+   "start": 3628,
+   "end": 3674,
+   "text": "これを見やがれ！",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "み"
+    }
+   ]
+  },
+  {
+   "start": 3703,
+   "end": 3820,
+   "text": "これはこの街の宝！　街の連中にとっちゃ～",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "まち"
+    },
+    {
+     "index": 7,
+     "reading": "たから"
+    },
+    {
+     "index": 10,
+     "reading": "まち"
+    },
+    {
+     "index": 12,
+     "reading": "れん"
+    },
+    {
+     "index": 13,
+     "reading": "ちゅう"
+    }
+   ]
+  },
+  {
+   "start": 3820,
+   "end": 3907,
+   "text": "命より大切なごほんぞん様だ～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いのち"
+    },
+    {
+     "index": 3,
+     "reading": "たい"
+    },
+    {
+     "index": 4,
+     "reading": "せつ"
+    },
+    {
+     "index": 11,
+     "reading": "さま"
+    }
+   ]
+  },
+  {
+   "start": 3920,
+   "end": 3962,
+   "text": "これを壊したら",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "こわ"
+    }
+   ]
+  },
+  {
+   "start": 3962,
+   "end": 4080,
+   "text": "どういうことになるか…わかってるな？"
+  },
+  {
+   "start": 4087,
+   "end": 4165,
+   "text": "バチがあたるだけじゃ～ねぇぞ～"
+  },
+  {
+   "start": 4169,
+   "end": 4255,
+   "text": "べんしょうするのにどれだけ金がかかるか",
+   "ruby": [
+    {
+     "index": 13,
+     "reading": "かね"
+    }
+   ]
+  },
+  {
+   "start": 4255,
+   "end": 4316,
+   "text": "わかったもんじゃねぇ"
+  },
+  {
+   "start": 4324,
+   "end": 4382,
+   "text": "オレたちに手を出さなけりゃ～",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "て"
+    },
+    {
+     "index": 7,
+     "reading": "たが"
+    }
+   ]
+  },
+  {
+   "start": 4382,
+   "end": 4470,
+   "text": "無事にもとの場所に返しといてやる",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふが"
+    },
+    {
+     "index": 1,
+     "reading": "しが"
+    },
+    {
+     "index": 6,
+     "reading": "はが"
+    },
+    {
+     "index": 7,
+     "reading": "しょ"
+    },
+    {
+     "index": 9,
+     "reading": "かえ"
+    }
+   ]
+  },
+  {
+   "start": 4478,
+   "end": 4586,
+   "text": "わかったな、わかったらさっさと帰んな！",
+   "ruby": [
+    {
+     "index": 15,
+     "reading": "かえ"
+    }
+   ]
+  },
+  {
+   "start": 4597,
+   "end": 4640,
+   "text": "クッ……"
+  },
+  {
+   "start": 4659,
+   "end": 4750,
+   "text": "ロック、空賊の言うことなんか聞いちゃだめ！",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "くう"
+    },
+    {
+     "index": 5,
+     "reading": "そがく"
+    },
+    {
+     "index": 7,
+     "reading": "い"
+    },
+    {
+     "index": 14,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 4752,
+   "end": 4828,
+   "text": "やくそくなんか、守るわけないんだから！",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "まも"
+    }
+   ]
+  },
+  {
+   "start": 4843,
+   "end": 4935,
+   "text": "どうせ盗まれるんだったら、壊しちゃっても",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "ぬす"
+    },
+    {
+     "index": 13,
+     "reading": "こわ"
+    }
+   ]
+  },
+  {
+   "start": 4935,
+   "end": 5007,
+   "text": "みんな許してくれると思う！",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "ゆる"
+    },
+    {
+     "index": 10,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 5018,
+   "end": 5092,
+   "text": "大丈夫、壊さないようにやってみる",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 1,
+     "reading": "しがょ"
+    },
+    {
+     "index": 2,
+     "reading": "うふが"
+    },
+    {
+     "index": 4,
+     "reading": "こわ"
+    }
+   ]
+  },
+  {
+   "start": 5109,
+   "end": 5191,
+   "text": "なにごちゃごちゃひとりごと言ってやがる！",
+   "ruby": [
+    {
+     "index": 13,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 5199,
+   "end": 5254,
+   "text": "さっさと帰んないんだったら",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "かえ"
+    }
+   ]
+  },
+  {
+   "start": 5259,
+   "end": 5314,
+   "text": "コッチからしかけるぜ！"
+  },
+  {
+   "start": 5320,
+   "end": 5433,
+   "text": "ブリッツクリーク！　発進！",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "はっ"
+    },
+    {
+     "index": 11,
+     "reading": "しん"
+    }
+   ]
+  }
+ ]
+}

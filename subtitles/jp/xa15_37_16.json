@@ -1,0 +1,131 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 16,
+ "audio_seconds": 25.36,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 223,
+   "end": 285,
+   "text": "潜入コウサクインが戻りました！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "せん"
+    },
+    {
+     "index": 1,
+     "reading": "にゅう"
+    },
+    {
+     "index": 9,
+     "reading": "もとが"
+    }
+   ]
+  },
+  {
+   "start": 285,
+   "end": 354,
+   "text": "敵大型砲台の破壊はせいこうです！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "てき"
+    },
+    {
+     "index": 1,
+     "reading": "おお"
+    },
+    {
+     "index": 2,
+     "reading": "かがた"
+    },
+    {
+     "index": 3,
+     "reading": "ほう"
+    },
+    {
+     "index": 4,
+     "reading": "たがい"
+    },
+    {
+     "index": 6,
+     "reading": "は"
+    },
+    {
+     "index": 7,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 361,
+   "end": 459,
+   "text": "ケケッ！　ヤツら今ごろ、大あわてだぜ！",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "いま"
+    },
+    {
+     "index": 12,
+     "reading": "おお"
+    }
+   ]
+  },
+  {
+   "start": 463,
+   "end": 563,
+   "text": "チョロいチョロい、こんな島、一気に落とすぜぇ",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "しま"
+    },
+    {
+     "index": 14,
+     "reading": "いっ"
+    },
+    {
+     "index": 15,
+     "reading": "き"
+    },
+    {
+     "index": 17,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 563,
+   "end": 604,
+   "text": "相手をなめんじゃね～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "あい"
+    },
+    {
+     "index": 1,
+     "reading": "て"
+    }
+   ]
+  },
+  {
+   "start": 622,
+   "end": 663,
+   "text": "気をひきしめていくぜ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 669,
+   "end": 748,
+   "text": "ケケケケケケッ！"
+  }
+ ]
+}

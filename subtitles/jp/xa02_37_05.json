@@ -1,0 +1,1441 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 5,
+ "audio_seconds": 392.99,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 49,
+   "text": "わかっておるな"
+  },
+  {
+   "start": 61,
+   "end": 164,
+   "text": "マスターは最後に残られたゆいいつの人間だ",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "さい"
+    },
+    {
+     "index": 6,
+     "reading": "こが"
+    },
+    {
+     "index": 8,
+     "reading": "のこ"
+    },
+    {
+     "index": 17,
+     "reading": "にん"
+    },
+    {
+     "index": 18,
+     "reading": "けがん"
+    }
+   ]
+  },
+  {
+   "start": 179,
+   "end": 207,
+   "text": "われわれは"
+  },
+  {
+   "start": 207,
+   "end": 296,
+   "text": "マスターを守るためにコウチクされたシステム",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "まも"
+    }
+   ]
+  },
+  {
+   "start": 297,
+   "end": 392,
+   "text": "マスターなしでは存在するイミもない",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "そん"
+    },
+    {
+     "index": 9,
+     "reading": "さがい"
+    }
+   ]
+  },
+  {
+   "start": 517,
+   "end": 557,
+   "text": "……マザー？"
+  },
+  {
+   "start": 592,
+   "end": 628,
+   "text": "くれぐれも"
+  },
+  {
+   "start": 632,
+   "end": 723,
+   "text": "マスターのじょうだんを真に受けぬようにな",
+   "ruby": [
+    {
+     "index": 11,
+     "reading": "ま"
+    },
+    {
+     "index": 13,
+     "reading": "う"
+    }
+   ]
+  },
+  {
+   "start": 760,
+   "end": 798,
+   "text": "まったく"
+  },
+  {
+   "start": 816,
+   "end": 880,
+   "text": "マスターも何のスイキョウであのようなものを",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "なん"
+    }
+   ]
+  },
+  {
+   "start": 880,
+   "end": 990,
+   "text": "そばに置きたがるのか…理解に苦しみます",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "お"
+    },
+    {
+     "index": 11,
+     "reading": "り"
+    },
+    {
+     "index": 12,
+     "reading": "かい"
+    },
+    {
+     "index": 14,
+     "reading": "くる"
+    }
+   ]
+  },
+  {
+   "start": 998,
+   "end": 1066,
+   "text": "マスターもさみしいのだ"
+  },
+  {
+   "start": 1089,
+   "end": 1226,
+   "text": "なんだろ…これは…ユメ？"
+  },
+  {
+   "start": 1331,
+   "end": 1440,
+   "text": "また、おこごとをもらったね、トリッガーくん"
+  },
+  {
+   "start": 1448,
+   "end": 1541,
+   "text": "わたしも、セラにはよくおこられるのだよ…"
+  },
+  {
+   "start": 1584,
+   "end": 1657,
+   "text": "このまえ君にも見せたかもしれないが",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "きみ"
+    },
+    {
+     "index": 7,
+     "reading": "み"
+    }
+   ]
+  },
+  {
+   "start": 1668,
+   "end": 1708,
+   "text": "これのせいでね"
+  },
+  {
+   "start": 1745,
+   "end": 1787,
+   "text": "だれだろう…"
+  },
+  {
+   "start": 1802,
+   "end": 1904,
+   "text": "なんだか、すごく、なつかしいような……"
+  },
+  {
+   "start": 1924,
+   "end": 2002,
+   "text": "見たまえ、うつくしいだろ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "み"
+    }
+   ]
+  },
+  {
+   "start": 2039,
+   "end": 2129,
+   "text": "デコイたちの住む、街の明かりだ",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "す"
+    },
+    {
+     "index": 9,
+     "reading": "まち"
+    },
+    {
+     "index": 11,
+     "reading": "あ"
+    }
+   ]
+  },
+  {
+   "start": 2141,
+   "end": 2189,
+   "text": "デコイといっても"
+  },
+  {
+   "start": 2190,
+   "end": 2303,
+   "text": "わたしがちょっと手を加えたから、そうだな…",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "て"
+    },
+    {
+     "index": 10,
+     "reading": "くわ"
+    }
+   ]
+  },
+  {
+   "start": 2306,
+   "end": 2451,
+   "text": "われわれよりずっとオリジナルに近い人間といっても",
+   "ruby": [
+    {
+     "index": 15,
+     "reading": "ちか"
+    },
+    {
+     "index": 17,
+     "reading": "にん"
+    },
+    {
+     "index": 18,
+     "reading": "けがん"
+    }
+   ]
+  },
+  {
+   "start": 2461,
+   "end": 2525,
+   "text": "いいような存在なんだけどね",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "そん"
+    },
+    {
+     "index": 6,
+     "reading": "さがい"
+    }
+   ]
+  },
+  {
+   "start": 2545,
+   "end": 2598,
+   "text": "あそこに住む人びとは",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "す"
+    },
+    {
+     "index": 6,
+     "reading": "ひと"
+    }
+   ]
+  },
+  {
+   "start": 2610,
+   "end": 2714,
+   "text": "「飢え」や「かわき」、「病」と戦いながら",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "う"
+    },
+    {
+     "index": 12,
+     "reading": "やまい"
+    },
+    {
+     "index": 15,
+     "reading": "たたか"
+    }
+   ]
+  },
+  {
+   "start": 2717,
+   "end": 2783,
+   "text": "やがて老い、死んでいく",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "お"
+    },
+    {
+     "index": 6,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 2793,
+   "end": 2912,
+   "text": "だからこそいっしゅん、うつくしくかがやく命",
+   "ruby": [
+    {
+     "index": 20,
+     "reading": "いのち"
+    }
+   ]
+  },
+  {
+   "start": 2925,
+   "end": 2978,
+   "text": "苦しみの中にこそ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "くる"
+    },
+    {
+     "index": 4,
+     "reading": "なか"
+    }
+   ]
+  },
+  {
+   "start": 2980,
+   "end": 3066,
+   "text": "あたたかく感じることができるしあわせ",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "かん"
+    }
+   ]
+  },
+  {
+   "start": 3085,
+   "end": 3156,
+   "text": "完ぺきと呼ばれるこの世界にくらべ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かん"
+    },
+    {
+     "index": 4,
+     "reading": "よ"
+    },
+    {
+     "index": 10,
+     "reading": "せ"
+    },
+    {
+     "index": 11,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 3161,
+   "end": 3232,
+   "text": "なんとミリョク的なことか…",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "てき"
+    }
+   ]
+  },
+  {
+   "start": 3255,
+   "end": 3304,
+   "text": "ね、トリッガーくん"
+  },
+  {
+   "start": 3311,
+   "end": 3364,
+   "text": "君にお願いがあるんだけど",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "きみ"
+    },
+    {
+     "index": 3,
+     "reading": "ねかが"
+    }
+   ]
+  },
+  {
+   "start": 3364,
+   "end": 3404,
+   "text": "きいてくれないか？"
+  },
+  {
+   "start": 3418,
+   "end": 3519,
+   "text": "わたしをあそこに、連れていってくれないか？",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "つ"
+    }
+   ]
+  },
+  {
+   "start": 3524,
+   "end": 3606,
+   "text": "あそこへ連れていくって…",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "つ"
+    }
+   ]
+  },
+  {
+   "start": 3608,
+   "end": 3654,
+   "text": "なんのことだろう…"
+  },
+  {
+   "start": 3663,
+   "end": 3789,
+   "text": "あの人は…そうだ、マスター",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "ひと"
+    }
+   ]
+  },
+  {
+   "start": 3801,
+   "end": 3950,
+   "text": "ぼくは、マスターを連れて…地球にきたんだ…",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "つ"
+    },
+    {
+     "index": 13,
+     "reading": "ち"
+    },
+    {
+     "index": 14,
+     "reading": "きゅう"
+    }
+   ]
+  },
+  {
+   "start": 3969,
+   "end": 4141,
+   "text": "そして…そして…うぅ……"
+  },
+  {
+   "start": 4190,
+   "end": 4248,
+   "text": "ようやくセッショクできた"
+  },
+  {
+   "start": 4248,
+   "end": 4311,
+   "text": "これで何とかなりそうね",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "なん"
+    }
+   ]
+  },
+  {
+   "start": 4316,
+   "end": 4364,
+   "text": "で、気分はどう？",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "き"
+    },
+    {
+     "index": 3,
+     "reading": "ふがん"
+    }
+   ]
+  },
+  {
+   "start": 4427,
+   "end": 4471,
+   "text": "…ここは？"
+  },
+  {
+   "start": 4471,
+   "end": 4530,
+   "text": "ここは、データのメモリー内",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "ない"
+    }
+   ]
+  },
+  {
+   "start": 4541,
+   "end": 4632,
+   "text": "あなたが昔、データにたくした記憶よ",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "むかし"
+    },
+    {
+     "index": 14,
+     "reading": "き"
+    },
+    {
+     "index": 15,
+     "reading": "おく"
+    }
+   ]
+  },
+  {
+   "start": 4636,
+   "end": 4709,
+   "text": "データにたくした？"
+  },
+  {
+   "start": 4720,
+   "end": 4757,
+   "text": "あなたは、ジジによって"
+  },
+  {
+   "start": 4757,
+   "end": 4813,
+   "text": "ひん死の重ショウを負ったから",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "し"
+    },
+    {
+     "index": 4,
+     "reading": "しがゅう"
+    },
+    {
+     "index": 9,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 4813,
+   "end": 4854,
+   "text": "データのメモリーを使って",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "つか"
+    }
+   ]
+  },
+  {
+   "start": 4854,
+   "end": 4925,
+   "text": "記憶を再構成してるの",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "き"
+    },
+    {
+     "index": 1,
+     "reading": "おく"
+    },
+    {
+     "index": 3,
+     "reading": "さい"
+    },
+    {
+     "index": 4,
+     "reading": "こう"
+    },
+    {
+     "index": 5,
+     "reading": "せい"
+    }
+   ]
+  },
+  {
+   "start": 4947,
+   "end": 5039,
+   "text": "完全に再生するにはもうちょっとかかるから",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かん"
+    },
+    {
+     "index": 1,
+     "reading": "せがん"
+    },
+    {
+     "index": 3,
+     "reading": "さい"
+    },
+    {
+     "index": 4,
+     "reading": "せい"
+    }
+   ]
+  },
+  {
+   "start": 5040,
+   "end": 5109,
+   "text": "もう少し、おとなしくしときなさいね",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "すこ"
+    }
+   ]
+  },
+  {
+   "start": 5177,
+   "end": 5268,
+   "text": "記憶の再構成…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "き"
+    },
+    {
+     "index": 1,
+     "reading": "おく"
+    },
+    {
+     "index": 3,
+     "reading": "さい"
+    },
+    {
+     "index": 4,
+     "reading": "こう"
+    },
+    {
+     "index": 5,
+     "reading": "せい"
+    }
+   ]
+  },
+  {
+   "start": 5300,
+   "end": 5390,
+   "text": "カコの記憶…？",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "き"
+    },
+    {
+     "index": 4,
+     "reading": "おく"
+    }
+   ]
+  },
+  {
+   "start": 5486,
+   "end": 5547,
+   "text": "人のいとなみの音…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ひと"
+    },
+    {
+     "index": 7,
+     "reading": "おと"
+    }
+   ]
+  },
+  {
+   "start": 5552,
+   "end": 5672,
+   "text": "街のざわめき、ゆうげのかおり…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "まち"
+    }
+   ]
+  },
+  {
+   "start": 5688,
+   "end": 5792,
+   "text": "ヘブンではとうに失われたカコの記憶",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "うしな"
+    },
+    {
+     "index": 15,
+     "reading": "き"
+    },
+    {
+     "index": 16,
+     "reading": "おく"
+    }
+   ]
+  },
+  {
+   "start": 5804,
+   "end": 5867,
+   "text": "ありがとうトリッガーくん"
+  },
+  {
+   "start": 5893,
+   "end": 5972,
+   "text": "おかげでようやくここに来ることができた…",
+   "ruby": [
+    {
+     "index": 11,
+     "reading": "く"
+    }
+   ]
+  },
+  {
+   "start": 6044,
+   "end": 6098,
+   "text": "３０００年の間",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "ねん"
+    },
+    {
+     "index": 6,
+     "reading": "あいたが"
+    }
+   ]
+  },
+  {
+   "start": 6110,
+   "end": 6184,
+   "text": "あらゆるクツウから開放され",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "かい"
+    },
+    {
+     "index": 10,
+     "reading": "ほう"
+    }
+   ]
+  },
+  {
+   "start": 6188,
+   "end": 6296,
+   "text": "のぞむままのかい楽をツイキュウすることもできたが…",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "らく"
+    }
+   ]
+  },
+  {
+   "start": 6349,
+   "end": 6445,
+   "text": "ここにある、なんでもないものにまさる"
+  },
+  {
+   "start": 6445,
+   "end": 6552,
+   "text": "よろこび、しあわせはなかった気がする",
+   "ruby": [
+    {
+     "index": 14,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 6627,
+   "end": 6679,
+   "text": "これで決心がついた",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "けっ"
+    },
+    {
+     "index": 4,
+     "reading": "しん"
+    }
+   ]
+  },
+  {
+   "start": 6727,
+   "end": 6821,
+   "text": "君に…最後のお願いをしたい",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "きみ"
+    },
+    {
+     "index": 3,
+     "reading": "さい"
+    },
+    {
+     "index": 4,
+     "reading": "こが"
+    },
+    {
+     "index": 7,
+     "reading": "ねかが"
+    }
+   ]
+  },
+  {
+   "start": 6878,
+   "end": 6939,
+   "text": "システムを破壊してくれたまえ",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "は"
+    },
+    {
+     "index": 6,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 6949,
+   "end": 7010,
+   "text": "われわれはまちがっていた"
+  },
+  {
+   "start": 7077,
+   "end": 7201,
+   "text": "君の手で、この「のろわれたワ」を閉じてくれ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "きみ"
+    },
+    {
+     "index": 2,
+     "reading": "て"
+    },
+    {
+     "index": 16,
+     "reading": "と"
+    }
+   ]
+  },
+  {
+   "start": 7276,
+   "end": 7369,
+   "text": "これは、おまもりみたいなもの"
+  },
+  {
+   "start": 7397,
+   "end": 7514,
+   "text": "これをもっていれば、誰も君に手出しはできない",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "たがれ"
+    },
+    {
+     "index": 12,
+     "reading": "きみ"
+    },
+    {
+     "index": 14,
+     "reading": "て"
+    },
+    {
+     "index": 15,
+     "reading": "たが"
+    }
+   ]
+  },
+  {
+   "start": 7560,
+   "end": 7672,
+   "text": "ヘブンに帰り、ライブラリの全データを",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "かえ"
+    },
+    {
+     "index": 13,
+     "reading": "せがん"
+    }
+   ]
+  },
+  {
+   "start": 7672,
+   "end": 7718,
+   "text": "消してくれたまえ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "け"
+    }
+   ]
+  },
+  {
+   "start": 7767,
+   "end": 7799,
+   "text": "頼んだよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たの"
+    }
+   ]
+  },
+  {
+   "start": 8009,
+   "end": 8084,
+   "text": "ま、マスター…！？"
+  },
+  {
+   "start": 8084,
+   "end": 8198,
+   "text": "ふむ…そろそろ時間がきたみたいだ",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "しが"
+    },
+    {
+     "index": 8,
+     "reading": "かん"
+    }
+   ]
+  },
+  {
+   "start": 8211,
+   "end": 8242,
+   "text": "ヘブンを離れては",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "はな"
+    }
+   ]
+  },
+  {
+   "start": 8242,
+   "end": 8314,
+   "text": "生きていけない体になっていたからな",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "い"
+    },
+    {
+     "index": 7,
+     "reading": "からたが"
+    }
+   ]
+  },
+  {
+   "start": 8445,
+   "end": 8588,
+   "text": "トリッガーくん、君ともそろそろお別れだ",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "きみ"
+    },
+    {
+     "index": 16,
+     "reading": "わか"
+    }
+   ]
+  },
+  {
+   "start": 8670,
+   "end": 8715,
+   "text": "いままでありがとう"
+  },
+  {
+   "start": 8773,
+   "end": 8815,
+   "text": "こんどこそ、本当の…",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "ほん"
+    },
+    {
+     "index": 7,
+     "reading": "とう"
+    }
+   ]
+  },
+  {
+   "start": 8850,
+   "end": 8979,
+   "text": "母の腕にだかれて、いくことができそうだよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "はは"
+    },
+    {
+     "index": 2,
+     "reading": "うてが"
+    }
+   ]
+  },
+  {
+   "start": 9346,
+   "end": 9389,
+   "text": "マスター……"
+  },
+  {
+   "start": 9509,
+   "end": 9619,
+   "text": "なるほどね～　そういうコトだったんだ…"
+  },
+  {
+   "start": 9626,
+   "end": 9665,
+   "text": "わたしこのときのコト"
+  },
+  {
+   "start": 9665,
+   "end": 9756,
+   "text": "セラからなにも聞かされてなかったからね",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 9778,
+   "end": 9838,
+   "text": "あ、あなたは…？"
+  },
+  {
+   "start": 9838,
+   "end": 9898,
+   "text": "ユーナよ、憶えてない？",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "おほが"
+    }
+   ]
+  },
+  {
+   "start": 9898,
+   "end": 9970,
+   "text": "ユー…ナ？"
+  },
+  {
+   "start": 9974,
+   "end": 10051,
+   "text": "セラはヘブンで、私は地球",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "わたし"
+    },
+    {
+     "index": 10,
+     "reading": "ち"
+    },
+    {
+     "index": 11,
+     "reading": "きゅう"
+    }
+   ]
+  },
+  {
+   "start": 10058,
+   "end": 10128,
+   "text": "二人でシステムを管理してたの",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふた"
+    },
+    {
+     "index": 1,
+     "reading": "り"
+    },
+    {
+     "index": 8,
+     "reading": "かん"
+    },
+    {
+     "index": 9,
+     "reading": "り"
+    }
+   ]
+  },
+  {
+   "start": 10143,
+   "end": 10245,
+   "text": "そうね、マザーとも呼ばれたりしてたわ",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "よ"
+    }
+   ]
+  },
+  {
+   "start": 10258,
+   "end": 10292,
+   "text": "マザー？"
+  },
+  {
+   "start": 10292,
+   "end": 10356,
+   "text": "あなた、メモリースキャンされないよう"
+  },
+  {
+   "start": 10356,
+   "end": 10388,
+   "text": "マスターの話を",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "はなし"
+    }
+   ]
+  },
+  {
+   "start": 10388,
+   "end": 10468,
+   "text": "あのおサルさんの中に封印してたのね",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "なか"
+    },
+    {
+     "index": 10,
+     "reading": "ふう"
+    },
+    {
+     "index": 11,
+     "reading": "いん"
+    }
+   ]
+  },
+  {
+   "start": 10476,
+   "end": 10565,
+   "text": "なぜあなたがマスターを地球に連れてきたのか",
+   "ruby": [
+    {
+     "index": 11,
+     "reading": "ち"
+    },
+    {
+     "index": 12,
+     "reading": "きゅう"
+    },
+    {
+     "index": 14,
+     "reading": "つ"
+    }
+   ]
+  },
+  {
+   "start": 10575,
+   "end": 10650,
+   "text": "なぜ、システムを破壊しようとしたのか",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "は"
+    },
+    {
+     "index": 9,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 10654,
+   "end": 10703,
+   "text": "やっとわかったわ"
+  },
+  {
+   "start": 10738,
+   "end": 10773,
+   "text": "ユーナさま！"
+  },
+  {
+   "start": 10773,
+   "end": 10846,
+   "text": "セラさま、もうすぐヘブンにトウチャクされます"
+  },
+  {
+   "start": 10856,
+   "end": 10897,
+   "text": "時間がないわね…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しが"
+    },
+    {
+     "index": 1,
+     "reading": "かん"
+    }
+   ]
+  },
+  {
+   "start": 10899,
+   "end": 10940,
+   "text": "急がないとあの子",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いそ"
+    },
+    {
+     "index": 7,
+     "reading": "こ"
+    }
+   ]
+  },
+  {
+   "start": 10940,
+   "end": 11027,
+   "text": "人類再生プログラムをジッコウしちゃうわ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しがん"
+    },
+    {
+     "index": 1,
+     "reading": "るい"
+    },
+    {
+     "index": 2,
+     "reading": "さい"
+    },
+    {
+     "index": 3,
+     "reading": "せい"
+    }
+   ]
+  },
+  {
+   "start": 11051,
+   "end": 11142,
+   "text": "マスターたち人間がすべて死に絶えたとき",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "にん"
+    },
+    {
+     "index": 7,
+     "reading": "けがん"
+    },
+    {
+     "index": 12,
+     "reading": "し"
+    },
+    {
+     "index": 14,
+     "reading": "た"
+    }
+   ]
+  },
+  {
+   "start": 11142,
+   "end": 11210,
+   "text": "保存されていた遺伝子コードを使って",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ほ"
+    },
+    {
+     "index": 1,
+     "reading": "そがん"
+    },
+    {
+     "index": 7,
+     "reading": "い"
+    },
+    {
+     "index": 8,
+     "reading": "てがん"
+    },
+    {
+     "index": 9,
+     "reading": "し"
+    },
+    {
+     "index": 14,
+     "reading": "つか"
+    }
+   ]
+  },
+  {
+   "start": 11210,
+   "end": 11299,
+   "text": "もう一度、古い世界を再生させるプログラム",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "いち"
+    },
+    {
+     "index": 3,
+     "reading": "とが"
+    },
+    {
+     "index": 5,
+     "reading": "ふる"
+    },
+    {
+     "index": 7,
+     "reading": "せ"
+    },
+    {
+     "index": 8,
+     "reading": "かい"
+    },
+    {
+     "index": 10,
+     "reading": "さい"
+    },
+    {
+     "index": 11,
+     "reading": "せい"
+    }
+   ]
+  },
+  {
+   "start": 11320,
+   "end": 11360,
+   "text": "ジッコウされると"
+  },
+  {
+   "start": 11360,
+   "end": 11444,
+   "text": "地上のデコイたちはすべてショブンされるわ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ち"
+    },
+    {
+     "index": 1,
+     "reading": "しがょう"
+    }
+   ]
+  },
+  {
+   "start": 11462,
+   "end": 11524,
+   "text": "止められるのは、あなたしかいない",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "と"
+    }
+   ]
+  },
+  {
+   "start": 11553,
+   "end": 11624,
+   "text": "とりあえず、もとの世界に戻るけど",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "せ"
+    },
+    {
+     "index": 10,
+     "reading": "かい"
+    },
+    {
+     "index": 12,
+     "reading": "もとが"
+    }
+   ]
+  },
+  {
+   "start": 11645,
+   "end": 11734,
+   "text": "どうするか自分で考えて",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "しが"
+    },
+    {
+     "index": 6,
+     "reading": "ふがん"
+    },
+    {
+     "index": 8,
+     "reading": "かんかが"
+    }
+   ]
+  }
+ ]
+}

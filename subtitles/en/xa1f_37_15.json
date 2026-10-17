@@ -1,0 +1,59 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 15,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 14,
+   "end": 60,
+   "text": "Ha, ha, ha, ha!"
+  },
+  {
+   "start": 60,
+   "end": 108,
+   "text": "Aaaaah!"
+  },
+  {
+   "start": 108,
+   "end": 166,
+   "text": "Ka-ka-ka-ka-ka! Give it up!"
+  },
+  {
+   "start": 168,
+   "end": 231,
+   "text": "Can't stop the bomb from going off! Ha-ha!"
+  },
+  {
+   "start": 231,
+   "end": 317,
+   "text": "Mega Man, come on! You, me, two blue guys!"
+  },
+  {
+   "start": 317,
+   "end": 403,
+   "text": "If we can just get that gate open!"
+  },
+  {
+   "start": 415,
+   "end": 463,
+   "text": "We have to find the key!"
+  },
+  {
+   "start": 463,
+   "end": 606,
+   "text": "You mean this key? I found it. In the tower."
+  },
+  {
+   "start": 612,
+   "end": 647,
+   "text": "That's it!"
+  },
+  {
+   "start": 649,
+   "end": 780,
+   "text": "Alright, maybe we have a chance after all. Hold on to that key!"
+  }
+ ],
+ "edited": true
+}

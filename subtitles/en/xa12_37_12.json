@@ -1,0 +1,39 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 12,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 21,
+   "end": 137,
+   "text": "Oh, here we go again! I'm tired of this!"
+  },
+  {
+   "start": 137,
+   "end": 268,
+   "text": "Ouch! Ouch! It's hot! Miss Tron, we're on fire!"
+  },
+  {
+   "start": 268,
+   "end": 355,
+   "text": "Teisel, we've got to get out of here!"
+  },
+  {
+   "start": 357,
+   "end": 447,
+   "text": "Listen to me! You little blue twerp!"
+  },
+  {
+   "start": 449,
+   "end": 589,
+   "text": "You haven't heard the last from us! I'll get you if it's the last thing I..."
+  },
+  {
+   "start": 608,
+   "end": 720,
+   "text": "Aaaaaaahhhhhh!"
+  }
+ ],
+ "edited": true
+}

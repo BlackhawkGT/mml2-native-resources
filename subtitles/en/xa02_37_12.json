@@ -1,0 +1,38 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 12,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 118,
+   "end": 232,
+   "text": "Roll! The Sulphur-Bottom is being sucked into that storm!"
+  },
+  {
+   "start": 242,
+   "end": 284,
+   "text": "Gramps!"
+  },
+  {
+   "start": 292,
+   "end": 336,
+   "text": "What should we do?"
+  },
+  {
+   "start": 336,
+   "end": 411,
+   "text": "We can't take the flutter in there."
+  },
+  {
+   "start": 435,
+   "end": 534,
+   "text": "And we're almost out of fuel. We'll have to set down on a nearby island."
+  },
+  {
+   "start": 534,
+   "end": 590,
+   "text": "We can figure out what to do then."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 3,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 0,
+   "end": 143,
+   "text": "Ten seconds to ignition. Is everything ready?"
+  },
+  {
+   "start": 167,
+   "end": 332,
+   "text": "Southwestern wind? Speed? One knot. Should be little to no interference."
+  },
+  {
+   "start": 337,
+   "end": 520,
+   "text": "Fuel pressure stable. All workers to the shelters!"
+  },
+  {
+   "start": 541,
+   "end": 697,
+   "text": "Four, three, two, one, lift off!"
+  }
+ ],
+ "edited": true
+}

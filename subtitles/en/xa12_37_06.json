@@ -1,0 +1,254 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 6,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 51,
+   "end": 111,
+   "text": "The Blue fellow's here."
+  },
+  {
+   "start": 113,
+   "end": 198,
+   "text": "You've got the electronic jammer set up, right?"
+  },
+  {
+   "start": 199,
+   "end": 242,
+   "text": "Yes, Miss Tron."
+  },
+  {
+   "start": 247,
+   "end": 339,
+   "text": "Let's see. The voice synthesizer is all set."
+  },
+  {
+   "start": 339,
+   "end": 435,
+   "text": "Okay, begin Mega Man Special Plan 3."
+  },
+  {
+   "start": 439,
+   "end": 504,
+   "text": "Do you think it will work?"
+  },
+  {
+   "start": 507,
+   "end": 581,
+   "text": "Maybe it will. Maybe it won't."
+  },
+  {
+   "start": 581,
+   "end": 647,
+   "text": "But that doesn't mean we won't try."
+  },
+  {
+   "start": 653,
+   "end": 705,
+   "text": "Yes, Miss Tron!"
+  },
+  {
+   "start": 781,
+   "end": 868,
+   "text": "Alright then, let's have some fun with Mega Man!"
+  },
+  {
+   "start": 1158,
+   "end": 1233,
+   "text": "Long time no see, Mega Man."
+  },
+  {
+   "start": 1236,
+   "end": 1351,
+   "text": "Ha! I had a feeling I might run into you here."
+  },
+  {
+   "start": 1366,
+   "end": 1440,
+   "text": "You're looking as good as ever."
+  },
+  {
+   "start": 1440,
+   "end": 1606,
+   "text": "Well, as good as you can, considering how that good-for-nothing blonde treats you."
+  },
+  {
+   "start": 1606,
+   "end": 1643,
+   "text": "What do you mean?"
+  },
+  {
+   "start": 1649,
+   "end": 1766,
+   "text": "When I ran into Miss Blondie, she told me all sorts of things."
+  },
+  {
+   "start": 1766,
+   "end": 1866,
+   "text": "Like how she's glad she doesn't have to go out on digs with you."
+  },
+  {
+   "start": 1873,
+   "end": 2023,
+   "text": "Do you think that's fair? She gets to relax while you run around getting shot at."
+  },
+  {
+   "start": 2023,
+   "end": 2104,
+   "text": "Don't you think that's a little strange?"
+  },
+  {
+   "start": 2104,
+   "end": 2143,
+   "text": "Well, I, uh..."
+  },
+  {
+   "start": 2143,
+   "end": 2194,
+   "text": "Wait, there's more."
+  },
+  {
+   "start": 2194,
+   "end": 2263,
+   "text": "Haven't you ever noticed that she's keeping some of the"
+  },
+  {
+   "start": 2263,
+   "end": 2367,
+   "text": "money you give her for weapons development for herself?"
+  },
+  {
+   "start": 2368,
+   "end": 2476,
+   "text": "She's skimming off the top, and you don't even realize it."
+  },
+  {
+   "start": 2487,
+   "end": 2541,
+   "text": "What? Skimming?"
+  },
+  {
+   "start": 2542,
+   "end": 2637,
+   "text": "She makes you all sorts of equipment and weapons, right?"
+  },
+  {
+   "start": 2638,
+   "end": 2734,
+   "text": "Do you really think it costs that much?"
+  },
+  {
+   "start": 2742,
+   "end": 2776,
+   "text": "You really are."
+  },
+  {
+   "start": 2776,
+   "end": 2823,
+   "text": "Thick, aren't you?"
+  },
+  {
+   "start": 2823,
+   "end": 2974,
+   "text": "She was showing off how much money she saved by stealing from you."
+  },
+  {
+   "start": 2981,
+   "end": 3060,
+   "text": "Role would never say those kinds of things!"
+  },
+  {
+   "start": 3060,
+   "end": 3114,
+   "text": "How can you be so sure?"
+  },
+  {
+   "start": 3114,
+   "end": 3177,
+   "text": "You can't judge a book by its cover."
+  },
+  {
+   "start": 3177,
+   "end": 3331,
+   "text": "She might look sweet and innocent, but how do you know what she's really like?"
+  },
+  {
+   "start": 3355,
+   "end": 3419,
+   "text": "Looks like it's working!"
+  },
+  {
+   "start": 3429,
+   "end": 3474,
+   "text": "Who'd have thought?"
+  },
+  {
+   "start": 3480,
+   "end": 3588,
+   "text": "I was hoping you wouldn't find out about that, Mega Man."
+  },
+  {
+   "start": 3588,
+   "end": 3618,
+   "text": "What? Roll?!"
+  },
+  {
+   "start": 3618,
+   "end": 3681,
+   "text": "But I guess it's too late to try to"
+  },
+  {
+   "start": 3681,
+   "end": 3738,
+   "text": "hide it now that Tron's told you."
+  },
+  {
+   "start": 3738,
+   "end": 3818,
+   "text": "Don't worry about me. You don't need to come back."
+  },
+  {
+   "start": 3818,
+   "end": 3879,
+   "text": "You could team up with Tron."
+  },
+  {
+   "start": 3897,
+   "end": 3939,
+   "text": "R-Roll?!"
+  },
+  {
+   "start": 3952,
+   "end": 4030,
+   "text": "What? I don't want him either!"
+  },
+  {
+   "start": 4030,
+   "end": 4195,
+   "text": "Well, maybe. If he gets on his hands and knees and begs me, I might consider it."
+  },
+  {
+   "start": 4195,
+   "end": 4275,
+   "text": "You really don't care if I have him?"
+  },
+  {
+   "start": 4293,
+   "end": 4378,
+   "text": "Me? No, not at all."
+  },
+  {
+   "start": 4397,
+   "end": 4437,
+   "text": "B-But..."
+  },
+  {
+   "start": 4465,
+   "end": 4543,
+   "text": "Right! Just wait till I get through with him!"
+  }
+ ],
+ "edited": true
+}

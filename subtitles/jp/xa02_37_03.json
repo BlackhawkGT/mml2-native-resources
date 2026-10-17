@@ -1,0 +1,224 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 3,
+ "audio_seconds": 47.65,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 94,
+   "end": 146,
+   "text": "今のところ、イジョウありません",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いま"
+    }
+   ]
+  },
+  {
+   "start": 166,
+   "end": 211,
+   "text": "よし、気をつけろ",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 225,
+   "end": 302,
+   "text": "どうやら空賊達も狙ってるらしい",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "くう"
+    },
+    {
+     "index": 5,
+     "reading": "そがく"
+    },
+    {
+     "index": 6,
+     "reading": "たち"
+    },
+    {
+     "index": 8,
+     "reading": "ねら"
+    }
+   ]
+  },
+  {
+   "start": 315,
+   "end": 341,
+   "text": "はっ"
+  },
+  {
+   "start": 352,
+   "end": 394,
+   "text": "いまだせいこうした者はいない",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "もの"
+    }
+   ]
+  },
+  {
+   "start": 394,
+   "end": 444,
+   "text": "「禁断の地」への冒険",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "きん"
+    },
+    {
+     "index": 2,
+     "reading": "たがん"
+    },
+    {
+     "index": 4,
+     "reading": "ち"
+    },
+    {
+     "index": 8,
+     "reading": "ほがう"
+    },
+    {
+     "index": 9,
+     "reading": "けん"
+    }
+   ]
+  },
+  {
+   "start": 444,
+   "end": 498,
+   "text": "ムボウとも言えるその計画にいどむ",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 10,
+     "reading": "けい"
+    },
+    {
+     "index": 11,
+     "reading": "かく"
+    }
+   ]
+  },
+  {
+   "start": 500,
+   "end": 552,
+   "text": "フォン・ミュラー氏とバレルはかせが…",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 559,
+   "end": 626,
+   "text": "なんでこんなに呼んだんじゃ！",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "よ"
+    }
+   ]
+  },
+  {
+   "start": 627,
+   "end": 688,
+   "text": "楽しみをひとり占めしたら",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たの"
+    },
+    {
+     "index": 7,
+     "reading": "しが"
+    }
+   ]
+  },
+  {
+   "start": 688,
+   "end": 753,
+   "text": "バチがあたると思わんかね？",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 769,
+   "end": 825,
+   "text": "あいかわらずじゃな"
+  },
+  {
+   "start": 839,
+   "end": 900,
+   "text": "ハジかいても知らんぞ！",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 1107,
+   "end": 1177,
+   "text": "長らくお待たせしました",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "なかが"
+    },
+    {
+     "index": 4,
+     "reading": "ま"
+    }
+   ]
+  },
+  {
+   "start": 1188,
+   "end": 1284,
+   "text": "ただいまから、今回のはっくつチョウサの",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "こん"
+    },
+    {
+     "index": 8,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 1284,
+   "end": 1359,
+   "text": "がいりゃくを説明いたします",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "せつ"
+    },
+    {
+     "index": 7,
+     "reading": "めい"
+    }
+   ]
+  }
+ ]
+}

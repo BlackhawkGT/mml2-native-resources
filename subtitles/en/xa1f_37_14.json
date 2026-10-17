@@ -1,0 +1,24 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 14,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 24,
+   "end": 98,
+   "text": "Babuuuuu!"
+  },
+  {
+   "start": 128,
+   "end": 219,
+   "text": "Babu... Babubrbrbrbr..."
+  },
+  {
+   "start": 270,
+   "end": 362,
+   "text": "Gee... I hope he's okay..."
+  }
+ ],
+ "edited": true
+}

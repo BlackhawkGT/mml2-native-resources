@@ -1,0 +1,305 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 11,
+ "audio_seconds": 86.33,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 57,
+   "end": 123,
+   "text": "「大いなる遺産」とは、どのようなものだと",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "おお"
+    },
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 6,
+     "reading": "さん"
+    }
+   ]
+  },
+  {
+   "start": 123,
+   "end": 184,
+   "text": "ミュラーさんはお考えですか？",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "かんかが"
+    }
+   ]
+  },
+  {
+   "start": 192,
+   "end": 255,
+   "text": "そうですな…"
+  },
+  {
+   "start": 279,
+   "end": 442,
+   "text": "人類のシンポとチョウワに役立つもの…たとえば",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しがん"
+    },
+    {
+     "index": 1,
+     "reading": "るい"
+    },
+    {
+     "index": 12,
+     "reading": "やく"
+    },
+    {
+     "index": 13,
+     "reading": "たが"
+    }
+   ]
+  },
+  {
+   "start": 444,
+   "end": 496,
+   "text": "ディフレクターに代わる",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "か"
+    }
+   ]
+  },
+  {
+   "start": 496,
+   "end": 562,
+   "text": "新しいエネルギーとか",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "あたら"
+    }
+   ]
+  },
+  {
+   "start": 567,
+   "end": 646,
+   "text": "まぁ、そんなものですかな？"
+  },
+  {
+   "start": 650,
+   "end": 766,
+   "text": "そちらの、バレルはかせもそうお考えなのですね？",
+   "ruby": [
+    {
+     "index": 15,
+     "reading": "かんかが"
+    }
+   ]
+  },
+  {
+   "start": 766,
+   "end": 845,
+   "text": "ん？　わしはですなー"
+  },
+  {
+   "start": 894,
+   "end": 994,
+   "text": "……マ、マチルダ！"
+  },
+  {
+   "start": 1062,
+   "end": 1133,
+   "text": "い、生きとったんかぁ！？",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 1167,
+   "end": 1223,
+   "text": "ああーっ！　あいつです！"
+  },
+  {
+   "start": 1228,
+   "end": 1295,
+   "text": "私をロッカーに閉じこめたのはっ！！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わたし"
+    },
+    {
+     "index": 7,
+     "reading": "と"
+    }
+   ]
+  },
+  {
+   "start": 1353,
+   "end": 1435,
+   "text": "タイ古の遺跡は、必ずしもあなたがたを",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "こ"
+    },
+    {
+     "index": 4,
+     "reading": "い"
+    },
+    {
+     "index": 5,
+     "reading": "せき"
+    },
+    {
+     "index": 8,
+     "reading": "かなら"
+    }
+   ]
+  },
+  {
+   "start": 1435,
+   "end": 1512,
+   "text": "シアワセにするとは限りませんよ",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "かきが"
+    }
+   ]
+  },
+  {
+   "start": 1530,
+   "end": 1575,
+   "text": "…目を離すな",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "め"
+    },
+    {
+     "index": 3,
+     "reading": "はな"
+    }
+   ]
+  },
+  {
+   "start": 1601,
+   "end": 1710,
+   "text": "私は、あなた方がどうなろうと、どうでもいいの",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わたし"
+    },
+    {
+     "index": 6,
+     "reading": "かがた"
+    }
+   ]
+  },
+  {
+   "start": 1712,
+   "end": 1793,
+   "text": "でも、一応ケイコクしとくわね",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "いち"
+    },
+    {
+     "index": 4,
+     "reading": "おう"
+    }
+   ]
+  },
+  {
+   "start": 1813,
+   "end": 1855,
+   "text": "あそこにあるのは"
+  },
+  {
+   "start": 1855,
+   "end": 1902,
+   "text": "あなた達が思っているような",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "たち"
+    },
+    {
+     "index": 5,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 1902,
+   "end": 1972,
+   "text": "いいものじゃ～ないわよ"
+  },
+  {
+   "start": 1990,
+   "end": 2072,
+   "text": "あれは…「大いなる遺産」というより",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "おお"
+    },
+    {
+     "index": 9,
+     "reading": "い"
+    },
+    {
+     "index": 10,
+     "reading": "さん"
+    }
+   ]
+  },
+  {
+   "start": 2072,
+   "end": 2113,
+   "text": "むしろ…"
+  },
+  {
+   "start": 2131,
+   "end": 2206,
+   "text": "「大いなるわざわい」なんだから",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "おお"
+    }
+   ]
+  },
+  {
+   "start": 2241,
+   "end": 2272,
+   "text": "ガーちゃん！"
+  },
+  {
+   "start": 2348,
+   "end": 2398,
+   "text": "う、動くな！",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "うこが"
+    }
+   ]
+  },
+  {
+   "start": 2443,
+   "end": 2512,
+   "text": "こら、やめんか！　やめなさい！"
+  }
+ ]
+}

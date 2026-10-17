@@ -1,0 +1,23 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 10,
+ "audio_seconds": 6.06,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 9,
+   "end": 81,
+   "text": "ヘッ、やるじゃないか"
+  },
+  {
+   "start": 88,
+   "end": 128,
+   "text": "ただモンじゃねーな"
+  },
+  {
+   "start": 131,
+   "end": 177,
+   "text": "てったいだーっ！"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 11,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 33,
+   "end": 181,
+   "text": "I am sorry, Glyde. I don't have any choice."
+  },
+  {
+   "start": 195,
+   "end": 305,
+   "text": "What are you babbling about now? Wait! You're not-"
+  },
+  {
+   "start": 305,
+   "end": 408,
+   "text": "We won't forget you! Glyde, good luck!"
+  },
+  {
+   "start": 408,
+   "end": 457,
+   "text": "Farewell!"
+  },
+  {
+   "start": 501,
+   "end": 567,
+   "text": "See ya around!"
+  },
+  {
+   "start": 586,
+   "end": 651,
+   "text": "Tron, do it!"
+  },
+  {
+   "start": 659,
+   "end": 733,
+   "text": "Releasing Glyde's car!"
+  },
+  {
+   "start": 810,
+   "end": 858,
+   "text": "What do you think you are doing?"
+  },
+  {
+   "start": 911,
+   "end": 974,
+   "text": "I'll get you for this, Teisel!"
+  },
+  {
+   "start": 1135,
+   "end": 1251,
+   "text": "Hahahahaha! Sayonara, Glyde!"
+  },
+  {
+   "start": 1263,
+   "end": 1356,
+   "text": "Okay, that takes care of Mr. Glyde."
+  },
+  {
+   "start": 1371,
+   "end": 1534,
+   "text": "Now, we have to fall back and regroup. Full steam ahead, Bon!"
+  },
+  {
+   "start": 1538,
+   "end": 1575,
+   "text": "Babu!"
+  }
+ ]
+}

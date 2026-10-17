@@ -1,0 +1,64 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 9,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 390,
+   "end": 499,
+   "text": "Roll, breakfast ready. I made the eggs just the way you like 'em."
+  },
+  {
+   "start": 549,
+   "end": 603,
+   "text": "Hey look, it's Gramps!"
+  },
+  {
+   "start": 752,
+   "end": 858,
+   "text": "Don't worry, Roll. The Mother Lode can't be found that easily."
+  },
+  {
+   "start": 969,
+   "end": 999,
+   "text": "Oh."
+  },
+  {
+   "start": 1294,
+   "end": 1413,
+   "text": "Professor Barrell and myself are confident that the Mother Lode,"
+  },
+  {
+   "start": 1413,
+   "end": 1541,
+   "text": "which has been sought after by all mankind for numerous generations,"
+  },
+  {
+   "start": 1543,
+   "end": 1633,
+   "text": "does lie buried somewhere on this island."
+  },
+  {
+   "start": 1918,
+   "end": 1996,
+   "text": "This ends my presentation. Thank you."
+  },
+  {
+   "start": 2002,
+   "end": 2092,
+   "text": "And now, are there any questions?"
+  },
+  {
+   "start": 2116,
+   "end": 2169,
+   "text": "Excuse me, Mr. Bluecher?"
+  },
+  {
+   "start": 2178,
+   "end": 2208,
+   "text": "Yes?"
+  }
+ ],
+ "edited": true
+}

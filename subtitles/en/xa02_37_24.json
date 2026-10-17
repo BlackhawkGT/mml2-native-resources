@@ -1,0 +1,49 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 24,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 0,
+   "end": 100,
+   "text": "Okay, we can figure out what to do once we get there, right?"
+  },
+  {
+   "start": 202,
+   "end": 297,
+   "text": "Roll, do you smell something burning?"
+  },
+  {
+   "start": 395,
+   "end": 426,
+   "text": "Data!"
+  },
+  {
+   "start": 426,
+   "end": 467,
+   "text": "I'll go see what's wrong."
+  },
+  {
+   "start": 467,
+   "end": 525,
+   "text": "Wait Mega Man, take this with you!"
+  },
+  {
+   "start": 525,
+   "end": 563,
+   "text": "What? What is it?"
+  },
+  {
+   "start": 563,
+   "end": 639,
+   "text": "It's a fire extinguisher! I'll tell you more later!"
+  },
+  {
+   "start": 644,
+   "end": 687,
+   "text": "Okay, back me up!"
+  }
+ ],
+ "edited": true
+}

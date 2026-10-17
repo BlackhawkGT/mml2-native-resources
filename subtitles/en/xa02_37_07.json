@@ -1,0 +1,48 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 7,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 0,
+   "end": 54,
+   "text": "As I'm sure all of you are aware,"
+  },
+  {
+   "start": 54,
+   "end": 140,
+   "text": "no one has succeeded in landing on the island beyond"
+  },
+  {
+   "start": 140,
+   "end": 237,
+   "text": "this tumultuous cloud and lived to tell the tale."
+  },
+  {
+   "start": 245,
+   "end": 337,
+   "text": "No one that is, except Professor Barrell and myself."
+  },
+  {
+   "start": 409,
+   "end": 572,
+   "text": "30 years ago, Professor Barrell and I journeyed to that island, and returned."
+  },
+  {
+   "start": 578,
+   "end": 673,
+   "text": "Over the years, we've been asked many times what we saw there."
+  },
+  {
+   "start": 693,
+   "end": 758,
+   "text": "We have kept that knowledge to ourselves,"
+  },
+  {
+   "start": 760,
+   "end": 937,
+   "text": "but now I intend to give to you the opportunity to see it for yourselves."
+  }
+ ]
+}

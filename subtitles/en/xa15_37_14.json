@@ -1,0 +1,64 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 14,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 46,
+   "end": 132,
+   "text": "You're pretty strong, aren't you?"
+  },
+  {
+   "start": 147,
+   "end": 291,
+   "text": "That's a big gun you've got. But it's not enough to hurt me."
+  },
+  {
+   "start": 309,
+   "end": 387,
+   "text": "You kids today think you're so hot? Well,"
+  },
+  {
+   "start": 387,
+   "end": 487,
+   "text": "there's still some fight left in this old man. I'll-"
+  },
+  {
+   "start": 598,
+   "end": 699,
+   "text": "My back... Ow ow ow ow ow!"
+  },
+  {
+   "start": 713,
+   "end": 748,
+   "text": "I can't move!"
+  },
+  {
+   "start": 784,
+   "end": 874,
+   "text": "Help me. Somebody, help me!\""
+  },
+  {
+   "start": 921,
+   "end": 1044,
+   "text": "I thought I was supposed to be your partner, not your nursemaid."
+  },
+  {
+   "start": 1059,
+   "end": 1202,
+   "text": "We're willing to call it a draw if you want, boy. Come on, Klaymoor. Let's go."
+  },
+  {
+   "start": 1210,
+   "end": 1375,
+   "text": "Oh, if it weren't for my back, I'd have wiped up the floor with them, I tell ya."
+  },
+  {
+   "start": 1377,
+   "end": 1451,
+   "text": "Yeah, yeah, yeah. Whatever you say."
+  }
+ ],
+ "edited": true
+}

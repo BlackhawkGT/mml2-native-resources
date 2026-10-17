@@ -1,0 +1,74 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 15,
+ "audio_seconds": 23.72,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 28,
+   "end": 105,
+   "text": "おさわがせして、ゴメンなさいね～"
+  },
+  {
+   "start": 111,
+   "end": 166,
+   "text": "でも「あの子」が起きたら",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "こ"
+    },
+    {
+     "index": 8,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 166,
+   "end": 240,
+   "text": "こんなコトじゃすまないと思うから",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 253,
+   "end": 352,
+   "text": "わかった？じゃ～ね～"
+  },
+  {
+   "start": 495,
+   "end": 600,
+   "text": "「大いなるわざわい」？　「あの子」が起きる？",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "おお"
+    },
+    {
+     "index": 15,
+     "reading": "こ"
+    },
+    {
+     "index": 18,
+     "reading": "お"
+    }
+   ]
+  },
+  {
+   "start": 626,
+   "end": 703,
+   "text": "なにを言っとるんじゃマチルダ……",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "い"
+    }
+   ]
+  }
+ ]
+}

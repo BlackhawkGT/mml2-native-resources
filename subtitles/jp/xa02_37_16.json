@@ -1,0 +1,180 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 16,
+ "audio_seconds": 43.34,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 60,
+   "text": "ろ、ロック！　この人…",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "ひと"
+    }
+   ]
+  },
+  {
+   "start": 83,
+   "end": 126,
+   "text": "この人…おかーさん！",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "ひと"
+    }
+   ]
+  },
+  {
+   "start": 126,
+   "end": 152,
+   "text": "えっ！？"
+  },
+  {
+   "start": 177,
+   "end": 222,
+   "text": "でも、どうして…？"
+  },
+  {
+   "start": 244,
+   "end": 348,
+   "text": "お母さんがこんなことするわけ…ないし",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "かあ"
+    }
+   ]
+  },
+  {
+   "start": 367,
+   "end": 391,
+   "text": "行ってみようっ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 391,
+   "end": 414,
+   "text": "…え？"
+  },
+  {
+   "start": 428,
+   "end": 490,
+   "text": "今のが本当にロールちゃんのお母さんなのか",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いま"
+    },
+    {
+     "index": 3,
+     "reading": "ほん"
+    },
+    {
+     "index": 4,
+     "reading": "とう"
+    },
+    {
+     "index": 14,
+     "reading": "かあ"
+    }
+   ]
+  },
+  {
+   "start": 490,
+   "end": 532,
+   "text": "会って確かめるんだ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "あ"
+    },
+    {
+     "index": 3,
+     "reading": "たし"
+    }
+   ]
+  },
+  {
+   "start": 556,
+   "end": 594,
+   "text": "でも…"
+  },
+  {
+   "start": 608,
+   "end": 684,
+   "text": "とにかく、行ってみないと何にもわかんないよ！",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 12,
+     "reading": "なん"
+    }
+   ]
+  },
+  {
+   "start": 745,
+   "end": 791,
+   "text": "……そうだよね"
+  },
+  {
+   "start": 832,
+   "end": 882,
+   "text": "うん、行こうっ！",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 898,
+   "end": 970,
+   "text": "わたし着替えて、エンジンに火を入れてくる！",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "き"
+    },
+    {
+     "index": 4,
+     "reading": "かが"
+    },
+    {
+     "index": 13,
+     "reading": "ひ"
+    },
+    {
+     "index": 15,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 974,
+   "end": 1064,
+   "text": "ロック！　悪いんだけど、おサラかたづけといてー！",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "わる"
+    }
+   ]
+  },
+  {
+   "start": 1074,
+   "end": 1118,
+   "text": "ふふっ"
+  }
+ ]
+}

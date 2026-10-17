@@ -1,0 +1,28 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 21,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 0,
+   "end": 97,
+   "text": "The flutter can't get through the winds surrounding Forbidden Island."
+  },
+  {
+   "start": 97,
+   "end": 183,
+   "text": "We'll need a special ship if we want to land there."
+  },
+  {
+   "start": 188,
+   "end": 323,
+   "text": "My father once designed a special kind of flying ship called a drop ship."
+  },
+  {
+   "start": 328,
+   "end": 420,
+   "text": "I'm pretty sure we could use it to get there."
+  }
+ ]
+}

@@ -1,0 +1,665 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 7,
+ "audio_seconds": 209.58,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 757,
+   "end": 821,
+   "text": "マスターはいつも"
+  },
+  {
+   "start": 846,
+   "end": 961,
+   "text": "さみしい目で、わたしを見ていた",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "め"
+    },
+    {
+     "index": 11,
+     "reading": "み"
+    }
+   ]
+  },
+  {
+   "start": 1010,
+   "end": 1089,
+   "text": "わたしはシステムにちゅうじつに"
+  },
+  {
+   "start": 1115,
+   "end": 1206,
+   "text": "マスターに仕えれば仕えるほど",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "つか"
+    },
+    {
+     "index": 9,
+     "reading": "つか"
+    }
+   ]
+  },
+  {
+   "start": 1233,
+   "end": 1320,
+   "text": "マスターは悲しそうだった……",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "かな"
+    }
+   ]
+  },
+  {
+   "start": 1359,
+   "end": 1480,
+   "text": "しかし…おまえのおかげでようやく…"
+  },
+  {
+   "start": 1512,
+   "end": 1600,
+   "text": "マスターに…わらってもらえるような…"
+  },
+  {
+   "start": 1628,
+   "end": 1687,
+   "text": "そんな気がする……",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 1735,
+   "end": 1797,
+   "text": "セラ…さん？"
+  },
+  {
+   "start": 1847,
+   "end": 1946,
+   "text": "これで…ようやく…"
+  },
+  {
+   "start": 1993,
+   "end": 2124,
+   "text": "トリッガー…カンシャ…するぞ……"
+  },
+  {
+   "start": 2152,
+   "end": 2202,
+   "text": "そ、そんな！"
+  },
+  {
+   "start": 2248,
+   "end": 2346,
+   "text": "そうよ、そうカンタンにはいかせないわよ"
+  },
+  {
+   "start": 2423,
+   "end": 2499,
+   "text": "ホントに、このガンコむすめは…"
+  },
+  {
+   "start": 2540,
+   "end": 2589,
+   "text": "ほら、たんまつがあれば"
+  },
+  {
+   "start": 2589,
+   "end": 2650,
+   "text": "最てい限の機能は移せるでしょ？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "さい"
+    },
+    {
+     "index": 3,
+     "reading": "けがん"
+    },
+    {
+     "index": 5,
+     "reading": "き"
+    },
+    {
+     "index": 6,
+     "reading": "のう"
+    },
+    {
+     "index": 8,
+     "reading": "うつ"
+    }
+   ]
+  },
+  {
+   "start": 2677,
+   "end": 2757,
+   "text": "あんたのカケに付き合って、ガガは死んだの",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "つ"
+    },
+    {
+     "index": 9,
+     "reading": "あ"
+    },
+    {
+     "index": 16,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 2781,
+   "end": 2841,
+   "text": "この上、あんたにまで死なれたら",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "うえ"
+    },
+    {
+     "index": 10,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 2841,
+   "end": 2901,
+   "text": "わたし、さみしいじゃない"
+  },
+  {
+   "start": 3030,
+   "end": 3101,
+   "text": "あ、無視する気ね",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "む"
+    },
+    {
+     "index": 3,
+     "reading": "し"
+    },
+    {
+     "index": 6,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 3128,
+   "end": 3224,
+   "text": "じゃあひとつ、イヤ～な話をしてあげる",
+   "ruby": [
+    {
+     "index": 11,
+     "reading": "はなし"
+    }
+   ]
+  },
+  {
+   "start": 3242,
+   "end": 3302,
+   "text": "ヘブンの機能が停止したから",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "き"
+    },
+    {
+     "index": 5,
+     "reading": "のう"
+    },
+    {
+     "index": 7,
+     "reading": "てい"
+    },
+    {
+     "index": 8,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 3302,
+   "end": 3347,
+   "text": "マスターたちが閉鎖したはずの",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "へい"
+    },
+    {
+     "index": 8,
+     "reading": "さ"
+    }
+   ]
+  },
+  {
+   "start": 3347,
+   "end": 3424,
+   "text": "古いシステムが動き始めたわよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふる"
+    },
+    {
+     "index": 7,
+     "reading": "うこが"
+    },
+    {
+     "index": 9,
+     "reading": "はしが"
+    }
+   ]
+  },
+  {
+   "start": 3435,
+   "end": 3484,
+   "text": "あなたのもともとの仕事",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "し"
+    },
+    {
+     "index": 10,
+     "reading": "こがと"
+    }
+   ]
+  },
+  {
+   "start": 3484,
+   "end": 3539,
+   "text": "ほっぽりだしたまま死んだんじゃ",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 3539,
+   "end": 3612,
+   "text": "あの世でマスターにしかられるでしょ",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "よ"
+    }
+   ]
+  },
+  {
+   "start": 3717,
+   "end": 3905,
+   "text": "ふるき神々か…まだ、生きていたのだな",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "かみ"
+    },
+    {
+     "index": 4,
+     "reading": "かがみ"
+    },
+    {
+     "index": 10,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 4089,
+   "end": 4169,
+   "text": "地上には私すらハアクしきれないほどの",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ち"
+    },
+    {
+     "index": 1,
+     "reading": "しがょう"
+    },
+    {
+     "index": 4,
+     "reading": "わたし"
+    }
+   ]
+  },
+  {
+   "start": 4169,
+   "end": 4225,
+   "text": "古い施設がうまってる",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふる"
+    },
+    {
+     "index": 2,
+     "reading": "し"
+    },
+    {
+     "index": 3,
+     "reading": "せつ"
+    }
+   ]
+  },
+  {
+   "start": 4253,
+   "end": 4326,
+   "text": "今すぐにってことはないと思うけど…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "いま"
+    },
+    {
+     "index": 12,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 4335,
+   "end": 4422,
+   "text": "そのうち、どく自の活動をはじめるでしょうね",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "しが"
+    },
+    {
+     "index": 9,
+     "reading": "かつ"
+    },
+    {
+     "index": 10,
+     "reading": "とがう"
+    }
+   ]
+  },
+  {
+   "start": 4448,
+   "end": 4492,
+   "text": "このまま放っておいたら",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "ほう"
+    }
+   ]
+  },
+  {
+   "start": 4492,
+   "end": 4561,
+   "text": "いったい地上はどうなっちゃうと思う？",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "ち"
+    },
+    {
+     "index": 5,
+     "reading": "しがょう"
+    },
+    {
+     "index": 15,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 4579,
+   "end": 4612,
+   "text": "せっかくあなたが"
+  },
+  {
+   "start": 4612,
+   "end": 4655,
+   "text": "システムをすててまで"
+  },
+  {
+   "start": 4655,
+   "end": 4718,
+   "text": "残そうとした人間たちなのに",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "のこ"
+    },
+    {
+     "index": 6,
+     "reading": "にん"
+    },
+    {
+     "index": 7,
+     "reading": "けがん"
+    }
+   ]
+  },
+  {
+   "start": 4737,
+   "end": 4816,
+   "text": "どうよセラ…こうなったら"
+  },
+  {
+   "start": 4817,
+   "end": 4883,
+   "text": "マスターが残した人間たちとともに",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "のこ"
+    },
+    {
+     "index": 8,
+     "reading": "にん"
+    },
+    {
+     "index": 9,
+     "reading": "けがん"
+    }
+   ]
+  },
+  {
+   "start": 4886,
+   "end": 4942,
+   "text": "コントンの時代を生きてみない？",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "しが"
+    },
+    {
+     "index": 6,
+     "reading": "たがい"
+    },
+    {
+     "index": 8,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 4942,
+   "end": 5014,
+   "text": "それは、おもしろそうだな"
+  },
+  {
+   "start": 5018,
+   "end": 5150,
+   "text": "あら～、わらうセラちゃん見るの、ひさしぶり～",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "み"
+    }
+   ]
+  },
+  {
+   "start": 5150,
+   "end": 5245,
+   "text": "あの地へ、再び戻れるメドがついたら",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "ち"
+    },
+    {
+     "index": 5,
+     "reading": "ふたた"
+    },
+    {
+     "index": 7,
+     "reading": "もとが"
+    }
+   ]
+  },
+  {
+   "start": 5247,
+   "end": 5301,
+   "text": "考えてみるとしよう",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かんかが"
+    }
+   ]
+  },
+  {
+   "start": 5301,
+   "end": 5443,
+   "text": "あ、あら～、やっぱりそうなのね～"
+  },
+  {
+   "start": 5473,
+   "end": 5545,
+   "text": "あーん、トリッガーどうしよう！"
+  },
+  {
+   "start": 5545,
+   "end": 5622,
+   "text": "地球に帰れなかったら、あの子にお母さん",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ち"
+    },
+    {
+     "index": 1,
+     "reading": "きゅう"
+    },
+    {
+     "index": 3,
+     "reading": "かえ"
+    },
+    {
+     "index": 13,
+     "reading": "こ"
+    },
+    {
+     "index": 16,
+     "reading": "かあ"
+    }
+   ]
+  },
+  {
+   "start": 5622,
+   "end": 5681,
+   "text": "返してあげれないわ～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かえ"
+    }
+   ]
+  },
+  {
+   "start": 5702,
+   "end": 5802,
+   "text": "おまえは、ほんとに緊張感がないな",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "きん"
+    },
+    {
+     "index": 10,
+     "reading": "ちょう"
+    },
+    {
+     "index": 11,
+     "reading": "かん"
+    }
+   ]
+  },
+  {
+   "start": 5805,
+   "end": 5886,
+   "text": "ふふっ、大丈夫ですよ",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 5,
+     "reading": "しがょ"
+    },
+    {
+     "index": 6,
+     "reading": "うふが"
+    }
+   ]
+  },
+  {
+   "start": 5886,
+   "end": 5923,
+   "text": "え？"
+  },
+  {
+   "start": 5937,
+   "end": 6060,
+   "text": "あの子が…どんなことをしても絶対に",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "こ"
+    },
+    {
+     "index": 14,
+     "reading": "せがっ"
+    },
+    {
+     "index": 15,
+     "reading": "たい"
+    }
+   ]
+  },
+  {
+   "start": 6063,
+   "end": 6134,
+   "text": "むかえに来てくれますから",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "き"
+    }
+   ]
+  }
+ ]
+}

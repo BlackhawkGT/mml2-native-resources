@@ -1,0 +1,29 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 13,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 246,
+   "end": 430,
+   "text": "They're here! Here they come! Wait until they get within range, then fire!"
+  },
+  {
+   "start": 552,
+   "end": 607,
+   "text": "Huh? Ah!"
+  },
+  {
+   "start": 684,
+   "end": 773,
+   "text": "Huh? Those aren't pirates..."
+  },
+  {
+   "start": 784,
+   "end": 826,
+   "text": "Oh no!"
+  }
+ ],
+ "edited": true
+}

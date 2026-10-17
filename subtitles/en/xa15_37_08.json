@@ -1,0 +1,54 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 8,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 25,
+   "end": 193,
+   "text": "Oh, fear! We're done for! They're bringing in the main ship!"
+  },
+  {
+   "start": 193,
+   "end": 287,
+   "text": "What'll we do? We're doomed!"
+  },
+  {
+   "start": 291,
+   "end": 346,
+   "text": "Bringing out the big guns, huh?"
+  },
+  {
+   "start": 364,
+   "end": 474,
+   "text": "Why don't we try using the secret weapon you were telling us about?"
+  },
+  {
+   "start": 474,
+   "end": 600,
+   "text": "Huh? Oh, that. Won't make any difference. It's broken."
+  },
+  {
+   "start": 600,
+   "end": 696,
+   "text": "Well, I'll fix it then. Come on, Mega Man!"
+  },
+  {
+   "start": 697,
+   "end": 720,
+   "text": "Huh?"
+  },
+  {
+   "start": 722,
+   "end": 754,
+   "text": "Hey, wait!"
+  },
+  {
+   "start": 777,
+   "end": 897,
+   "text": "Get her back, Mega Man! It's our job to stop the pirates, not hers!"
+  }
+ ],
+ "edited": true
+}

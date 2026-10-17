@@ -1,0 +1,64 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 13,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 293,
+   "end": 376,
+   "text": "The storm, it stopped."
+  },
+  {
+   "start": 924,
+   "end": 1163,
+   "text": "Oh... Has it finally stopped? I thought we were goners for sure."
+  },
+  {
+   "start": 1189,
+   "end": 1244,
+   "text": "You're getting old, Barrell."
+  },
+  {
+   "start": 1262,
+   "end": 1359,
+   "text": "That was nothing. Look at me. I'm fine."
+  },
+  {
+   "start": 1391,
+   "end": 1517,
+   "text": "Show off. For all that money you spent on it,"
+  },
+  {
+   "start": 1517,
+   "end": 1665,
+   "text": "you'd think this flying washtub of yours would have held up better."
+  },
+  {
+   "start": 1674,
+   "end": 1746,
+   "text": "Well, accidents happen. If we were ready for them,"
+  },
+  {
+   "start": 1746,
+   "end": 1821,
+   "text": "we wouldn't call them accidents, would we?"
+  },
+  {
+   "start": 2116,
+   "end": 2197,
+   "text": "How come those old fogies are so chipper, huh?"
+  },
+  {
+   "start": 2197,
+   "end": 2345,
+   "text": "My stomach feels like it's been through a washing machine spin cycle."
+  },
+  {
+   "start": 2370,
+   "end": 2456,
+   "text": "T-Teisel, look!"
+  }
+ ],
+ "edited": true
+}

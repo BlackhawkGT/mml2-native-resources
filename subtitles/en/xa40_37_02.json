@@ -1,0 +1,43 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 2,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 101,
+   "end": 277,
+   "text": "Gatz is attempting to assist you by invading my internal systems."
+  },
+  {
+   "start": 277,
+   "end": 336,
+   "text": "I do not understand."
+  },
+  {
+   "start": 336,
+   "end": 497,
+   "text": "A servitor unit such as Gatz should be unable to disobey the system's commands."
+  },
+  {
+   "start": 513,
+   "end": 674,
+   "text": "Oh, a Mother Unit like myself is superior to a Servitor Unit."
+  },
+  {
+   "start": 674,
+   "end": 780,
+   "text": "His sabotage attempts are a distraction, nothing more."
+  },
+  {
+   "start": 780,
+   "end": 884,
+   "text": "When last we struggled, you imprisoned me on Terra."
+  },
+  {
+   "start": 884,
+   "end": 982,
+   "text": "Perhaps this time, it will be you who is imprisoned."
+  }
+ ]
+}

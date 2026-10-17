@@ -1,0 +1,18 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 11,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 57,
+   "end": 125,
+   "text": "Oh, thank you for coming."
+  },
+  {
+   "start": 190,
+   "end": 220,
+   "text": "Get him!"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 24,
+ "audio_seconds": 23.72,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 67,
+   "text": "そうね、とりあえず向こうについてから",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "む"
+    }
+   ]
+  },
+  {
+   "start": 67,
+   "end": 105,
+   "text": "考えよっか",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かんかが"
+    }
+   ]
+  },
+  {
+   "start": 170,
+   "end": 278,
+   "text": "……？　ロールちゃん、なにかコゲくさくない？"
+  },
+  {
+   "start": 278,
+   "end": 310,
+   "text": "ん？"
+  },
+  {
+   "start": 347,
+   "end": 403,
+   "text": "キー！　キキッキーー！"
+  },
+  {
+   "start": 406,
+   "end": 443,
+   "text": "データ！"
+  },
+  {
+   "start": 443,
+   "end": 472,
+   "text": "見てくる！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "み"
+    }
+   ]
+  },
+  {
+   "start": 472,
+   "end": 520,
+   "text": "ロック、コレ持ってって！",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "も"
+    }
+   ]
+  },
+  {
+   "start": 520,
+   "end": 570,
+   "text": "え？　なにこれ？"
+  },
+  {
+   "start": 570,
+   "end": 625,
+   "text": "消火器！　くわしいことは後で！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しょう"
+    },
+    {
+     "index": 1,
+     "reading": "か"
+    },
+    {
+     "index": 2,
+     "reading": "き"
+    },
+    {
+     "index": 12,
+     "reading": "あと"
+    }
+   ]
+  },
+  {
+   "start": 625,
+   "end": 687,
+   "text": "うん！　サポートお願いっ！",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "ねかが"
+    }
+   ]
+  }
+ ]
+}

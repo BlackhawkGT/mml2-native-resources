@@ -1,0 +1,38 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 15,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 24,
+   "end": 117,
+   "text": "I'm sorry. I didn't mean to cause such a ruckus."
+  },
+  {
+   "start": 118,
+   "end": 180,
+   "text": "Still, the child must not be allowed to awaken."
+  },
+  {
+   "start": 180,
+   "end": 250,
+   "text": "There's no telling what might happen if she does."
+  },
+  {
+   "start": 253,
+   "end": 294,
+   "text": "Understand?"
+  },
+  {
+   "start": 300,
+   "end": 358,
+   "text": "You have been warned."
+  },
+  {
+   "start": 503,
+   "end": 698,
+   "text": "A catastrophe? A child? What do you mean, Matilda?"
+  }
+ ]
+}

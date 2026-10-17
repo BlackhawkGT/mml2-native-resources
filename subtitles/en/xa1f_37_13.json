@@ -1,0 +1,18 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 13,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 151,
+   "end": 197,
+   "text": "The key's gone!"
+  },
+  {
+   "start": 235,
+   "end": 284,
+   "text": "I hope I'm not too late!"
+  }
+ ]
+}

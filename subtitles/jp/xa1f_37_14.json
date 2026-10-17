@@ -1,0 +1,42 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 14,
+ "audio_seconds": 13.09,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 25,
+   "end": 99,
+   "text": "ばぁぁぁぁぁぶぅぅぅぅ！"
+  },
+  {
+   "start": 117,
+   "end": 209,
+   "text": "ばぶぅ…ばぶくぶくぶく"
+  },
+  {
+   "start": 239,
+   "end": 293,
+   "text": "し、しずんじゃった…"
+  },
+  {
+   "start": 319,
+   "end": 365,
+   "text": "大丈夫かな……？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 1,
+     "reading": "しがょ"
+    },
+    {
+     "index": 2,
+     "reading": "うふが"
+    }
+   ]
+  }
+ ]
+}

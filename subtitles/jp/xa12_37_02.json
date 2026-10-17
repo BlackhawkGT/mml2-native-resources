@@ -1,0 +1,28 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 2,
+ "audio_seconds": 13.95,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 200,
+   "end": 270,
+   "text": "よっ、またきたぜ～"
+  },
+  {
+   "start": 292,
+   "end": 368,
+   "text": "わるいけど、また、付き合ってくれよな",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "つ"
+    },
+    {
+     "index": 11,
+     "reading": "あ"
+    }
+   ]
+  }
+ ]
+}

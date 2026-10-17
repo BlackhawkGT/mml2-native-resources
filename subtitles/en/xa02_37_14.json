@@ -1,0 +1,28 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 14,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 4,
+   "end": 86,
+   "text": "Look at that, Teisel! Isn't it amazing?"
+  },
+  {
+   "start": 86,
+   "end": 168,
+   "text": "Ha ha! I smell a mighty big treasure-tron!"
+  },
+  {
+   "start": 168,
+   "end": 208,
+   "text": "Get out of my way, I can't see!"
+  },
+  {
+   "start": 208,
+   "end": 295,
+   "text": "Whoa, whoa, whoa! Watch what you're doing! You're trying to get me killed?!"
+  }
+ ]
+}

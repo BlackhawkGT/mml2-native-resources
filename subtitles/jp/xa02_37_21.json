@@ -1,0 +1,128 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 21,
+ "audio_seconds": 14.21,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 49,
+   "text": "この子では、禁断の地の",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "こ"
+    },
+    {
+     "index": 6,
+     "reading": "きん"
+    },
+    {
+     "index": 7,
+     "reading": "たがん"
+    },
+    {
+     "index": 9,
+     "reading": "ち"
+    }
+   ]
+  },
+  {
+   "start": 49,
+   "end": 111,
+   "text": "ボウフウケンを突破できないから",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "とっ"
+    },
+    {
+     "index": 8,
+     "reading": "はぎ"
+    }
+   ]
+  },
+  {
+   "start": 111,
+   "end": 180,
+   "text": "特別な船が必要だと思うの",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "とく"
+    },
+    {
+     "index": 1,
+     "reading": "へがつ"
+    },
+    {
+     "index": 3,
+     "reading": "ふね"
+    },
+    {
+     "index": 5,
+     "reading": "ひつ"
+    },
+    {
+     "index": 6,
+     "reading": "よう"
+    },
+    {
+     "index": 9,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 195,
+   "end": 256,
+   "text": "お父さんが昔かいた設計図に",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "とう"
+    },
+    {
+     "index": 5,
+     "reading": "むかし"
+    },
+    {
+     "index": 9,
+     "reading": "せっ"
+    },
+    {
+     "index": 10,
+     "reading": "けい"
+    },
+    {
+     "index": 11,
+     "reading": "すが"
+    }
+   ]
+  },
+  {
+   "start": 261,
+   "end": 327,
+   "text": "ドロップシップっていうのがあって"
+  },
+  {
+   "start": 330,
+   "end": 439,
+   "text": "それなら、あの島へ着陸できると思うんだけど",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "しま"
+    },
+    {
+     "index": 9,
+     "reading": "ちゃく"
+    },
+    {
+     "index": 10,
+     "reading": "りく"
+    }
+   ]
+  }
+ ]
+}

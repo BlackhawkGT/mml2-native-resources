@@ -1,0 +1,39 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 19,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 9,
+   "end": 55,
+   "text": "Are you ready Mega Man?"
+  },
+  {
+   "start": 55,
+   "end": 76,
+   "text": "Yep!"
+  },
+  {
+   "start": 76,
+   "end": 117,
+   "text": "Okay, here we go!"
+  },
+  {
+   "start": 123,
+   "end": 166,
+   "text": "Hold hatch open,"
+  },
+  {
+   "start": 191,
+   "end": 305,
+   "text": "releasing docking clamps, drop ship away!"
+  },
+  {
+   "start": 603,
+   "end": 751,
+   "text": "Oh... ohh... ohh..."
+  }
+ ],
+ "edited": true
+}

@@ -1,0 +1,89 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 12,
+ "audio_seconds": 17.21,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 20,
+   "end": 105,
+   "text": "ありがとぉ、助けてもらっちゃって～",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "たす"
+    }
+   ]
+  },
+  {
+   "start": 113,
+   "end": 169,
+   "text": "君の弟たちがガンバったからね",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "きみ"
+    },
+    {
+     "index": 2,
+     "reading": "おとうと"
+    }
+   ]
+  },
+  {
+   "start": 185,
+   "end": 219,
+   "text": "さあ、行こうか",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 245,
+   "end": 302,
+   "text": "そうは問屋がおろさんぜ！",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "とん"
+    },
+    {
+     "index": 4,
+     "reading": "や"
+    }
+   ]
+  },
+  {
+   "start": 347,
+   "end": 403,
+   "text": "道連れだ！　いっしょに死～の～ぜ～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "みち"
+    },
+    {
+     "index": 1,
+     "reading": "つが"
+    },
+    {
+     "index": 11,
+     "reading": "し"
+    }
+   ]
+  },
+  {
+   "start": 407,
+   "end": 443,
+   "text": "ケッケッケー！"
+  },
+  {
+   "start": 460,
+   "end": 506,
+   "text": "まずい、いそがなきゃ！"
+  }
+ ]
+}

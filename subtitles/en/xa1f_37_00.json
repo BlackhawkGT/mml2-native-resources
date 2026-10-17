@@ -1,0 +1,39 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 0,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 231,
+   "end": 319,
+   "text": "That's where they got you!"
+  },
+  {
+   "start": 329,
+   "end": 480,
+   "text": "So that's their base. Don't worry, I'll get your sister out of there."
+  },
+  {
+   "start": 485,
+   "end": 614,
+   "text": "I don't think so. It's probably too hard for you."
+  },
+  {
+   "start": 625,
+   "end": 787,
+   "text": "There's a wall on the other side that you may get through, but it's really high."
+  },
+  {
+   "start": 791,
+   "end": 870,
+   "text": "Anyway, come with us, you'll see."
+  },
+  {
+   "start": 913,
+   "end": 988,
+   "text": "What? Wait, you'll get hurt!"
+  }
+ ],
+ "edited": true
+}

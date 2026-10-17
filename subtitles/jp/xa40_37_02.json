@@ -1,0 +1,141 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 2,
+ "audio_seconds": 48.25,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 100,
+   "end": 214,
+   "text": "ガガのやつ、おぬしのために命がけで",
+   "ruby": [
+    {
+     "index": 13,
+     "reading": "いのち"
+    }
+   ]
+  },
+  {
+   "start": 214,
+   "end": 317,
+   "text": "この私の本体に侵入しようとしておるぞ",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "わたし"
+    },
+    {
+     "index": 4,
+     "reading": "ほん"
+    },
+    {
+     "index": 5,
+     "reading": "たい"
+    },
+    {
+     "index": 7,
+     "reading": "しん"
+    },
+    {
+     "index": 8,
+     "reading": "にゅう"
+    }
+   ]
+  },
+  {
+   "start": 325,
+   "end": 403,
+   "text": "あやつも、システムに反するのは",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "はん"
+    }
+   ]
+  },
+  {
+   "start": 414,
+   "end": 484,
+   "text": "恐ろしいはずなのにな……",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "おそ"
+    }
+   ]
+  },
+  {
+   "start": 553,
+   "end": 621,
+   "text": "ガガもガンバっておるが…"
+  },
+  {
+   "start": 623,
+   "end": 723,
+   "text": "そうカンタンに私は倒せん",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "わたし"
+    },
+    {
+     "index": 9,
+     "reading": "たお"
+    }
+   ]
+  },
+  {
+   "start": 742,
+   "end": 800,
+   "text": "前回はおぬしのせいで",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "せがん"
+    },
+    {
+     "index": 1,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 806,
+   "end": 887,
+   "text": "地上に封印されてしまったが",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ち"
+    },
+    {
+     "index": 1,
+     "reading": "しがょう"
+    },
+    {
+     "index": 3,
+     "reading": "ふう"
+    },
+    {
+     "index": 4,
+     "reading": "いん"
+    }
+   ]
+  },
+  {
+   "start": 890,
+   "end": 972,
+   "text": "今回はどうであろうな",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "こん"
+    },
+    {
+     "index": 1,
+     "reading": "かい"
+    }
+   ]
+  }
+ ]
+}

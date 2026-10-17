@@ -1,0 +1,69 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 10,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 9,
+   "end": 39,
+   "text": "Ready!"
+  },
+  {
+   "start": 155,
+   "end": 191,
+   "text": "Just a little more."
+  },
+  {
+   "start": 210,
+   "end": 261,
+   "text": "Just a little closer..."
+  },
+  {
+   "start": 356,
+   "end": 386,
+   "text": "Now!"
+  },
+  {
+   "start": 862,
+   "end": 1019,
+   "text": "Fire repressors activated. Engines offline. She's out of control!"
+  },
+  {
+   "start": 1029,
+   "end": 1106,
+   "text": "Emergency escape pod launch mechanism damaged!"
+  },
+  {
+   "start": 1116,
+   "end": 1207,
+   "text": "What? No..."
+  },
+  {
+   "start": 1265,
+   "end": 1326,
+   "text": "Now you've really done it..."
+  },
+  {
+   "start": 1340,
+   "end": 1395,
+   "text": "Apologies, Mistress Yuna."
+  },
+  {
+   "start": 1420,
+   "end": 1459,
+   "text": "We should retreat."
+  },
+  {
+   "start": 1525,
+   "end": 1589,
+   "text": "They probably won't crash for a while at least."
+  },
+  {
+   "start": 1589,
+   "end": 1666,
+   "text": "I'd hoped to stop them before they got this far."
+  }
+ ],
+ "edited": true
+}

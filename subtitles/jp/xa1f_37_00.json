@@ -1,0 +1,113 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 0,
+ "audio_seconds": 38.16,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 220,
+   "end": 314,
+   "text": "シューねえちゃんはあの中にいるんだー　エヘ",
+   "ruby": [
+    {
+     "index": 11,
+     "reading": "なか"
+    }
+   ]
+  },
+  {
+   "start": 323,
+   "end": 370,
+   "text": "なるほど、あそこか"
+  },
+  {
+   "start": 375,
+   "end": 464,
+   "text": "まかせて、ボクが必ず助け出すから",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "かなら"
+    },
+    {
+     "index": 10,
+     "reading": "たす"
+    },
+    {
+     "index": 12,
+     "reading": "たが"
+    }
+   ]
+  },
+  {
+   "start": 473,
+   "end": 520,
+   "text": "お兄ちゃんだけじゃ　アハ",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "にい"
+    }
+   ]
+  },
+  {
+   "start": 520,
+   "end": 599,
+   "text": "ムリだなーたぶんなー"
+  },
+  {
+   "start": 599,
+   "end": 657,
+   "text": "アハ　ジツはなー"
+  },
+  {
+   "start": 658,
+   "end": 752,
+   "text": "横っかわにしのびこめそうなヘイがあるんだけど",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "よこ"
+    }
+   ]
+  },
+  {
+   "start": 752,
+   "end": 807,
+   "text": "高いんだなー",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たか"
+    }
+   ]
+  },
+  {
+   "start": 811,
+   "end": 905,
+   "text": "じゃあついてくるんだな　アハ、アハハハ"
+  },
+  {
+   "start": 911,
+   "end": 950,
+   "text": "え！？　ちょっと待って！",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "ま"
+    }
+   ]
+  },
+  {
+   "start": 950,
+   "end": 980,
+   "text": "危ないよ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "あふが"
+    }
+   ]
+  }
+ ]
+}

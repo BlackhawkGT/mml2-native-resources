@@ -1,0 +1,13 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 2,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 206,
+   "end": 340,
+   "text": "I'm baaack. Miss me? Ready for round two?"
+  }
+ ]
+}

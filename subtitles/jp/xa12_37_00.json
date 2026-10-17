@@ -1,0 +1,78 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 0,
+ "audio_seconds": 31.35,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 95,
+   "end": 176,
+   "text": "よう！　はじめまして"
+  },
+  {
+   "start": 184,
+   "end": 286,
+   "text": "あんたがロックとかいう、ディグアウターかい？"
+  },
+  {
+   "start": 317,
+   "end": 401,
+   "text": "まぁまぁ、そうニラむなって"
+  },
+  {
+   "start": 412,
+   "end": 496,
+   "text": "なんか、イイね～若いって",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "わか"
+    }
+   ]
+  },
+  {
+   "start": 645,
+   "end": 706,
+   "text": "あんたにゃウラミなんかねぇんだけど"
+  },
+  {
+   "start": 709,
+   "end": 741,
+   "text": "相ボウがどうしても",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "あい"
+    }
+   ]
+  },
+  {
+   "start": 741,
+   "end": 808,
+   "text": "「大いなる遺産」が欲しいってんでね",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "おお"
+    },
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 6,
+     "reading": "さん"
+    },
+    {
+     "index": 9,
+     "reading": "ほ"
+    }
+   ]
+  },
+  {
+   "start": 825,
+   "end": 927,
+   "text": "ひさしぶりにちょこっと、ガンバらさせてもらうぜ"
+  }
+ ]
+}

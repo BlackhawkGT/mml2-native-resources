@@ -1,0 +1,58 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 11,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 163,
+   "end": 222,
+   "text": "Uh, Roll, don't you think..."
+  },
+  {
+   "start": 222,
+   "end": 295,
+   "text": "There! It's fixed! Here we go!"
+  },
+  {
+   "start": 295,
+   "end": 337,
+   "text": "Huh? But..."
+  },
+  {
+   "start": 650,
+   "end": 716,
+   "text": "Hmm, so what can they be up to now?"
+  },
+  {
+   "start": 716,
+   "end": 771,
+   "text": "Oh, doesn't matter, never mind."
+  },
+  {
+   "start": 771,
+   "end": 833,
+   "text": "Go ahead, just shoot them."
+  },
+  {
+   "start": 848,
+   "end": 899,
+   "text": "Fire Glyde Missiles!"
+  },
+  {
+   "start": 963,
+   "end": 996,
+   "text": "Uh, Roll!"
+  },
+  {
+   "start": 996,
+   "end": 1110,
+   "text": "Whoops! Sorry, Mega Man! It looks like it broke again!"
+  },
+  {
+   "start": 1110,
+   "end": 1196,
+   "text": "It's going to take a few more minutes to fix!"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 27,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 114,
+   "end": 144,
+   "text": "Enough!"
+  },
+  {
+   "start": 231,
+   "end": 248,
+   "text": "No!"
+  },
+  {
+   "start": 248,
+   "end": 307,
+   "text": "The controls are locked up!"
+  },
+  {
+   "start": 397,
+   "end": 447,
+   "text": "Now we finish this!"
+  }
+ ]
+}

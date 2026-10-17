@@ -1,0 +1,13 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 6,
+ "audio_seconds": 28.34,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 720,
+   "end": 768,
+   "text": "では、いくぞ"
+  }
+ ]
+}

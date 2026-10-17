@@ -1,0 +1,119 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 6,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 13,
+   "end": 121,
+   "text": "What the? I thought I saw something flying around."
+  },
+  {
+   "start": 121,
+   "end": 202,
+   "text": "But I don't think it was a Reaverbot."
+  },
+  {
+   "start": 221,
+   "end": 265,
+   "text": "Teisel, look!"
+  },
+  {
+   "start": 265,
+   "end": 402,
+   "text": "Hey, wait! That's Mega Man! What is going on here?"
+  },
+  {
+   "start": 442,
+   "end": 568,
+   "text": "What are we going to do? I'll tell you what we're going to do."
+  },
+  {
+   "start": 568,
+   "end": 625,
+   "text": "This is a chance I've been waiting for."
+  },
+  {
+   "start": 625,
+   "end": 723,
+   "text": "We're going to settle the score with that blue brat once and for all."
+  },
+  {
+   "start": 723,
+   "end": 792,
+   "text": "Wait a minute, Teisel. If that ship crashes,"
+  },
+  {
+   "start": 792,
+   "end": 880,
+   "text": "we'll lose the keys and everything else of value on it."
+  },
+  {
+   "start": 880,
+   "end": 949,
+   "text": "Like it or not, we have to help him."
+  },
+  {
+   "start": 1005,
+   "end": 1074,
+   "text": "Ah, I guess you're right, Tron."
+  },
+  {
+   "start": 1074,
+   "end": 1158,
+   "text": "All right then, first we help Mega Man,"
+  },
+  {
+   "start": 1158,
+   "end": 1225,
+   "text": "then we take the keys!"
+  },
+  {
+   "start": 1240,
+   "end": 1332,
+   "text": "Okay people, get lively, we've got work to do!"
+  },
+  {
+   "start": 1332,
+   "end": 1372,
+   "text": "Babu! Yeah!"
+  },
+  {
+   "start": 1737,
+   "end": 1842,
+   "text": "Are you malfunctioning, Gatz? There is no need for us to fight."
+  },
+  {
+   "start": 1842,
+   "end": 1902,
+   "text": "Why do you insist on opposing me?"
+  },
+  {
+   "start": 1902,
+   "end": 2007,
+   "text": "Sorry, Geetz, but I don't believe what Mistress Sera is planning is right."
+  },
+  {
+   "start": 2007,
+   "end": 2125,
+   "text": "Mistress Yuna is also an error, abandoning her shell for a carbons."
+  },
+  {
+   "start": 2125,
+   "end": 2265,
+   "text": "That is no longer Mistress Yuna. It's an abomination, an affront to us all."
+  },
+  {
+   "start": 2265,
+   "end": 2399,
+   "text": "If you insist on following her, I shall be forced to terminate you. Both of you!"
+  },
+  {
+   "start": 2430,
+   "end": 2594,
+   "text": "Master Trigger, I'm sorry. I have failed. You are our only hope."
+  }
+ ],
+ "edited": true
+}

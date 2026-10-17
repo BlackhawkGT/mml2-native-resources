@@ -1,0 +1,73 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 3,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 93,
+   "end": 143,
+   "text": "Nothing to report, sir."
+  },
+  {
+   "start": 160,
+   "end": 212,
+   "text": "Keep your eyes wide open."
+  },
+  {
+   "start": 220,
+   "end": 316,
+   "text": "If any pirates show up, I want them taken care of immediately."
+  },
+  {
+   "start": 316,
+   "end": 347,
+   "text": "Yes, sir."
+  },
+  {
+   "start": 347,
+   "end": 432,
+   "text": "No one has journeyed to Forbidden Island and returned to tell the tale,"
+  },
+  {
+   "start": 432,
+   "end": 550,
+   "text": "but today two men who have devoted their lives to studying that infamous island..."
+  },
+  {
+   "start": 550,
+   "end": 626,
+   "text": "Did you have to call so many reporters?"
+  },
+  {
+   "start": 626,
+   "end": 689,
+   "text": "Can't have all the fun myself, can I?"
+  },
+  {
+   "start": 691,
+   "end": 754,
+   "text": "The more the merrier, wouldn't you agree?"
+  },
+  {
+   "start": 757,
+   "end": 809,
+   "text": "You never change, do you?"
+  },
+  {
+   "start": 814,
+   "end": 898,
+   "text": "Just try not to make a fool of yourself or me."
+  },
+  {
+   "start": 1106,
+   "end": 1228,
+   "text": "Ladies and Gentlemen of the Press, thank you for your patience."
+  },
+  {
+   "start": 1228,
+   "end": 1359,
+   "text": "I would like to present to you a brief description of our planned expedition."
+  }
+ ]
+}

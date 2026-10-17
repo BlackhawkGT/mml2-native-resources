@@ -1,0 +1,59 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 9,
+ "audio_seconds": 29.41,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 145,
+   "end": 243,
+   "text": "あのぉ～、つかまっちゃったんですけどぉ～"
+  },
+  {
+   "start": 243,
+   "end": 330,
+   "text": "助けていただけますぅ～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "たす"
+    }
+   ]
+  },
+  {
+   "start": 348,
+   "end": 384,
+   "text": "ケッ！　うるせーぞ！"
+  },
+  {
+   "start": 384,
+   "end": 428,
+   "text": "おら、ダマれってんだ！"
+  },
+  {
+   "start": 468,
+   "end": 547,
+   "text": "んぁ？　て、敵襲だー！　てきてきーっ！",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "てき"
+    },
+    {
+     "index": 7,
+     "reading": "しゅう"
+    }
+   ]
+  },
+  {
+   "start": 547,
+   "end": 592,
+   "text": "クケケケケケケーッ！"
+  },
+  {
+   "start": 677,
+   "end": 772,
+   "text": "ちょっとぉ～、いたぁ～い"
+  }
+ ]
+}

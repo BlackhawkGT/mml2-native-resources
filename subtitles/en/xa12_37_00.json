@@ -1,0 +1,38 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 0,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 84,
+   "end": 261,
+   "text": "Hi there, what's up? You're that digger called Mega Man, aren't you?"
+  },
+  {
+   "start": 311,
+   "end": 392,
+   "text": "Hey, what are you looking at me like that for?"
+  },
+  {
+   "start": 401,
+   "end": 474,
+   "text": "Boy, you're younger than they said you were."
+  },
+  {
+   "start": 607,
+   "end": 700,
+   "text": "Now get me straight. I ain't got nothing against you personally,"
+  },
+  {
+   "start": 700,
+   "end": 811,
+   "text": "but my partner wants to get his hands on the Mother Lode, see?"
+  },
+  {
+   "start": 822,
+   "end": 927,
+   "text": "I haven't done this for a while. Hope I'm not too rusty."
+  }
+ ]
+}

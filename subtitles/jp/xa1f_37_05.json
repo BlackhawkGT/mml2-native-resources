@@ -1,0 +1,132 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 5,
+ "audio_seconds": 31.87,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 4,
+   "end": 94,
+   "text": "おっと、ここから先は通さないわ！",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "さき"
+    },
+    {
+     "index": 10,
+     "reading": "とお"
+    }
+   ]
+  },
+  {
+   "start": 108,
+   "end": 150,
+   "text": "さっきも言ったでしょ",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 155,
+   "end": 217,
+   "text": "次にあったらヨウシャしないって！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "つきが"
+    }
+   ]
+  },
+  {
+   "start": 237,
+   "end": 291,
+   "text": "ロック、サポー…する……"
+  },
+  {
+   "start": 299,
+   "end": 354,
+   "text": "あれ…ロ…ク……？"
+  },
+  {
+   "start": 368,
+   "end": 394,
+   "text": "ロールちゃん！"
+  },
+  {
+   "start": 398,
+   "end": 487,
+   "text": "ただのぼうがいデンパだから心配ないですー",
+   "ruby": [
+    {
+     "index": 13,
+     "reading": "しん"
+    },
+    {
+     "index": 14,
+     "reading": "はぎい"
+    }
+   ]
+  },
+  {
+   "start": 487,
+   "end": 559,
+   "text": "こら！　ヨケイな事いわないの",
+   "ruby": [
+    {
+     "index": 8,
+     "reading": "こと"
+    }
+   ]
+  },
+  {
+   "start": 566,
+   "end": 642,
+   "text": "あんた達わかってるでしょうね！",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "たち"
+    }
+   ]
+  },
+  {
+   "start": 654,
+   "end": 722,
+   "text": "ヘマしたら、ここに置いて帰るからね！",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "お"
+    },
+    {
+     "index": 12,
+     "reading": "かえ"
+    }
+   ]
+  },
+  {
+   "start": 722,
+   "end": 761,
+   "text": "ひぃーーっ！"
+  },
+  {
+   "start": 772,
+   "end": 840,
+   "text": "じゃ！　いくわよロック！"
+  },
+  {
+   "start": 842,
+   "end": 876,
+   "text": "やるぞー！"
+  },
+  {
+   "start": 876,
+   "end": 908,
+   "text": "おー！"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 5,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 280,
+   "end": 371,
+   "text": "I'm very, very disappointed in all of you."
+  },
+  {
+   "start": 371,
+   "end": 466,
+   "text": "You can't even capture a little island by yourselves."
+  },
+  {
+   "start": 475,
+   "end": 527,
+   "text": "Sorry! Sorry, sir! Sorry!"
+  }
+ ]
+}

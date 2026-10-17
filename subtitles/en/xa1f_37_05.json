@@ -1,0 +1,64 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 5,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 6,
+   "end": 75,
+   "text": "That's far enough Mega Man!"
+  },
+  {
+   "start": 82,
+   "end": 234,
+   "text": "Remember what I said before? The next time we meet we're enemies?"
+  },
+  {
+   "start": 243,
+   "end": 285,
+   "text": "Alright Mega Man,"
+  },
+  {
+   "start": 285,
+   "end": 355,
+   "text": "huh? Mega Man?"
+  },
+  {
+   "start": 362,
+   "end": 401,
+   "text": "Huh? Roll?"
+  },
+  {
+   "start": 401,
+   "end": 492,
+   "text": "Don't worry, we're just jamming her signal, that's all!"
+  },
+  {
+   "start": 492,
+   "end": 622,
+   "text": "Hush! You don't need to tell him that! Remember what I told you?"
+  },
+  {
+   "start": 622,
+   "end": 729,
+   "text": "If you don't do your job this time, I'll leave you here!"
+  },
+  {
+   "start": 729,
+   "end": 759,
+   "text": "No!"
+  },
+  {
+   "start": 779,
+   "end": 838,
+   "text": "Okay Mega Man, here I come!"
+  },
+  {
+   "start": 858,
+   "end": 905,
+   "text": "Let's do it!"
+  }
+ ],
+ "edited": true
+}

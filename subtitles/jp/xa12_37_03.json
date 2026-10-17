@@ -1,0 +1,94 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 3,
+ "audio_seconds": 25.63,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 27,
+   "end": 78,
+   "text": "イテテテテテっ"
+  },
+  {
+   "start": 89,
+   "end": 177,
+   "text": "コラ、ちった～手カゲンしろよ",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "て"
+    }
+   ]
+  },
+  {
+   "start": 196,
+   "end": 267,
+   "text": "コシ、ひねっちまったじゃないか……"
+  },
+  {
+   "start": 304,
+   "end": 406,
+   "text": "兄さん、若いうちだけだぜ、ムリが効くのって",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "にい"
+    },
+    {
+     "index": 4,
+     "reading": "わか"
+    },
+    {
+     "index": 16,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 432,
+   "end": 488,
+   "text": "ギジュツで体力をカバーするのにも",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "たい"
+    },
+    {
+     "index": 6,
+     "reading": "りょく"
+    }
+   ]
+  },
+  {
+   "start": 497,
+   "end": 544,
+   "text": "限界があるからな",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "けがん"
+    },
+    {
+     "index": 1,
+     "reading": "かい"
+    }
+   ]
+  },
+  {
+   "start": 568,
+   "end": 665,
+   "text": "ハハ…どうでもいいか、こんな話",
+   "ruby": [
+    {
+     "index": 14,
+     "reading": "はなし"
+    }
+   ]
+  },
+  {
+   "start": 695,
+   "end": 752,
+   "text": "じゃあな、あばよ～"
+  }
+ ]
+}

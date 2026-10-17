@@ -1,0 +1,102 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 3,
+ "audio_seconds": 29.73,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 0,
+   "end": 87,
+   "text": "メインエンジン点火、１０びょう前",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "てん"
+    },
+    {
+     "index": 8,
+     "reading": "か"
+    },
+    {
+     "index": 15,
+     "reading": "まえ"
+    }
+   ]
+  },
+  {
+   "start": 110,
+   "end": 155,
+   "text": "準備、いいですか～？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "しがゅ"
+    },
+    {
+     "index": 1,
+     "reading": "ぐんひが"
+    }
+   ]
+  },
+  {
+   "start": 164,
+   "end": 232,
+   "text": "なんなんせいのカゼ、ふうそく１"
+  },
+  {
+   "start": 232,
+   "end": 302,
+   "text": "影きょう、軽びなり～",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "えい"
+    },
+    {
+     "index": 5,
+     "reading": "けい"
+    }
+   ]
+  },
+  {
+   "start": 314,
+   "end": 392,
+   "text": "ブーストあつ、安定してます～",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "あん"
+    },
+    {
+     "index": 8,
+     "reading": "てい"
+    }
+   ]
+  },
+  {
+   "start": 404,
+   "end": 511,
+   "text": "さぎょういんはタイヒごうへヒナンしてください～"
+  },
+  {
+   "start": 524,
+   "end": 661,
+   "text": "…４…３…２…１…"
+  },
+  {
+   "start": 672,
+   "end": 707,
+   "text": "発射！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "はっ"
+    },
+    {
+     "index": 1,
+     "reading": "しゃ"
+    }
+   ]
+  }
+ ]
+}

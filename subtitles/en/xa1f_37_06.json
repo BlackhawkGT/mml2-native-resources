@@ -1,0 +1,38 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 6,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 18,
+   "end": 85,
+   "text": "Okay, Apple! Okay, Da!"
+  },
+  {
+   "start": 125,
+   "end": 192,
+   "text": "Okay, we're ready."
+  },
+  {
+   "start": 235,
+   "end": 265,
+   "text": "Huh?"
+  },
+  {
+   "start": 298,
+   "end": 338,
+   "text": "Hurry up, man."
+  },
+  {
+   "start": 356,
+   "end": 408,
+   "text": "Go get our sister."
+  },
+  {
+   "start": 504,
+   "end": 535,
+   "text": "Alright then!"
+  }
+ ]
+}

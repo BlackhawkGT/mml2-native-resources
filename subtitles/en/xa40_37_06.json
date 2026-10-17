@@ -1,0 +1,14 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 6,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 719,
+   "end": 781,
+   "text": "Well then, shall we continue?"
+  }
+ ],
+ "edited": true
+}

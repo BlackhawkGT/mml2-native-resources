@@ -1,0 +1,156 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 8,
+ "audio_seconds": 31.61,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 19,
+   "end": 147,
+   "text": "ほえ～～～～っ！　敵主力部隊～～！",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "てき"
+    },
+    {
+     "index": 10,
+     "reading": "しゅ"
+    },
+    {
+     "index": 11,
+     "reading": "りょく"
+    },
+    {
+     "index": 12,
+     "reading": "ふが"
+    },
+    {
+     "index": 13,
+     "reading": "たい"
+    }
+   ]
+  },
+  {
+   "start": 156,
+   "end": 266,
+   "text": "こ、今度こそダメじゃ～！",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "こん"
+    },
+    {
+     "index": 3,
+     "reading": "とが"
+    }
+   ]
+  },
+  {
+   "start": 277,
+   "end": 322,
+   "text": "やっぱり来たか……",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 365,
+   "end": 466,
+   "text": "ジョニーさん。あれ…使っていい？",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "つか"
+    }
+   ]
+  },
+  {
+   "start": 471,
+   "end": 516,
+   "text": "ああ、あれかい？"
+  },
+  {
+   "start": 517,
+   "end": 595,
+   "text": "あれは壊れてて使えないんだけど",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "こわ"
+    },
+    {
+     "index": 7,
+     "reading": "つか"
+    }
+   ]
+  },
+  {
+   "start": 614,
+   "end": 654,
+   "text": "私、なおしてみる！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "わたし"
+    }
+   ]
+  },
+  {
+   "start": 654,
+   "end": 696,
+   "text": "ロック、ついてきて！"
+  },
+  {
+   "start": 696,
+   "end": 720,
+   "text": "え！？"
+  },
+  {
+   "start": 720,
+   "end": 756,
+   "text": "おい、ちょっと…！"
+  },
+  {
+   "start": 774,
+   "end": 811,
+   "text": "ロック、止めてくれ！",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "と"
+    }
+   ]
+  },
+  {
+   "start": 814,
+   "end": 895,
+   "text": "空賊と戦うのはオレたちの仕事だ！",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "くう"
+    },
+    {
+     "index": 1,
+     "reading": "そがく"
+    },
+    {
+     "index": 3,
+     "reading": "たたか"
+    },
+    {
+     "index": 12,
+     "reading": "し"
+    },
+    {
+     "index": 13,
+     "reading": "こがと"
+    }
+   ]
+  }
+ ]
+}

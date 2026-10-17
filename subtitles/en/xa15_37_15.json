@@ -1,0 +1,59 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 15,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 125,
+   "end": 314,
+   "text": "I'm so sorry. Really, I am. I can't tell you how sorry I am. We thought..."
+  },
+  {
+   "start": 314,
+   "end": 418,
+   "text": "I thought you were pirates. That's why we shot at you."
+  },
+  {
+   "start": 427,
+   "end": 551,
+   "text": "Can you please forgive me? Please?"
+  },
+  {
+   "start": 565,
+   "end": 682,
+   "text": "Seems like Glyde and his bunch have heard there's a key to the Mother Lode here."
+  },
+  {
+   "start": 686,
+   "end": 766,
+   "text": "They've been attacking us for a while now."
+  },
+  {
+   "start": 784,
+   "end": 894,
+   "text": "We're all right. Our ship wasn't badly damaged either."
+  },
+  {
+   "start": 894,
+   "end": 1019,
+   "text": "Don't worry about it, sir. I'll have the flutter fixed in no time at all."
+  },
+  {
+   "start": 1019,
+   "end": 1120,
+   "text": "Well, things are a little hectic around here right now."
+  },
+  {
+   "start": 1120,
+   "end": 1165,
+   "text": "What with the pirates and all."
+  },
+  {
+   "start": 1165,
+   "end": 1277,
+   "text": "But make yourselves at home. Feel free to visit the Digger's Guild."
+  }
+ ],
+ "edited": true
+}

@@ -1,0 +1,34 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 16,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 230,
+   "end": 377,
+   "text": "Our spy has returned! He succeeded in sabotaging the anti-aircraft cannon!"
+  },
+  {
+   "start": 377,
+   "end": 478,
+   "text": "They're probably running around like chickens with their heads cut off!"
+  },
+  {
+   "start": 478,
+   "end": 569,
+   "text": "Piece of cake! This island will be a pushover!"
+  },
+  {
+   "start": 578,
+   "end": 680,
+   "text": "Break after we take it! Let's go! Ready!"
+  },
+  {
+   "start": 684,
+   "end": 765,
+   "text": "Kekekekeke!"
+  }
+ ],
+ "edited": true
+}

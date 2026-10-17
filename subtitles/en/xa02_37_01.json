@@ -1,0 +1,139 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 1,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 163,
+   "end": 209,
+   "text": "Mega Man!"
+  },
+  {
+   "start": 232,
+   "end": 374,
+   "text": "So you got the fourth and final key? If it weren't for all your hard work,"
+  },
+  {
+   "start": 374,
+   "end": 496,
+   "text": "those pirates would have gotten the keys, and who knows what would have happened."
+  },
+  {
+   "start": 506,
+   "end": 584,
+   "text": "It will be very interesting to see if they do anything"
+  },
+  {
+   "start": 584,
+   "end": 680,
+   "text": "now that we have all four keys in our possession."
+  },
+  {
+   "start": 696,
+   "end": 737,
+   "text": "What do you mean \"they\"?"
+  },
+  {
+   "start": 737,
+   "end": 781,
+   "text": "Those funny-looking people,"
+  },
+  {
+   "start": 781,
+   "end": 900,
+   "text": "the ones that we found on Forbidden Island who said they were Ancients."
+  },
+  {
+   "start": 900,
+   "end": 985,
+   "text": "I trust everyone unless they give me a reason not to,"
+  },
+  {
+   "start": 985,
+   "end": 1084,
+   "text": "but you don't live as long as I have without taking precautions."
+  },
+  {
+   "start": 1084,
+   "end": 1144,
+   "text": "I have armed guards placed around the room."
+  },
+  {
+   "start": 1144,
+   "end": 1256,
+   "text": "I can call on them if necessary to protect us and this ship."
+  },
+  {
+   "start": 1263,
+   "end": 1338,
+   "text": "I just hope we won't need them."
+  },
+  {
+   "start": 1591,
+   "end": 1644,
+   "text": "What was that?"
+  },
+  {
+   "start": 1645,
+   "end": 1704,
+   "text": "I thought I felt something."
+  },
+  {
+   "start": 1739,
+   "end": 1843,
+   "text": "Confirmed. All four keys have been recovered."
+  },
+  {
+   "start": 1846,
+   "end": 1962,
+   "text": "Have you made all the necessary preparations to take control of this ship?"
+  },
+  {
+   "start": 1966,
+   "end": 1996,
+   "text": "Yes."
+  },
+  {
+   "start": 2019,
+   "end": 2053,
+   "text": "Very well. Begin."
+  },
+  {
+   "start": 2101,
+   "end": 2219,
+   "text": "If necessary, is it acceptable to disable Mega Man Trigger,"
+  },
+  {
+   "start": 2230,
+   "end": 2350,
+   "text": "even if it means destroying the Master's genetic code?"
+  },
+  {
+   "start": 2390,
+   "end": 2518,
+   "text": "Your primary mission is to recover and secure the keys. Then, with luck,"
+  },
+  {
+   "start": 2518,
+   "end": 2653,
+   "text": "we will be able to salvage the Master's genetic code from Trigger's shell."
+  },
+  {
+   "start": 2652,
+   "end": 2775,
+   "text": "Understood. Initiating assimilation program."
+  },
+  {
+   "start": 2829,
+   "end": 2867,
+   "text": "What's happening?"
+  },
+  {
+   "start": 3135,
+   "end": 3193,
+   "text": "We've got to get out of here!"
+  }
+ ],
+ "edited": true
+}

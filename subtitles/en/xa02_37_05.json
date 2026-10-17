@@ -1,0 +1,484 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 5,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 16,
+   "end": 58,
+   "text": "Do not forget."
+  },
+  {
+   "start": 78,
+   "end": 178,
+   "text": "The Master is the only true human remaining."
+  },
+  {
+   "start": 195,
+   "end": 299,
+   "text": "The System exists only to protect and serve the Master."
+  },
+  {
+   "start": 299,
+   "end": 390,
+   "text": "We exist for this and only this purpose."
+  },
+  {
+   "start": 522,
+   "end": 571,
+   "text": "M-Mother?"
+  },
+  {
+   "start": 589,
+   "end": 736,
+   "text": "Remember, the Master says illogical things at times. If he does, ignore him."
+  },
+  {
+   "start": 772,
+   "end": 839,
+   "text": "I do not understand why the Master would wish"
+  },
+  {
+   "start": 839,
+   "end": 927,
+   "text": "to have a unit such as that by his side."
+  },
+  {
+   "start": 939,
+   "end": 1011,
+   "text": "What would prompt such behavior?"
+  },
+  {
+   "start": 1024,
+   "end": 1101,
+   "text": "The Master is... lonely."
+  },
+  {
+   "start": 1106,
+   "end": 1213,
+   "text": "What's happening? Is this a dream?"
+  },
+  {
+   "start": 1336,
+   "end": 1446,
+   "text": "They scolded you again, did they not? My little friend?"
+  },
+  {
+   "start": 1454,
+   "end": 1559,
+   "text": "Don't be upset. Sera often reprimands me as well."
+  },
+  {
+   "start": 1589,
+   "end": 1714,
+   "text": "And do you know why? I can show you. Observe."
+  },
+  {
+   "start": 1755,
+   "end": 1923,
+   "text": "Who is that? I feel like I know him."
+  },
+  {
+   "start": 1947,
+   "end": 2027,
+   "text": "Beautiful, is it not?"
+  },
+  {
+   "start": 2048,
+   "end": 2121,
+   "text": "These lights are one of the Beta Cities."
+  },
+  {
+   "start": 2151,
+   "end": 2267,
+   "text": "But these are not ordinary betas. I have modified them slightly."
+  },
+  {
+   "start": 2280,
+   "end": 2400,
+   "text": "Betas. You call them carbons. Though artificially created,"
+  },
+  {
+   "start": 2400,
+   "end": 2523,
+   "text": "in the end they may be closer to people than you think."
+  },
+  {
+   "start": 2549,
+   "end": 2654,
+   "text": "The people living there know thirst, hunger, disease."
+  },
+  {
+   "start": 2654,
+   "end": 2781,
+   "text": "They suffer all these things and in the end, they grow old and die."
+  },
+  {
+   "start": 2799,
+   "end": 2917,
+   "text": "But for one brief moment, they shine as bright as the sun."
+  },
+  {
+   "start": 2926,
+   "end": 2979,
+   "text": "Because they know these hardships,"
+  },
+  {
+   "start": 2979,
+   "end": 3065,
+   "text": "they also know the meaning of happiness."
+  },
+  {
+   "start": 3090,
+   "end": 3231,
+   "text": "Compared to theirs, our perfect world is cold and sterile."
+  },
+  {
+   "start": 3258,
+   "end": 3402,
+   "text": "I'd like to ask you to do something for me, Mega Man."
+  },
+  {
+   "start": 3419,
+   "end": 3516,
+   "text": "Can you take me there? What do you say?"
+  },
+  {
+   "start": 3537,
+   "end": 3625,
+   "text": "Take you there? What?"
+  },
+  {
+   "start": 3650,
+   "end": 3800,
+   "text": "Wait. I know him. He's the Master."
+  },
+  {
+   "start": 3816,
+   "end": 4038,
+   "text": "I remember now. I came here. I came to Terra with the Master. And then... then..."
+  },
+  {
+   "start": 4198,
+   "end": 4309,
+   "text": "Come on, Mega Man. If you fall asleep, you'll never wake up again."
+  },
+  {
+   "start": 4336,
+   "end": 4437,
+   "text": "Open your eyes! I thought I might not be able to make contact with you."
+  },
+  {
+   "start": 4437,
+   "end": 4500,
+   "text": "Where are...?"
+  },
+  {
+   "start": 4500,
+   "end": 4553,
+   "text": "We're inside one of your memory files,"
+  },
+  {
+   "start": 4553,
+   "end": 4653,
+   "text": "the file you entrusted Data with all those years ago."
+  },
+  {
+   "start": 4655,
+   "end": 4728,
+   "text": "Memory? Data?"
+  },
+  {
+   "start": 4734,
+   "end": 4854,
+   "text": "You were badly damaged by Geetz's attack. I'm rebuilding you,"
+  },
+  {
+   "start": 4854,
+   "end": 4938,
+   "text": "using Data's memory to restore your programming."
+  },
+  {
+   "start": 4960,
+   "end": 5115,
+   "text": "You won't be fully optimized for a while longer, so just sit back and relax."
+  },
+  {
+   "start": 5169,
+   "end": 5252,
+   "text": "Um... Data..."
+  },
+  {
+   "start": 5278,
+   "end": 5318,
+   "text": "Restore..."
+  },
+  {
+   "start": 5340,
+   "end": 5372,
+   "text": "Program?"
+  },
+  {
+   "start": 5390,
+   "end": 5420,
+   "text": "Um..."
+  },
+  {
+   "start": 5547,
+   "end": 5635,
+   "text": "Listen to the sounds of everyday life,"
+  },
+  {
+   "start": 5642,
+   "end": 5793,
+   "text": "the sounds of city life, the smell of evening meals being prepared."
+  },
+  {
+   "start": 5798,
+   "end": 5887,
+   "text": "All this and more we in Elysium have lost."
+  },
+  {
+   "start": 5894,
+   "end": 5935,
+   "text": "Thank you, Mega Man."
+  },
+  {
+   "start": 5937,
+   "end": 6045,
+   "text": "Thanks to you I have finally been able to experience this for myself."
+  },
+  {
+   "start": 6060,
+   "end": 6196,
+   "text": "For 3000 years, I have been free from hardship and pain,"
+  },
+  {
+   "start": 6208,
+   "end": 6311,
+   "text": "a life of luxury and ease obeying my heart's desires."
+  },
+  {
+   "start": 6365,
+   "end": 6406,
+   "text": "Seeing these people,"
+  },
+  {
+   "start": 6426,
+   "end": 6560,
+   "text": "grateful for the simple joys of life, I wonder, was I truly happy?"
+  },
+  {
+   "start": 6646,
+   "end": 6702,
+   "text": "I have made up my mind, Mega Man."
+  },
+  {
+   "start": 6745,
+   "end": 6830,
+   "text": "Carry out my final command."
+  },
+  {
+   "start": 6897,
+   "end": 7023,
+   "text": "I want you to destroy the system. I realize now that we were wrong."
+  },
+  {
+   "start": 7098,
+   "end": 7206,
+   "text": "Correct my mistake. Make things right again."
+  },
+  {
+   "start": 7292,
+   "end": 7379,
+   "text": "This is a good luck charm."
+  },
+  {
+   "start": 7414,
+   "end": 7520,
+   "text": "As long as you have it, no one can stop or harm you."
+  },
+  {
+   "start": 7579,
+   "end": 7622,
+   "text": "Return to Elysium."
+  },
+  {
+   "start": 7650,
+   "end": 7724,
+   "text": "Delete all data from the library, understand?"
+  },
+  {
+   "start": 7787,
+   "end": 7821,
+   "text": "Please Mega Man."
+  },
+  {
+   "start": 8125,
+   "end": 8210,
+   "text": "It looks as though my time has finally come,"
+  },
+  {
+   "start": 8221,
+   "end": 8316,
+   "text": "I know I cannot survive long outside of Elysium."
+  },
+  {
+   "start": 8371,
+   "end": 8431,
+   "text": "Therefore..."
+  },
+  {
+   "start": 8449,
+   "end": 8492,
+   "text": "Goodbye Mega Man."
+  },
+  {
+   "start": 8522,
+   "end": 8596,
+   "text": "Thank you for all you have done for me."
+  },
+  {
+   "start": 8684,
+   "end": 8733,
+   "text": "All these many years."
+  },
+  {
+   "start": 8783,
+   "end": 8814,
+   "text": "I go now"
+  },
+  {
+   "start": 8862,
+   "end": 8910,
+   "text": "into the arms of my"
+  },
+  {
+   "start": 8935,
+   "end": 8978,
+   "text": "true mother."
+  },
+  {
+   "start": 9336,
+   "end": 9384,
+   "text": "Master..."
+  },
+  {
+   "start": 9514,
+   "end": 9620,
+   "text": "So that's what this is all about."
+  },
+  {
+   "start": 9652,
+   "end": 9738,
+   "text": "Sera never told me about this."
+  },
+  {
+   "start": 9782,
+   "end": 9834,
+   "text": "You are...?"
+  },
+  {
+   "start": 9834,
+   "end": 9913,
+   "text": "Yuna. Remember me?"
+  },
+  {
+   "start": 9913,
+   "end": 9984,
+   "text": "Yuna?"
+  },
+  {
+   "start": 9984,
+   "end": 10141,
+   "text": "Sera is in charge of Elysium's system. I was in charge of Terra's system."
+  },
+  {
+   "start": 10155,
+   "end": 10257,
+   "text": "My official designation was Mother."
+  },
+  {
+   "start": 10263,
+   "end": 10283,
+   "text": "Mother?"
+  },
+  {
+   "start": 10299,
+   "end": 10359,
+   "text": "Now I understand why you..."
+  },
+  {
+   "start": 10370,
+   "end": 10471,
+   "text": "downloaded your memories of the Master into that little monkey."
+  },
+  {
+   "start": 10471,
+   "end": 10570,
+   "text": "So they couldn't be scanned or tampered with."
+  },
+  {
+   "start": 10573,
+   "end": 10658,
+   "text": "Now I understand why you brought the Master here."
+  },
+  {
+   "start": 10658,
+   "end": 10728,
+   "text": "Why you tried to destroy the system."
+  },
+  {
+   "start": 10735,
+   "end": 10843,
+   "text": "Mistress Yuna, Mistress Sera has almost reached Elysium."
+  },
+  {
+   "start": 10843,
+   "end": 10935,
+   "text": "We're running out of time. Unless we stop her,"
+  },
+  {
+   "start": 10935,
+   "end": 11037,
+   "text": "Sera will execute the Carbon Reinitialization Program."
+  },
+  {
+   "start": 11058,
+   "end": 11121,
+   "text": "The Carbon Reinitialization Program was meant to"
+  },
+  {
+   "start": 11121,
+   "end": 11217,
+   "text": "be run only after the Master and all other humans have died."
+  },
+  {
+   "start": 11217,
+   "end": 11319,
+   "text": "It uses their genetic codes to clone new humans."
+  },
+  {
+   "start": 11319,
+   "end": 11435,
+   "text": "If it's activated, everyone alive on Terra will be eliminated."
+  },
+  {
+   "start": 11435,
+   "end": 11519,
+   "text": "Only you can stop Sera from using it."
+  },
+  {
+   "start": 11519,
+   "end": 11617,
+   "text": "It looks like your self-repair functions are working."
+  },
+  {
+   "start": 11617,
+   "end": 11706,
+   "text": "We can go now. But you still need to decide what to do."
+  }
+ ],
+ "edited": true
+}

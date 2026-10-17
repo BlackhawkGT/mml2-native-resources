@@ -1,0 +1,34 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 6,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 153,
+   "end": 235,
+   "text": "Ugh, that should take care of them."
+  },
+  {
+   "start": 235,
+   "end": 355,
+   "text": "Hey Mega Man, they're up there on the roof. Come quick!"
+  },
+  {
+   "start": 368,
+   "end": 481,
+   "text": "Mega Man, everything should be okay there now. You've got to get up to the roof."
+  },
+  {
+   "start": 481,
+   "end": 569,
+   "text": "You can get there by using the ladder in the storage area."
+  },
+  {
+   "start": 569,
+   "end": 599,
+   "text": "Okay!"
+  }
+ ],
+ "edited": true
+}

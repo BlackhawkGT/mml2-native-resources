@@ -1,0 +1,164 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 2,
+ "audio_seconds": 38.43,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 66,
+   "end": 209,
+   "text": "ふう～　ボーラのヤロー、手ぇ抜きやがって",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "て"
+    },
+    {
+     "index": 14,
+     "reading": "ぬ"
+    }
+   ]
+  },
+  {
+   "start": 221,
+   "end": 317,
+   "text": "こんなガキに鍵奪われただとぉ？",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "かきが"
+    },
+    {
+     "index": 7,
+     "reading": "うはが"
+    }
+   ]
+  },
+  {
+   "start": 327,
+   "end": 368,
+   "text": "フザケやがって"
+  },
+  {
+   "start": 406,
+   "end": 496,
+   "text": "オレはな、ボーラのヤローとは違う",
+   "ruby": [
+    {
+     "index": 14,
+     "reading": "ちかが"
+    }
+   ]
+  },
+  {
+   "start": 511,
+   "end": 601,
+   "text": "体が動く限りはマジメにはたらく",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "からたが"
+    },
+    {
+     "index": 2,
+     "reading": "うこが"
+    },
+    {
+     "index": 4,
+     "reading": "かきが"
+    }
+   ]
+  },
+  {
+   "start": 604,
+   "end": 644,
+   "text": "それがシンジョウだ"
+  },
+  {
+   "start": 660,
+   "end": 690,
+   "text": "おまえみたいな"
+  },
+  {
+   "start": 698,
+   "end": 773,
+   "text": "かけだしディグアウターが相手だろうが",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "あい"
+    },
+    {
+     "index": 13,
+     "reading": "て"
+    }
+   ]
+  },
+  {
+   "start": 784,
+   "end": 828,
+   "text": "ハンパな仕事はしねえ",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "し"
+    },
+    {
+     "index": 5,
+     "reading": "こがと"
+    }
+   ]
+  },
+  {
+   "start": 858,
+   "end": 972,
+   "text": "鍵を持っている限り、外には絶対帰さねえ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かきが"
+    },
+    {
+     "index": 2,
+     "reading": "も"
+    },
+    {
+     "index": 7,
+     "reading": "かきが"
+    },
+    {
+     "index": 10,
+     "reading": "そと"
+    },
+    {
+     "index": 13,
+     "reading": "せがっ"
+    },
+    {
+     "index": 14,
+     "reading": "たい"
+    },
+    {
+     "index": 15,
+     "reading": "かえ"
+    }
+   ]
+  },
+  {
+   "start": 993,
+   "end": 1067,
+   "text": "バンコスカスの名にかけてな",
+   "ruby": [
+    {
+     "index": 7,
+     "reading": "な"
+    }
+   ]
+  },
+  {
+   "start": 1082,
+   "end": 1132,
+   "text": "それじゃあ、いくぜ！"
+  }
+ ]
+}

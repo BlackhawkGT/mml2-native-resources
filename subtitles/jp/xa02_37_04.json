@@ -1,0 +1,212 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 4,
+ "audio_seconds": 42.71,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 100,
+   "end": 182,
+   "text": "なんでアンタ達までここにいるのよ",
+   "ruby": [
+    {
+     "index": 6,
+     "reading": "たち"
+    }
+   ]
+  },
+  {
+   "start": 184,
+   "end": 255,
+   "text": "空賊、足あらったんじゃなかったの？",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "くう"
+    },
+    {
+     "index": 1,
+     "reading": "そがく"
+    },
+    {
+     "index": 3,
+     "reading": "あし"
+    }
+   ]
+  },
+  {
+   "start": 265,
+   "end": 298,
+   "text": "うるせー！！"
+  },
+  {
+   "start": 298,
+   "end": 388,
+   "text": "こっちにもいろいろ事情ってモンがあるんだよ",
+   "ruby": [
+    {
+     "index": 9,
+     "reading": "しが"
+    },
+    {
+     "index": 10,
+     "reading": "しがょう"
+    }
+   ]
+  },
+  {
+   "start": 394,
+   "end": 479,
+   "text": "なんだ、もうデパートつぶれちゃったの？"
+  },
+  {
+   "start": 481,
+   "end": 583,
+   "text": "うぐっ！　まだつぶれちゃいねえよ"
+  },
+  {
+   "start": 590,
+   "end": 679,
+   "text": "今月の運転資金が、ちぃとばかし苦しいから",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "こん"
+    },
+    {
+     "index": 1,
+     "reading": "けがつ"
+    },
+    {
+     "index": 3,
+     "reading": "うん"
+    },
+    {
+     "index": 4,
+     "reading": "てん"
+    },
+    {
+     "index": 5,
+     "reading": "し"
+    },
+    {
+     "index": 6,
+     "reading": "きん"
+    },
+    {
+     "index": 15,
+     "reading": "くる"
+    }
+   ]
+  },
+  {
+   "start": 685,
+   "end": 756,
+   "text": "軽くバイトするだけのこったよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かる"
+    }
+   ]
+  },
+  {
+   "start": 766,
+   "end": 811,
+   "text": "お兄さまが自分のシュミで",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "にい"
+    },
+    {
+     "index": 5,
+     "reading": "しが"
+    },
+    {
+     "index": 6,
+     "reading": "ふがん"
+    }
+   ]
+  },
+  {
+   "start": 811,
+   "end": 901,
+   "text": "ショウ品を仕入れすぎるからですわ",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "ひん"
+    },
+    {
+     "index": 5,
+     "reading": "し"
+    },
+    {
+     "index": 6,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 910,
+   "end": 995,
+   "text": "オマエら、しずかにしろ、仕事のジャマだ",
+   "ruby": [
+    {
+     "index": 12,
+     "reading": "し"
+    },
+    {
+     "index": 13,
+     "reading": "こがと"
+    }
+   ]
+  },
+  {
+   "start": 997,
+   "end": 1099,
+   "text": "な、なんだと、このれいさい空賊がぁ！",
+   "ruby": [
+    {
+     "index": 13,
+     "reading": "くう"
+    },
+    {
+     "index": 14,
+     "reading": "そがく"
+    }
+   ]
+  },
+  {
+   "start": 1114,
+   "end": 1203,
+   "text": "協定わすれたの？　モメ事は、あとで",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "きょう"
+    },
+    {
+     "index": 1,
+     "reading": "てい"
+    },
+    {
+     "index": 11,
+     "reading": "こがと"
+    }
+   ]
+  },
+  {
+   "start": 1213,
+   "end": 1264,
+   "text": "お兄さまっ！",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "にい"
+    }
+   ]
+  }
+ ]
+}

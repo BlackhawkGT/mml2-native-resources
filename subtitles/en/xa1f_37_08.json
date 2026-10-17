@@ -1,0 +1,49 @@
+{
+ "voice_file": "XA1F_37.DAT",
+ "clip": 8,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 71,
+   "end": 148,
+   "text": "Hey there. Thanks for helping me out there."
+  },
+  {
+   "start": 154,
+   "end": 290,
+   "text": "Let me return the favor. No need to thank me. Just hop on."
+  },
+  {
+   "start": 299,
+   "end": 331,
+   "text": "Thanks, mister."
+  },
+  {
+   "start": 345,
+   "end": 426,
+   "text": "I'll teach them to try to take over our city."
+  },
+  {
+   "start": 429,
+   "end": 496,
+   "text": "They messed with the wrong people."
+  },
+  {
+   "start": 522,
+   "end": 600,
+   "text": "Get ready to jump! I'm gonna ram!"
+  },
+  {
+   "start": 631,
+   "end": 676,
+   "text": "Yee-haw!"
+  },
+  {
+   "start": 713,
+   "end": 771,
+   "text": "The rest is up to you!"
+  }
+ ],
+ "edited": true
+}

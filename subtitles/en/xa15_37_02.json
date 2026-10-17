@@ -1,0 +1,39 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 2,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 82,
+   "end": 270,
+   "text": "I don't believe it! Bola lost to a little punk like you?!"
+  },
+  {
+   "start": 270,
+   "end": 461,
+   "text": "Ha! If you think I'm a pushover like Bola, you've got another thing coming to you."
+  },
+  {
+   "start": 469,
+   "end": 602,
+   "text": "I work for a living. I don't hold back, ever."
+  },
+  {
+   "start": 614,
+   "end": 730,
+   "text": "Not even if I have to fight a little kid like you."
+  },
+  {
+   "start": 752,
+   "end": 895,
+   "text": "You're not getting past me. Not as long as you have that key."
+  },
+  {
+   "start": 903,
+   "end": 1095,
+   "text": "If you aren't going to hand it over nicely, I'll just have to take it from you."
+  }
+ ],
+ "edited": true
+}

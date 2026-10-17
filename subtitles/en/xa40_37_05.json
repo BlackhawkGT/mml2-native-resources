@@ -1,0 +1,129 @@
+{
+ "voice_file": "XA40_37.DAT",
+ "clip": 5,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 116,
+   "end": 211,
+   "text": "I think this system was too complex."
+  },
+  {
+   "start": 214,
+   "end": 335,
+   "text": "We need to keep things simpler. That way, less things can go wrong."
+  },
+  {
+   "start": 335,
+   "end": 429,
+   "text": "But if we build it this way, it will cost too much."
+  },
+  {
+   "start": 429,
+   "end": 536,
+   "text": "If we take existing parts and put them together this way..."
+  },
+  {
+   "start": 570,
+   "end": 658,
+   "text": "See? Just look at how much money we can save."
+  },
+  {
+   "start": 658,
+   "end": 784,
+   "text": "Hmm. I think if we modify the fuel injectors like this,"
+  },
+  {
+   "start": 784,
+   "end": 849,
+   "text": "it just might solve the problem."
+  },
+  {
+   "start": 867,
+   "end": 932,
+   "text": "It's really simple! Really simple!"
+  },
+  {
+   "start": 932,
+   "end": 1046,
+   "text": "If you would just listen to me, I could show you! See? Look here!"
+  },
+  {
+   "start": 1046,
+   "end": 1100,
+   "text": "You stay out of this, Data!"
+  },
+  {
+   "start": 1103,
+   "end": 1162,
+   "text": "We need to make the cargo hold smaller."
+  },
+  {
+   "start": 1162,
+   "end": 1233,
+   "text": "We can save space and make it lighter that way."
+  },
+  {
+   "start": 1233,
+   "end": 1380,
+   "text": "It doesn't matter! With this new amazing engine I designed,"
+  },
+  {
+   "start": 1380,
+   "end": 1451,
+   "text": "we will have more than enough power."
+  },
+  {
+   "start": 1451,
+   "end": 1540,
+   "text": "Your engine?! I'd believe you if your engines weren't made from"
+  },
+  {
+   "start": 1540,
+   "end": 1616,
+   "text": "spare parts and needed to be adjusted every five minutes!"
+  },
+  {
+   "start": 1616,
+   "end": 1762,
+   "text": "Not everybody has tons of money to build your kind of engine!"
+  },
+  {
+   "start": 1762,
+   "end": 1802,
+   "text": "If you don't use the proper materials-"
+  },
+  {
+   "start": 1802,
+   "end": 1873,
+   "text": "Sorry, Mega Man, but it looks like you might"
+  },
+  {
+   "start": 1873,
+   "end": 1972,
+   "text": "be stuck up there for a little while more."
+  },
+  {
+   "start": 1977,
+   "end": 2083,
+   "text": "Looks like we both got our work cut out for us."
+  },
+  {
+   "start": 2093,
+   "end": 2151,
+   "text": "How dare you?!"
+  },
+  {
+   "start": 2175,
+   "end": 2301,
+   "text": "Anyway, I wonder how Mega Man's doing?"
+  },
+  {
+   "start": 2313,
+   "end": 2441,
+   "text": "*sigh* We have to get this thing working so we can go get him."
+  }
+ ],
+ "edited": true
+}

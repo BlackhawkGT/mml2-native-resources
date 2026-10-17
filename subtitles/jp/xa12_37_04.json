@@ -1,0 +1,160 @@
+{
+ "voice_file": "XA12_37.DAT",
+ "clip": 4,
+ "audio_seconds": 48.51,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 23,
+   "end": 131,
+   "text": "よ～、おそかったな～兄さん！",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "にい"
+    }
+   ]
+  },
+  {
+   "start": 155,
+   "end": 254,
+   "text": "鍵だけどよ、一足先にいただいたぜ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かきが"
+    },
+    {
+     "index": 6,
+     "reading": "ひと"
+    },
+    {
+     "index": 7,
+     "reading": "あし"
+    },
+    {
+     "index": 8,
+     "reading": "さき"
+    }
+   ]
+  },
+  {
+   "start": 313,
+   "end": 409,
+   "text": "はっはっはっは～、ウソだよ！"
+  },
+  {
+   "start": 417,
+   "end": 500,
+   "text": "鍵、一回は手に入れたんだけど",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かきが"
+    },
+    {
+     "index": 2,
+     "reading": "いっ"
+    },
+    {
+     "index": 3,
+     "reading": "かい"
+    },
+    {
+     "index": 5,
+     "reading": "て"
+    },
+    {
+     "index": 7,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 517,
+   "end": 608,
+   "text": "ここの大将に、食われちゃったんだよな～",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "たい"
+    },
+    {
+     "index": 4,
+     "reading": "しょう"
+    },
+    {
+     "index": 7,
+     "reading": "く"
+    }
+   ]
+  },
+  {
+   "start": 621,
+   "end": 660,
+   "text": "返してくれって言っても",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "かえ"
+    },
+    {
+     "index": 7,
+     "reading": "い"
+    }
+   ]
+  },
+  {
+   "start": 660,
+   "end": 708,
+   "text": "いうこと聞いてくれねーし",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 725,
+   "end": 806,
+   "text": "ここの鍵は、あんたにゆずるわ",
+   "ruby": [
+    {
+     "index": 3,
+     "reading": "かきが"
+    }
+   ]
+  },
+  {
+   "start": 825,
+   "end": 914,
+   "text": "ま、鍵はあと３つ残ってるしな",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "かきが"
+    },
+    {
+     "index": 8,
+     "reading": "のこ"
+    }
+   ]
+  },
+  {
+   "start": 926,
+   "end": 969,
+   "text": "あとはバンコのオッサンにでも"
+  },
+  {
+   "start": 969,
+   "end": 1022,
+   "text": "ガンバってもらうかねぇ"
+  },
+  {
+   "start": 1041,
+   "end": 1101,
+   "text": "じゃな、あばよ"
+  }
+ ]
+}

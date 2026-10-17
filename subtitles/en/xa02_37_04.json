@@ -1,0 +1,64 @@
+{
+ "voice_file": "XA02_37.DAT",
+ "clip": 4,
+ "frames_per_second": 30,
+ "source": "English voice (US PlayStation release), transcribed by whisper.cpp large-v3",
+ "lines": [
+  {
+   "start": 97,
+   "end": 177,
+   "text": "Now tell me, just what do you think you're doing here?"
+  },
+  {
+   "start": 177,
+   "end": 262,
+   "text": "I thought you had gotten out of the pirate game, hmm?"
+  },
+  {
+   "start": 262,
+   "end": 386,
+   "text": "Stuff it, Glyde. Mind your own business. We've got enough problems as it is."
+  },
+  {
+   "start": 392,
+   "end": 492,
+   "text": "What, did your little department store go under already?"
+  },
+  {
+   "start": 505,
+   "end": 631,
+   "text": "Gah! No, it hasn't gone under. We're just a little in the red this month,"
+  },
+  {
+   "start": 631,
+   "end": 747,
+   "text": "that's all. Just need a little extra cash to make ends meet."
+  },
+  {
+   "start": 757,
+   "end": 887,
+   "text": "If you didn't buy only what you like, maybe we wouldn't be in this fix."
+  },
+  {
+   "start": 909,
+   "end": 991,
+   "text": "Shut your traps. I'm trying to listen to what he's saying."
+  },
+  {
+   "start": 991,
+   "end": 1097,
+   "text": "What did you say, you big tin can?! Who do you think you are?"
+  },
+  {
+   "start": 1101,
+   "end": 1201,
+   "text": "No squabbling till the job's finished. Remember, Teisel?"
+  },
+  {
+   "start": 1216,
+   "end": 1246,
+   "text": "Teisel!"
+  }
+ ],
+ "edited": true
+}

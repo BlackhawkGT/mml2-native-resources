@@ -1,0 +1,64 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 13,
+ "audio_seconds": 31.06,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 286,
+   "end": 345,
+   "text": "き、きた！"
+  },
+  {
+   "start": 362,
+   "end": 415,
+   "text": "ひきつけて撃つんじゃ！",
+   "ruby": [
+    {
+     "index": 5,
+     "reading": "う"
+    }
+   ]
+  },
+  {
+   "start": 417,
+   "end": 516,
+   "text": "フンフフ、フーンフフ～"
+  },
+  {
+   "start": 547,
+   "end": 571,
+   "text": "ん？"
+  },
+  {
+   "start": 578,
+   "end": 600,
+   "text": "キャーッ！？"
+  },
+  {
+   "start": 641,
+   "end": 687,
+   "text": "ありゃーあ？"
+  },
+  {
+   "start": 687,
+   "end": 760,
+   "text": "空賊じゃ～ないわい…",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "くう"
+    },
+    {
+     "index": 1,
+     "reading": "そがく"
+    }
+   ]
+  },
+  {
+   "start": 766,
+   "end": 824,
+   "text": "えらいこっちゃ～！"
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "voice_file": "XA15_37.DAT",
+ "clip": 15,
+ "audio_seconds": 43.34,
+ "frames_per_second": 30,
+ "lines": [
+  {
+   "start": 130,
+   "end": 242,
+   "text": "ほ～んと～に、すまん"
+  },
+  {
+   "start": 264,
+   "end": 368,
+   "text": "まこと～に、すまん"
+  },
+  {
+   "start": 375,
+   "end": 482,
+   "text": "てっきり空賊と思うて、撃ってしもたんじゃ",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "くう"
+    },
+    {
+     "index": 5,
+     "reading": "そがく"
+    },
+    {
+     "index": 7,
+     "reading": "おも"
+    },
+    {
+     "index": 11,
+     "reading": "う"
+    }
+   ]
+  },
+  {
+   "start": 482,
+   "end": 569,
+   "text": "ゆるして…くれんかのぅ？"
+  },
+  {
+   "start": 569,
+   "end": 619,
+   "text": "「大いなる遺産」の鍵のウワサを",
+   "ruby": [
+    {
+     "index": 1,
+     "reading": "おお"
+    },
+    {
+     "index": 5,
+     "reading": "い"
+    },
+    {
+     "index": 6,
+     "reading": "さん"
+    },
+    {
+     "index": 9,
+     "reading": "かきが"
+    }
+   ]
+  },
+  {
+   "start": 619,
+   "end": 683,
+   "text": "グライド一家がかぎつけてね",
+   "ruby": [
+    {
+     "index": 4,
+     "reading": "いっ"
+    },
+    {
+     "index": 5,
+     "reading": "か"
+    }
+   ]
+  },
+  {
+   "start": 685,
+   "end": 757,
+   "text": "何度もヤツらの襲撃を受けているんだよ",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "なん"
+    },
+    {
+     "index": 1,
+     "reading": "とが"
+    },
+    {
+     "index": 7,
+     "reading": "しゅう"
+    },
+    {
+     "index": 8,
+     "reading": "けがき"
+    },
+    {
+     "index": 10,
+     "reading": "う"
+    }
+   ]
+  },
+  {
+   "start": 776,
+   "end": 818,
+   "text": "ボク達は大丈夫です",
+   "ruby": [
+    {
+     "index": 2,
+     "reading": "たち"
+    },
+    {
+     "index": 4,
+     "reading": "たがいぐ"
+    },
+    {
+     "index": 5,
+     "reading": "しがょ"
+    },
+    {
+     "index": 6,
+     "reading": "うふが"
+    }
+   ]
+  },
+  {
+   "start": 823,
+   "end": 865,
+   "text": "船もケイショウですし",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "ふね"
+    }
+   ]
+  },
+  {
+   "start": 887,
+   "end": 984,
+   "text": "これぐらいなら…すぐ直せると思います",
+   "ruby": [
+    {
+     "index": 10,
+     "reading": "なお"
+    },
+    {
+     "index": 14,
+     "reading": "おも"
+    }
+   ]
+  },
+  {
+   "start": 984,
+   "end": 1027,
+   "text": "気にしないでください",
+   "ruby": [
+    {
+     "index": 0,
+     "reading": "き"
+    }
+   ]
+  },
+  {
+   "start": 1031,
+   "end": 1124,
+   "text": "ま、ちょっとドタバタしとるが"
+  },
+  {
+   "start": 1141,
+   "end": 1222,
+   "text": "ディグアウターギルドもあることじゃし"
+  },
+  {
+   "start": 1227,
+   "end": 1289,
+   "text": "ゆる～りしていってくれ"
+  }
+ ]
+}
